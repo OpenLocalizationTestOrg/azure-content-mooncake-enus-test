@@ -1,299 +1,126 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 209
+ Total Files | 108
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\active-directory-aadconnect-dirsync-upgrade-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnect-dirsync-upgrade-get-started.md) | HandedOffSuccess | [Details](#4084f1eaac5cad259cd74075744586c0d8d4b2535)
- [articles\active-directory-aadconnect-get-started-custom-device-writeback.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnect-get-started-custom-device-writeback.md) | HandedOffSuccess | [Details](#3c551a3e402e5e10bb683557b61e5914d4d3edc68)
- [articles\active-directory-aadconnect-get-started-tools-comparison.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnect-get-started-tools-comparison.md) | HandedOffSuccess | [Details](#f9dc7739ad447a3b36c256e7edf6b3b265cc5ff111)
- [articles\active-directory-aadconnectsync-attributes-synchronized.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnectsync-attributes-synchronized.md) | HandedOffSuccess | [Details](#c7587344275da67e8bcbe78909dbe0e4aa2db7c026)
  [articles\active-directory-aadconnectsync-best-practices-changing-default-configuration.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnectsync-best-practices-changing-default-configuration.md) | HandedOffSuccess | [Details](#35da5ae0a0a228d258a5dcc0f53a60057034460427)
- [articles\active-directory-aadconnectsync-feature-prevent-accidental-deletes.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnectsync-feature-prevent-accidental-deletes.md) | HandedOffSuccess | [Details](#f59afbea6ac9186fc9fe824fcbceb36a3765a66329)
- [articles\active-directory-aadconnectsync-implement-password-synchronization.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnectsync-implement-password-synchronization.md) | HandedOffSuccess | [Details](#b9fa19ae51918aa8cf793ea77792706a99c475da31)
  [articles\active-directory-aadconnectsync-understanding-declarative-provisioning-expressions.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnectsync-understanding-declarative-provisioning-expressions.md) | HandedOffSuccess | [Details](#219803f1dab7811b6417bda54777161013b5b41d35)
- [articles\active-directory-aadconnectsync-understanding-users-and-contacts.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnectsync-understanding-users-and-contacts.md) | HandedOffSuccess | [Details](#8277de7f5ca91ac6e835593ed9ff6f6a91342ec936)
- [articles\active-directory-how-subscriptions-associated-directory.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-how-subscriptions-associated-directory.md) | HandedOffSuccess | [Details](#c739e11b5eb1519a51efc19ec0133c5faf6dc2ef56)
- [articles\active-directory-java-authenticate-users-access-control-eclipse.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-java-authenticate-users-access-control-eclipse.md) | HandedOffSuccess | [Details](#3690e6dac0488a6697c64e302210924928de765659)
- [articles\active-directory-java-view-saml-returned-by-access-control.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-java-view-saml-returned-by-access-control.md) | HandedOffSuccess | [Details](#be0eaf99a264fbf168ea4725fe9363b53780210860)
- [articles\azure-architectures-cpif-foundation-global-load-balanced-web-tier.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/azure-architectures-cpif-foundation-global-load-balanced-web-tier.md) | HandedOffSuccess | [Details](#ef07eef58bae304eeb8e88dd11c19f95e61d964b156)
- [articles\azure-architectures-cpif-foundation-multi-site-data-tier.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/azure-architectures-cpif-foundation-multi-site-data-tier.md) | HandedOffSuccess | [Details](#d99ec7c08f685b1694d7c8a6e2959e0fed3510a0157)
- [articles\azure-architectures-cpif-foundation-offsite-batch-processing-tier.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/azure-architectures-cpif-foundation-offsite-batch-processing-tier.md) | HandedOffSuccess | [Details](#3b11676e01aaf1c4a9cf07cd02a500aa3ca281fc158)
- [articles\azure-architectures-cpif-infrastructure-hybrid-networking.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/azure-architectures-cpif-infrastructure-hybrid-networking.md) | HandedOffSuccess | [Details](#49d42a0c531b70d20052f8df91173fc5719c0033159)
- [articles\cloud-services-performance-testing-visual-studio-profiler.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/cloud-services-performance-testing-visual-studio-profiler.md) | HandedOffSuccess | [Details](#f104e245c148c5cdb6c4d8991fb41878f1f0f377283)
- [articles\cloud-services-troubleshoot-common-issues-which-cause-roles-recycle.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/cloud-services-troubleshoot-common-issues-which-cause-roles-recycle.md) | HandedOffSuccess | [Details](#56bea1d04b777df93c1148c35c018681c0787a35296)
+ [articles\azure-architectures-cpif-foundation-offsite-batch-processing-tier.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/azure-architectures-cpif-foundation-offsite-batch-processing-tier.md) | HandedOffSuccess | [Details](#84c035b4a0f0c7ac79c70f81c6ed40ce09ee8050158)
  [articles\cloud-services-troubleshoot-default-temp-folder-size-too-small-web-worker-role.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/cloud-services-troubleshoot-default-temp-folder-size-too-small-web-worker-role.md) | HandedOffSuccess | [Details](#5416086377dade06db3f0fa30a1929fdd0751a10297)
- [articles\cloud-services-virtual-machines-dotnet-continuous-delivery-remote-debugging.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/cloud-services-virtual-machines-dotnet-continuous-delivery-remote-debugging.md) | HandedOffSuccess | [Details](#a07d83207d3e7579e6d80acb2e64815d8f3023e0301)
- [articles\data-management-azure-sql-database-and-sql-server-iaas.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/data-management-azure-sql-database-and-sql-server-iaas.md) | HandedOffSuccess | [Details](#3a708296e1c32d55da34b1fd55567d8ad7142a8f303)
- [articles\media-services-dotnet-configure-content-key-auth-policy.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-dotnet-configure-content-key-auth-policy.md) | HandedOffSuccess | [Details](#446f7cf4b5bf80d44ff4b37e822d1f3b0f811ac7464)
- [articles\media-services-dotnet-creating-live-encoder-enabled-channel.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-dotnet-creating-live-encoder-enabled-channel.md) | HandedOffSuccess | [Details](#16c32913d075ba9655667b1817933430c2ff9e96467)
- [articles\media-services-dotnet-encode-with-media-encoder-standard.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-dotnet-encode-with-media-encoder-standard.md) | HandedOffSuccess | [Details](#34e4506759bb7fad0739c58cba834778479ceef0470)
- [articles\media-services-dotnet-live-encode-with-onpremises-encoders.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-dotnet-live-encode-with-onpremises-encoders.md) | HandedOffSuccess | [Details](#0eff6c8df34656583077cc4d99e2e2aefe7c39b0475)
- [articles\media-services-portal-configure-content-key-auth-policy.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-portal-configure-content-key-auth-policy.md) | HandedOffSuccess | [Details](#d527b33011357e546609f991f7ca7348f26e8183508)
- [articles\media-services-portal-creating-live-encoder-enabled-channel.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-portal-creating-live-encoder-enabled-channel.md) | HandedOffSuccess | [Details](#374fd203ab7e7cf5096c7d1de9bf51cbc3fe367d509)
- [articles\media-services-use-osmf-smooth-streaming-client-plugin.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-use-osmf-smooth-streaming-client-plugin.md) | HandedOffSuccess | [Details](#f94453f13574539be9d083acbb70fa8118e75055535)
- [articles\mobile-services-dotnet-backend-android-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-android-get-started-push.md) | HandedOffSuccess | [Details](#b7b760195a4a7b5184aa1602a7ec27e9585b035910866)
- [articles\mobile-services-dotnet-backend-android-get-started-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-android-get-started-users.md) | HandedOffSuccess | [Details](#6af55ba8da9eaa46aa234e3d3ab0a9739737570810867)
- [articles\mobile-services-dotnet-backend-get-started-custom-authentication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-get-started-custom-authentication.md) | HandedOffSuccess | [Details](#18b5a0909de0f97139be083f09d790791446000710870)
- [articles\mobile-services-dotnet-backend-how-to-configure-iis-express.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-how-to-configure-iis-express.md) | HandedOffSuccess | [Details](#1d738665bf96a31dc56a29668601c2143fcc678710871)
- [articles\mobile-services-dotnet-backend-how-to-use-code-first-migrations.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-how-to-use-code-first-migrations.md) | HandedOffSuccess | [Details](#87902104a44b3c7fd2176aeb5c5590658717c87f10873)
- [articles\mobile-services-dotnet-backend-hybrid-connections-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-hybrid-connections-get-started.md) | HandedOffSuccess | [Details](#7ebe3a4974430b0e4c100db18905cbce405be78410874)
- [articles\mobile-services-dotnet-backend-ios-adal-sso-authentication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-ios-adal-sso-authentication.md) | HandedOffSuccess | [Details](#8ae118bed112d326005b024b09ef9058e5aceb8110875)
- [articles\mobile-services-dotnet-backend-ios-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-ios-push-notifications-app-users.md) | HandedOffSuccess | [Details](#5f1684a9f9b0dd7213ed520883ae2832f5dad14d10879)
- [articles\mobile-services-dotnet-backend-service-side-authorization.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-service-side-authorization.md) | HandedOffSuccess | [Details](#f7c055e5b8739f60f91bb99dabede32cddae87a910880)
- [articles\mobile-services-dotnet-backend-store-code-source-control.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-store-code-source-control.md) | HandedOffSuccess | [Details](#a1d8a9076eb169dcb95f99ec2c7a5b19e5ea4e0d10881)
- [articles\mobile-services-dotnet-backend-store-data-table-storage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-store-data-table-storage.md) | HandedOffSuccess | [Details](#4a808d2cc2a57012074662ae027baae0795cf40210882)
- [articles\mobile-services-dotnet-backend-use-existing-sql-database.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-use-existing-sql-database.md) | HandedOffSuccess | [Details](#eafff7628f59ba4d431bd5bd745133963147734b10883)
- [articles\mobile-services-dotnet-backend-windows-store-dotnet-aad-rbac.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-store-dotnet-aad-rbac.md) | HandedOffSuccess | [Details](#785287e8db13f64e007b9281a01a5d5ed710df5f10884)
- [articles\mobile-services-dotnet-backend-windows-store-dotnet-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-store-dotnet-get-started.md) | HandedOffSuccess | [Details](#7c80bb5820871ebb7d912d85372834b3ec3b1ad110885)
- [articles\mobile-services-dotnet-backend-windows-store-dotnet-leaderboard.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-store-dotnet-leaderboard.md) | HandedOffSuccess | [Details](#895c42f6a0e334709902aa2c0c8b69d70085006e10886)
+ [articles\media\active-directory-passwords-learn-more\001.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-learn-more/001.jpg) | HandedOffSuccess | [Details](#b2217694e4f9a7e78f85517c3cde50d87a74f488976)
+ [articles\media\active-directory-passwords-learn-more\002.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-learn-more/002.jpg) | HandedOffSuccess | [Details](#f7dc2a11e09b31a145b237483018e15811aa6d5f977)
+ [articles\media\active-directory-passwords-troubleshoot\001.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-troubleshoot/001.jpg) | HandedOffSuccess | [Details](#465a5075033240cdbbc20d0af08ad84d8eb8fed7978)
+ [articles\media\active-directory-passwords-troubleshoot\002.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-troubleshoot/002.jpg) | HandedOffSuccess | [Details](#bdbce8832f10fee8598933e6e43c69b50eb12cea979)
+ [articles\media\active-directory-passwords-troubleshoot\003.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-troubleshoot/003.jpg) | HandedOffSuccess | [Details](#64d2267aa3815d36ffc5d9876ccbe7ad49434abd980)
+ [articles\media\active-directory-passwords-update-your-own-password\001.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/001.jpg) | HandedOffSuccess | [Details](#72274c059a7ab40b0d0f4ac541cb068f2cd4189a982)
+ [articles\media\active-directory-passwords-update-your-own-password\002.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/002.jpg) | HandedOffSuccess | [Details](#8a9328dcca0fed373b1ac2b2ae8597f111208e81983)
+ [articles\media\active-directory-passwords-update-your-own-password\003.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/003.jpg) | HandedOffSuccess | [Details](#4c25c01d3f8e5f9db12b9d2c533d57fb1edbfd80984)
+ [articles\media\active-directory-passwords-update-your-own-password\004.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/004.jpg) | HandedOffSuccess | [Details](#6ec1acd5572a40c37d7bd1524eba30cb4217d6cb985)
+ [articles\media\active-directory-passwords-update-your-own-password\005.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/005.jpg) | HandedOffSuccess | [Details](#8c08100fe57b5fee2d1b1c7891bc51d0bd749a33986)
+ [articles\media\active-directory-passwords-update-your-own-password\006.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/006.jpg) | HandedOffSuccess | [Details](#345e865c005a9024fcc2e45d2dc3347ebd6cba3d987)
+ [articles\media\active-directory-passwords-update-your-own-password\007.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/007.jpg) | HandedOffSuccess | [Details](#b1474e2864b90068fc0349851d31e437b1f19f78988)
+ [articles\media\active-directory-passwords-update-your-own-password\008.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/008.jpg) | HandedOffSuccess | [Details](#071606d23993ec2344d3625dc32b653d05ead2c5989)
+ [articles\media\active-directory-passwords-update-your-own-password\009.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/009.jpg) | HandedOffSuccess | [Details](#589f02cfd593f1f49566ac7c21f80135f980480b990)
+ [articles\media\active-directory-passwords-update-your-own-password\010.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/010.jpg) | HandedOffSuccess | [Details](#6a122924b3ea0eb76c6462ec8470e8328610273b991)
+ [articles\media\active-directory-passwords-update-your-own-password\011.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/011.jpg) | HandedOffSuccess | [Details](#9fe774ef379b362925cfa4e1ac11384d2c8f3eb4992)
+ [articles\media\active-directory-passwords-update-your-own-password\012.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/012.jpg) | HandedOffSuccess | [Details](#73de65d24f887c351a81d54d363a1a37a3e17071993)
+ [articles\media\active-directory-passwords-update-your-own-password\013.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/013.jpg) | HandedOffSuccess | [Details](#2b579f24e5445b3e71f8cc993ef1f200302f88df994)
+ [articles\media\active-directory-passwords-update-your-own-password\014.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/014.jpg) | HandedOffSuccess | [Details](#4c734fabd7a5407b87f870e8979c4317e3737ba4995)
+ [articles\media\active-directory-passwords-update-your-own-password\015.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/015.jpg) | HandedOffSuccess | [Details](#e3ea39791c05f09cf37058cc84ce2602381e49f4996)
+ [articles\media\data-management-azure-sql-database-and-sql-server-iaas\SQLIAAS_SQL_Server_Cloud_Continuum.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/data-management-azure-sql-database-and-sql-server-iaas/SQLIAAS_SQL_Server_Cloud_Continuum.png) | HandedOffSuccess | [Details](#f2df84ca21083d49c8e1da979b16f882fc60c2363180)
+ [articles\media\hdinsight-giraph\giraph-graph.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-giraph/giraph-graph.png) | HandedOffSuccess | [Details](#3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e3659)
+ [articles\media\hdinsight-giraph\giraph-graph-out.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-giraph/giraph-graph-out.png) | HandedOffSuccess | [Details](#46683c560067cda67e1a31b1f9bec686ad6c14653658)
+ [articles\media\hdinsight-hadoop-customize-cluster\HDI.CustomProvision.Page6.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-customize-cluster/HDI.CustomProvision.Page6.png) | HandedOffSuccess | [Details](#26bcbc79d608e34a063520caa0266140f6f007ec3664)
+ [articles\media\hdinsight-hadoop-customize-cluster\HDI-Cluster-state.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-customize-cluster/HDI-Cluster-state.png) | HandedOffSuccess | [Details](#74793ffc7dc7228740ca94191e1dd1295e52078d3663)
+ [articles\media\hdinsight-hadoop-customize-cluster-v1\HDI.CustomProvision.Page6.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-customize-cluster-v1/HDI.CustomProvision.Page6.png) | HandedOffSuccess | [Details](#26bcbc79d608e34a063520caa0266140f6f007ec3662)
+ [articles\media\hdinsight-hadoop-customize-cluster-v1\HDI-Cluster-state.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-customize-cluster-v1/HDI-Cluster-state.png) | HandedOffSuccess | [Details](#74793ffc7dc7228740ca94191e1dd1295e52078d3661)
+ [articles\media\hdinsight-hadoop-giraph-install\giraph-graph.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-giraph-install/giraph-graph.png) | HandedOffSuccess | [Details](#3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e3674)
+ [articles\media\hdinsight-hadoop-giraph-install\giraph-graph-out.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-giraph-install/giraph-graph-out.png) | HandedOffSuccess | [Details](#46683c560067cda67e1a31b1f9bec686ad6c14653673)
+ [articles\media\hdinsight-hadoop-giraph-install\hdi-script-action-giraph.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-giraph-install/hdi-script-action-giraph.png) | HandedOffSuccess | [Details](#c22d658875fe50589ce983f5aeeb9473543281813675)
+ [articles\media\hdinsight-hadoop-giraph-install-v1\giraph-graph.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-giraph-install-v1/giraph-graph.png) | HandedOffSuccess | [Details](#3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e3671)
+ [articles\media\hdinsight-hadoop-giraph-install-v1\giraph-graph-out.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-giraph-install-v1/giraph-graph-out.png) | HandedOffSuccess | [Details](#46683c560067cda67e1a31b1f9bec686ad6c14653670)
+ [articles\media\hdinsight-hadoop-giraph-install-v1\hdi-script-action-giraph.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-giraph-install-v1/hdi-script-action-giraph.png) | HandedOffSuccess | [Details](#c22d658875fe50589ce983f5aeeb9473543281813672)
+ [articles\media\hdinsight-hadoop-r-scripts\hdi-r-script-action.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-r-scripts/hdi-r-script-action.png) | HandedOffSuccess | [Details](#748854d97a3e9cef42b58ec9f0da32e8dc186a713762)
+ [articles\media\hdinsight-hadoop-solr-install\hdi-script-action-solr.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-solr-install/hdi-script-action-solr.png) | HandedOffSuccess | [Details](#23662328b7402264e270b22d447de099d9ca2e8b3771)
+ [articles\media\hdinsight-hadoop-solr-install\hdi-solr-dashboard-query.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-solr-install/hdi-solr-dashboard-query.png) | HandedOffSuccess | [Details](#27ecb7c701ed6bd0bddb7701de222160e7fcb0cd3772)
+ [articles\media\hdinsight-hadoop-solr-install-v1\hdi-script-action-solr.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-solr-install-v1/hdi-script-action-solr.png) | HandedOffSuccess | [Details](#23662328b7402264e270b22d447de099d9ca2e8b3769)
+ [articles\media\hdinsight-hadoop-solr-install-v1\hdi-solr-dashboard-query.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-solr-install-v1/hdi-solr-dashboard-query.png) | HandedOffSuccess | [Details](#27ecb7c701ed6bd0bddb7701de222160e7fcb0cd3770)
+ [articles\media\multi-factor-authentication-end-user-first-time\first.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/multi-factor-authentication-end-user-first-time/first.png) | HandedOffSuccess | [Details](#84b665da0f740ebe688b8c71ed6bd10dff1022715611)
+ [articles\media\sql-database-elastic-jobs-service-installation\credentials.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-jobs-service-installation/credentials.png) | HandedOffSuccess | [Details](#a20df7082ab0fb675ed24e99571b6bc9097716607407)
+ [articles\media\sql-database-elastic-jobs-service-installation\start-board.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-jobs-service-installation/start-board.png) | HandedOffSuccess | [Details](#8e892907412ae316946bfdab5348fcda3aae8f097414)
+ [articles\media\sql-database-elastic-scale-configure-deploy-split-and-merge\allowed-services.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-scale-configure-deploy-split-and-merge/allowed-services.png) | HandedOffSuccess | [Details](#86c4e83ebfe076d85eb5fce4f73ded11ac6667167456)
+ [articles\media\sql-database-elastic-scale-configure-deploy-split-and-merge\staging.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-scale-configure-deploy-split-and-merge/staging.png) | HandedOffSuccess | [Details](#c10aa6f1f2e5b66d3ddcede921e55fee1d9a62f17457)
+ [articles\media\sql-database-elastic-scale-configure-deploy-split-and-merge\upload.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-scale-configure-deploy-split-and-merge/upload.png) | HandedOffSuccess | [Details](#20e50793f2ce19dba85a4351f60f2a3b920aa7107458)
+ [articles\media\sql-database-elastic-scale-split-and-merge-tutorial\staging.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-scale-split-and-merge-tutorial/staging.png) | HandedOffSuccess | [Details](#c10aa6f1f2e5b66d3ddcede921e55fee1d9a62f17510)
+ [articles\media\sql-database-elastic-scale-split-and-merge-tutorial\upload.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-scale-split-and-merge-tutorial/upload.png) | HandedOffSuccess | [Details](#20e50793f2ce19dba85a4351f60f2a3b920aa7107512)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE01.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE01.png) | HandedOffSuccess | [Details](#0dca11997bc8b9c72767f74098b5f421025797f57969)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE02.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE02.png) | HandedOffSuccess | [Details](#c96396eebd4b653cbfde3ef1972b1ea5d803e8747970)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE03.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE03.png) | HandedOffSuccess | [Details](#a57d8ed84e4b32e14bc711f79c744478762dd7697971)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE04.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE04.png) | HandedOffSuccess | [Details](#a5f243c57a54941d4cf606db230eb9891c68fbcc7972)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE05.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE05.png) | HandedOffSuccess | [Details](#411ce74e23e1a81a3c78c3df7607c088738218d17973)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE06.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE06.png) | HandedOffSuccess | [Details](#579d211a95b3b7552d265def4e081dc5f99186147974)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE07.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE07.png) | HandedOffSuccess | [Details](#002fc2b11a82cf35bf7f09e4389cdc1a6fc26d2c7975)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE08.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE08.png) | HandedOffSuccess | [Details](#296da6cb663ef42db1df9581600b81e2d10211147976)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE09.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE09.png) | HandedOffSuccess | [Details](#579d211a95b3b7552d265def4e081dc5f99186147977)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE10.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE10.png) | HandedOffSuccess | [Details](#6bd96f95daac2190b82321c6aa8d79acc406b0277978)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE11.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE11.png) | HandedOffSuccess | [Details](#06069d027a71949e571b6aa99211094441469b187979)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE12.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE12.png) | HandedOffSuccess | [Details](#0115879dec6f1419389f218ff035b07b52a011ef7980)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE13.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE13.png) | HandedOffSuccess | [Details](#3e843e4092bfaa9e9e7c7454355c94a30fc5e1d97981)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE14.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE14.png) | HandedOffSuccess | [Details](#4428ed7401db7f55d03b3bec418323da92771a697982)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE15.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE15.png) | HandedOffSuccess | [Details](#0ed88900597be76eeb3b46c89d130f04d1da3be57983)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE16.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE16.png) | HandedOffSuccess | [Details](#45106cd83e21c0aca91279ad37e8461cca7235037984)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE17.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE17.png) | HandedOffSuccess | [Details](#071e2e453a0ce2ad6f8adfd23a8110fda3e0559e7985)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE18.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE18.png) | HandedOffSuccess | [Details](#579d211a95b3b7552d265def4e081dc5f99186147986)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE19.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE19.png) | HandedOffSuccess | [Details](#8aaf69ba289ca26fb73873f2e0ee42fcc7a22dcd7987)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE20.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE20.png) | HandedOffSuccess | [Details](#2fea4dbfaa93cf24dcb977242780a28deebcc8e67988)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE21.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE21.png) | HandedOffSuccess | [Details](#ec4f073d5f1653acc9a707b149a6eae7180924837989)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE22.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE22.png) | HandedOffSuccess | [Details](#85a9d21fa7433a841740ffcf8bec6ca51ce7c7017990)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE23.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE23.png) | HandedOffSuccess | [Details](#365dfb242856fe1b4c2ee486d2f402939cfea90d7991)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE24.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE24.png) | HandedOffSuccess | [Details](#8f3c79ddc102cc09e16a82861437109db84d4ea27992)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE25.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE25.png) | HandedOffSuccess | [Details](#4d8ffaafabcea78c1f0c73abcb7f57b7b55bfd3e7993)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE26.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE26.png) | HandedOffSuccess | [Details](#0668aeaaaf7482a5b71dc912eec99462d0a3dcd77994)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE27.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE27.png) | HandedOffSuccess | [Details](#0ece566413601b3ced00a69c81dec7b3f2a93a9c7995)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE28.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE28.png) | HandedOffSuccess | [Details](#6ddf3257d807639b07d241b1de7b1be1df27b3ec7996)
+ [articles\media\storage-table-design-guide\storage-table-design-IMAGE29.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE29.png) | HandedOffSuccess | [Details](#5779d78e5592acd06817cab38c1e2c2390dfa6c77997)
+ [articles\media\stream-analytics-scale-jobs\perf.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/stream-analytics-scale-jobs/perf.png) | HandedOffSuccess | [Details](#74b98f627373f64060783454c6fa039e2caf95d68221)
+ [articles\media\stream-analytics-scale-jobs\StreamAnalytics.job.monitor.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/stream-analytics-scale-jobs/StreamAnalytics.job.monitor.png) | HandedOffSuccess | [Details](#37e2f6af27c2509d31562bac2438c4eb27fe02ee8223)
+ [articles\media\stream-analytics-scale-jobs\StreamAnalyticsStreamingUnitsExample.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/stream-analytics-scale-jobs/StreamAnalyticsStreamingUnitsExample.jpg) | HandedOffSuccess | [Details](#e220b4f0f5d796d9664377df8a75cd77ec16a7ff8224)
+ [articles\media\virtual-machines-linux-nodejs-running-cassandra\cassandra-linux1.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-linux-nodejs-running-cassandra/cassandra-linux1.png) | HandedOffSuccess | [Details](#3ef4e6ff7747a0065d67c28e4a9aec57832c76518618)
+ [articles\media\virtual-machines-linux-nodejs-running-cassandra\cassandra-linux2.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-linux-nodejs-running-cassandra/cassandra-linux2.png) | HandedOffSuccess | [Details](#19468068506d337d3ebcc7eeb3f067606a0d3c318619)
+ [articles\media\virtual-machines-python-ipython-notebook\anaconda-install.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/anaconda-install.png) | HandedOffSuccess | [Details](#042e381c007b523aaafde75fbc062fdcde19fcd98787)
+ [articles\media\virtual-machines-python-ipython-notebook\ipy-azure-linux-005.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/ipy-azure-linux-005.png) | HandedOffSuccess | [Details](#249b93e499cc74245b93549a7ef06d08cd2ff4848789)
+ [articles\media\virtual-machines-python-ipython-notebook\ipy-azure-linux-006.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/ipy-azure-linux-006.png) | HandedOffSuccess | [Details](#d937f03b7b725b7bc34efe95f8aafa77d9b02f2c8790)
+ [articles\media\virtual-machines-python-ipython-notebook\ipy-notebook-spectral.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/ipy-notebook-spectral.png) | HandedOffSuccess | [Details](#a4275b3479fffe069b8025588e5627d9219271c18799)
+ [articles\media\virtual-machines-python-ipython-notebook\jupyter-editing-experience.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/jupyter-editing-experience.png) | HandedOffSuccess | [Details](#59e14695f6c71b3bd213bdc252d9bfe6ddf06dc28800)
+ [articles\media\virtual-machines-python-ipython-notebook\jupyter-tree-view.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/jupyter-tree-view.png) | HandedOffSuccess | [Details](#cf2b978f2fec646abaddfd9cbc9aa99f6cf236288801)
+ [articles\media\virtual-machines-python-ipython-notebook\jupyter-untitled-notebook.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/jupyter-untitled-notebook.png) | HandedOffSuccess | [Details](#9b16b34540c842eae27a8ad252b6632c574677bf8802)
  [articles\mobile-services-dotnet-backend-windows-store-dotnet-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-store-dotnet-push-notifications-app-users.md) | HandedOffSuccess | [Details](#bedb241a1d5e6138431eb4ce892701ff21d750ca10887)
- [articles\mobile-services-dotnet-backend-windows-universal-dotnet-get-started-data.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-universal-dotnet-get-started-data.md) | HandedOffSuccess | [Details](#af7d63a75433a04eeb17fd76c66081d5562b51b810888)
- [articles\mobile-services-dotnet-backend-windows-universal-dotnet-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-universal-dotnet-get-started-push.md) | HandedOffSuccess | [Details](#6768546caeff3dd1f227ace0ade6b8c5b9aa0e9410889)
- [articles\mobile-services-dotnet-backend-windows-universal-dotnet-get-started-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-universal-dotnet-get-started-users.md) | HandedOffSuccess | [Details](#875fb791f641a94dede9c7a1acc4ccf465a213ab10890)
  [articles\mobile-services-dotnet-backend-windows-universal-dotnet-upload-data-blob-storage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-universal-dotnet-upload-data-blob-storage.md) | HandedOffSuccess | [Details](#fe78f8a149b1bfefbb140b1d7c8c17cfe265505c10891)
- [articles\mobile-services-dotnet-backend-xamarin-android-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-xamarin-android-get-started.md) | HandedOffSuccess | [Details](#1236fcba0c5a524f2797fe951ccbc18f568f6f6d10894)
- [articles\mobile-services-dotnet-backend-xamarin-android-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-xamarin-android-get-started-push.md) | HandedOffSuccess | [Details](#a87313422b163dbad3e4516093e31aeacd96b3a410892)
- [articles\mobile-services-dotnet-backend-xamarin-android-get-started-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-xamarin-android-get-started-users.md) | HandedOffSuccess | [Details](#24aa6032bfff76de3a10bf298f5039636e9f715610893)
- [articles\mobile-services-dotnet-backend-xamarin-ios-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-xamarin-ios-get-started.md) | HandedOffSuccess | [Details](#d88d25049cd295db18212cb8ff23b4379f336ed510897)
- [articles\mobile-services-dotnet-backend-xamarin-ios-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-xamarin-ios-get-started-push.md) | HandedOffSuccess | [Details](#9cf71970cde5bfff0a3d1a26e6a2e5e6c532259a10895)
- [articles\mobile-services-dotnet-backend-xamarin-ios-get-started-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-xamarin-ios-get-started-users.md) | HandedOffSuccess | [Details](#b6d287e21cf2e637f6ab8d273b3520e8e6cf016d10896)
- [articles\mobile-services-how-to-register-active-directory-authentication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-how-to-register-active-directory-authentication.md) | HandedOffSuccess | [Details](#cba5b78ba0ba888e6c18a8129e99b1c64eb71d0710899)
- [articles\mobile-services-how-to-register-microsoft-authentication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-how-to-register-microsoft-authentication.md) | HandedOffSuccess | [Details](#f654b10e041ee28959df625b929a8d7bd78f518e10900)
- [articles\mobile-services-how-to-use-multiple-clients-single-service.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-how-to-use-multiple-clients-single-service.md) | HandedOffSuccess | [Details](#ff74c810c0b07915ddd23c25e005711e29d3391f10901)
- [articles\mobile-services-javascript-backend-android-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-android-get-started-push.md) | HandedOffSuccess | [Details](#3baf8acefd805e11e84514c674aada537f303db110911)
- [articles\mobile-services-javascript-backend-ios-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-ios-get-started-push.md) | HandedOffSuccess | [Details](#f77dc41063cc0169b9d1eb5a20c15708e83e2f0410913)
- [articles\mobile-services-javascript-backend-ios-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-ios-push-notifications-app-users.md) | HandedOffSuccess | [Details](#4c7784be17d884fc64ba7cffc13dc1a8e38af22d10914)
- [articles\mobile-services-javascript-backend-phonegap-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-phonegap-get-started.md) | HandedOffSuccess | [Details](#a328640a0a722d2010a4ca2999a2adad27a0429610915)
- [articles\mobile-services-javascript-backend-service-side-authorization.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-service-side-authorization.md) | HandedOffSuccess | [Details](#b41f09b01c22ba1f999ae6bdcba72b3b9c699c3f10916)
- [articles\mobile-services-javascript-backend-windows-phone-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-phone-get-started-push.md) | HandedOffSuccess | [Details](#c6bd3b086c866ba6376c460f731f140e2ffdfb4310917)
- [articles\mobile-services-javascript-backend-windows-store-dotnet-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-store-dotnet-get-started.md) | HandedOffSuccess | [Details](#2e12d3fae2fc22997df5cf16727c789b8bdc968f10918)
  [articles\mobile-services-javascript-backend-windows-store-dotnet-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-store-dotnet-push-notifications-app-users.md) | HandedOffSuccess | [Details](#e1e8f62e4362df388d9c840c7bb799439c77d69210919)
- [articles\mobile-services-javascript-backend-windows-store-javascript-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-store-javascript-get-started.md) | HandedOffSuccess | [Details](#1a8f5c3b30e85f94ac91e29c66e666453f92016710920)
  [articles\mobile-services-javascript-backend-windows-universal-dotnet-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-universal-dotnet-get-started-push.md) | HandedOffSuccess | [Details](#8248845e47a84b997a2a5ae687d58f70c81b1b2f10921)
  [articles\mobile-services-javascript-backend-windows-universal-dotnet-get-started-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-universal-dotnet-get-started-users.md) | HandedOffSuccess | [Details](#f1992d51c5ebb49a2a83fe4dde80fc0c36de7b6910922)
  [articles\mobile-services-javascript-backend-windows-universal-dotnet-upload-data-blob-storage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-universal-dotnet-upload-data-blob-storage.md) | HandedOffSuccess | [Details](#be59e2ab922d722d2c9009c74f592e6950cecf3910923)
- [articles\mobile-services-windows-store-dotnet-adal-sso-authentication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-windows-store-dotnet-adal-sso-authentication.md) | HandedOffSuccess | [Details](#9b8b69174873be24230ab5ad9fd33e45c7dd85fe10930)
- [articles\mobile-services-windows-store-dotnet-get-started-offline-data.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-windows-store-dotnet-get-started-offline-data.md) | HandedOffSuccess | [Details](#43c3c84044880e305f36734e103922eb0b9a6b5010931)
- [articles\mobile-services-windows-store-dotnet-handle-database-conflicts.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-windows-store-dotnet-handle-database-conflicts.md) | HandedOffSuccess | [Details](#85ae7cf08697e2038f372d60aa60fe55fc03cbf910932)
- [articles\mobile-services-windows-store-dotnet-handling-conflicts-offline-data.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-windows-store-dotnet-handling-conflicts-offline-data.md) | HandedOffSuccess | [Details](#1b6005b699bfe393dde69dc90bcb2ef6b04c938e10933)
- [articles\mobile-services-xamarin-android-get-started-offline-data.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-xamarin-android-get-started-offline-data.md) | HandedOffSuccess | [Details](#eed0cfbba80595ec18617bfd96e3b6069d1323db10934)
- [articles\multi-factor-authentication-end-user-app-passwords-create-azure.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-app-passwords-create-azure.md) | HandedOffSuccess | [Details](#73b00d22849dc9c726f458fb032939f1e72a509810936)
- [articles\multi-factor-authentication-end-user-app-passwords-create-myapps.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-app-passwords-create-myapps.md) | HandedOffSuccess | [Details](#e7f2c88f2ccf32f06e1792dfc911d6e14352257910937)
- [articles\multi-factor-authentication-end-user-app-passwords-create-o365.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-app-passwords-create-o365.md) | HandedOffSuccess | [Details](#00c3876c66ee25644c12fdbb533e13cbf977d4be10938)
- [articles\multi-factor-authentication-end-user-first-time-mobile-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-first-time-mobile-app.md) | HandedOffSuccess | [Details](#de9af308608fee6f3449c987c4992e760782fbbf10940)
- [articles\multi-factor-authentication-end-user-first-time-mobile-phone.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-first-time-mobile-phone.md) | HandedOffSuccess | [Details](#1021a4338eb26da16d13a595b4c6b74c7fa5446610941)
- [articles\multi-factor-authentication-end-user-first-time-office-phone.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-first-time-office-phone.md) | HandedOffSuccess | [Details](#a678ef4e400b8e89eddc8eb14f8e9bdb9d84f9bb10942)
- [articles\multi-factor-authentication-end-user-signin-app-notify.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-signin-app-notify.md) | HandedOffSuccess | [Details](#005ecb5c2d2680882f9b0d8815f01ab90675f6c710946)
- [articles\multi-factor-authentication-end-user-signin-app-verify.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-signin-app-verify.md) | HandedOffSuccess | [Details](#6ca4b1f2fc1611ab71cc1e2b3797336909c140c910947)
- [articles\mysql-database-enus-performance-guidance-asdb-test-result.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mysql-database-enus-performance-guidance-asdb-test-result.md) | HandedOffSuccess | [Details](#b86aa9c52fe5dea2df85f436fbe51eccfd027b6710995)
- [articles\notification-hubs-aspnet-backend-windows-dotnet-notify-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/notification-hubs-aspnet-backend-windows-dotnet-notify-users.md) | HandedOffSuccess | [Details](#05c003e8965f8961e6c24cb8b448a78962b42b4f11018)
- [articles\notification-hubs-aspnet-backend-windows-dotnet-secure-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/notification-hubs-aspnet-backend-windows-dotnet-secure-push.md) | HandedOffSuccess | [Details](#370326ab01ad19f172e66d6009cc35bdaaaf22c011019)
- [articles\notification-hubs-ios-aspnet-register-user-push-notifications.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/notification-hubs-ios-aspnet-register-user-push-notifications.md) | HandedOffSuccess | [Details](#f462de540575c68d90eb921d5b97e7a98ef8f41311026)
- [articles\notification-hubs-ios-mobile-services-register-user-push-notifications.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/notification-hubs-ios-mobile-services-register-user-push-notifications.md) | HandedOffSuccess | [Details](#64623655b6255ee13d15fa351f03d95e17600bec11028)
- [articles\notification-hubs-windows-store-dotnet-send-breaking-news.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/notification-hubs-windows-store-dotnet-send-breaking-news.md) | HandedOffSuccess | [Details](#7b0e356b5f7bca0df51a2915faffa6249b71fb6511044)
- [articles\notification-hubs-windows-store-dotnet-send-localized-breaking-news.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/notification-hubs-windows-store-dotnet-send-localized-breaking-news.md) | HandedOffSuccess | [Details](#d36715e25b419dc514dd1e23a0be79300f3eb48811045)
- [articles\partner-xamarin-mobile-services-android-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/partner-xamarin-mobile-services-android-get-started-push.md) | HandedOffSuccess | [Details](#e2a55282db371fd8bea987c7cc9e42c5a235b7e211047)
- [articles\partner-xamarin-mobile-services-android-get-started-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/partner-xamarin-mobile-services-android-get-started-users.md) | HandedOffSuccess | [Details](#12e82d92651f135289f757b0366554ec6eae389011048)
- [articles\partner-xamarin-mobile-services-xamarin-forms-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/partner-xamarin-mobile-services-xamarin-forms-get-started-push.md) | HandedOffSuccess | [Details](#ef9a2519ec1a9203afb45a30e59a78b8ba55e93e11053)
- [articles\service-bus-azure-and-service-bus-queues-compared-contrasted.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/service-bus-azure-and-service-bus-queues-compared-contrasted.md) | HandedOffSuccess | [Details](#c4660f71a0ef1aa853d34cdbed6f416780a6877211106)
- [articles\service-bus-dotnet-multi-tier-app-using-service-bus-queues.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/service-bus-dotnet-multi-tier-app-using-service-bus-queues.md) | HandedOffSuccess | [Details](#c6360e95b8264fbe06188a09257a7f4f6757427911118)
- [articles\service-bus-hybrid-applications-spanning-cloud-and-premises.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/service-bus-hybrid-applications-spanning-cloud-and-premises.md) | HandedOffSuccess | [Details](#6e03d32b15d2c2fa8577bf43ac6cee5b06c9504511121)
- [articles\service-bus-partitioned-queues-and-topics-amqp-overview.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/service-bus-partitioned-queues-and-topics-amqp-overview.md) | HandedOffSuccess | [Details](#46ed5ad30661aa7498fd362fc37510451dbf0d5011133)
- [articles\site-recovery-capacity-planning-for-hyper-v-replication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/site-recovery-capacity-planning-for-hyper-v-replication.md) | HandedOffSuccess | [Details](#604e291cd345727c7700f0c5ddc55e0ca1eeb31411158)
- [articles\site-recovery-performance-and-scaling-testing-on-premises-to-on-premises.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/site-recovery-performance-and-scaling-testing-on-premises-to-on-premises.md) | HandedOffSuccess | [Details](#5e247813ae1033abeb2decc1e8e7a72021e1e9f711173)
- [articles\site-recovery-vmm-to-vmm-with-powershell-resource-manager.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/site-recovery-vmm-to-vmm-with-powershell-resource-manager.md) | HandedOffSuccess | [Details](#31213b5700514ad30a4e5cf1e45bdfa2ceb18d4011181)
- [articles\sql-database-auditing-and-dynamic-data-masking-downlevel-clients.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-auditing-and-dynamic-data-masking-downlevel-clients.md) | HandedOffSuccess | [Details](#e7db2db180c30811ceb6cd3bb03f8b136d505d7f11249)
- [articles\sql-database-cloud-migrate-compatible-export-bacpac-sqlpackage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-compatible-export-bacpac-sqlpackage.md) | HandedOffSuccess | [Details](#4db557467cddac4572d90286c95f6c898480412211257)
- [articles\sql-database-cloud-migrate-compatible-export-bacpac-ssms.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-compatible-export-bacpac-ssms.md) | HandedOffSuccess | [Details](#ae92b8508906216c2865317647cd52a17f641c1411258)
- [articles\sql-database-cloud-migrate-compatible-import-bacpac-sqlpackage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-compatible-import-bacpac-sqlpackage.md) | HandedOffSuccess | [Details](#3b067c49ef21aa68603d43c23f3b5f8aaacf21b511259)
- [articles\sql-database-cloud-migrate-compatible-import-bacpac-ssms.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-compatible-import-bacpac-ssms.md) | HandedOffSuccess | [Details](#b8f30c61178905cbcf7b8bd915a363ee2ff33bcd11260)
- [articles\sql-database-cloud-migrate-compatible-using-ssms-migration-wizard.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-compatible-using-ssms-migration-wizard.md) | HandedOffSuccess | [Details](#fa0f0f6b79a27dde5a283776d598bb6f8122d0b511261)
- [articles\sql-database-cloud-migrate-compatible-using-transactional-replication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-compatible-using-transactional-replication.md) | HandedOffSuccess | [Details](#2048ad39460fa2709fbb413290bdf4928ea4a0bc11262)
- [articles\sql-database-cloud-migrate-determine-compatibility-sqlpackage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-determine-compatibility-sqlpackage.md) | HandedOffSuccess | [Details](#de003a47809a87a1ecf281ceabd3499b7381407911263)
- [articles\sql-database-cloud-migrate-determine-compatibility-ssms.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-determine-compatibility-ssms.md) | HandedOffSuccess | [Details](#6d85b96ecc449b319f95940565872070ce86b83711264)
- [articles\sql-database-cloud-migrate-fix-compatibility-issues-SSDT.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-fix-compatibility-issues-SSDT.md) | HandedOffSuccess | [Details](#84833905f8d48e827783e354864ec965cd15fc6311265)
- [articles\sql-database-cloud-migrate-fix-compatibility-issues-SSMS.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-fix-compatibility-issues-SSMS.md) | HandedOffSuccess | [Details](#1110c29f921d9bbaade156cae32dea98cc03a67711266)
- [articles\sql-database-designing-cloud-solutions-for-disaster-recovery.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-designing-cloud-solutions-for-disaster-recovery.md) | HandedOffSuccess | [Details](#e800e6219e5590d0866a3d5d3b730175c9dd929d11284)
- [articles\sql-database-elastic-scale-configure-deploy-split-and-merge.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-elastic-scale-configure-deploy-split-and-merge.md) | HandedOffSuccess | [Details](#2327bcf04180015d13bb956df659572fb8275e6f11329)
- [articles\sql-database-elastic-scale-split-merge-security-configuration.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-elastic-scale-split-merge-security-configuration.md) | HandedOffSuccess | [Details](#d6ace18143a2782113daeae0fc13ed3651f5eaf711340)
- [articles\sql-database-elastic-scale-use-entity-framework-applications-visual-studio.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-elastic-scale-use-entity-framework-applications-visual-studio.md) | HandedOffSuccess | [Details](#b2df5f94676574e8be321e80b57e54608163a05d11342)
- [articles\sql-database-elastic-tools-multi-tenant-row-level-security.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-elastic-tools-multi-tenant-row-level-security.md) | HandedOffSuccess | [Details](#eaf501c766326fde5bd143133ba650ed124ad55911344)
- [articles\sql-data-warehouse-business-continuity-recover-from-user-error.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-data-warehouse-business-continuity-recover-from-user-error.md) | HandedOffSuccess | [Details](#a4105a2bca6b658c0a8907599bf28e190f455b7911188)
- [articles\storage-monitoring-diagnosing-troubleshooting-classic-portal.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/storage-monitoring-diagnosing-troubleshooting-classic-portal.md) | HandedOffSuccess | [Details](#741d3bb51a58be1b793f501b7040b7675e7aece211444)
- [articles\stream-analytics-monitor-and-manage-jobs-use-powershell.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/stream-analytics-monitor-and-manage-jobs-use-powershell.md) | HandedOffSuccess | [Details](#664c7d6229ef3b2bfa2e207067f0ceef562824fe11488)
- [articles\stream-analytics-real-time-event-processing-reference-architecture.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/stream-analytics-real-time-event-processing-reference-architecture.md) | HandedOffSuccess | [Details](#d2ff0cb3106481506650cbf582f2ede809c4c9ca11493)
- [articles\virtual-machines-creating-oracle-database-virtual-machine.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-creating-oracle-database-virtual-machine.md) | HandedOffSuccess | [Details](#213cb433cccf7183200fcb2588987bf905c5c78211529)
  [articles\virtual-machines-creating-oracle-webLogic-server-12c-oracle-database-12c-virtual-machine.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-creating-oracle-webLogic-server-12c-oracle-database-12c-virtual-machine.md) | HandedOffSuccess | [Details](#20d6f7ee4517b8be2faa0f3c3ab3838d8245169411530)
- [articles\virtual-machines-creating-oracle-webLogic-server-12c-virtual-machine.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-creating-oracle-webLogic-server-12c-virtual-machine.md) | HandedOffSuccess | [Details](#d5fadd2c05f3a2a6d9f391b8881a2454a6e7642e11531)
- [articles\virtual-machines-docker-registry-on-azure-blob-storage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-docker-registry-on-azure-blob-storage.md) | HandedOffSuccess | [Details](#de9f55a25f88039943bd2915f6de39e5981962a011536)
- [articles\virtual-machines-dotnet-create-visual-studio-powershell.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-dotnet-create-visual-studio-powershell.md) | HandedOffSuccess | [Details](#8bc9b3add408944757bcd25272406cc77ee1cf4d11540)
- [articles\virtual-machines-infrastructure-services-implementation-guidelines.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-infrastructure-services-implementation-guidelines.md) | HandedOffSuccess | [Details](#e31b53bf2f5dc76f0fd3f58e60351d9e11f1ec1b11560)
- [articles\virtual-machines-linux-use-vmaccess-reset-password-or-ssh.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-linux-use-vmaccess-reset-password-or-ssh.md) | HandedOffSuccess | [Details](#3cf161c7f3bb5bc35a11ab18d920a66e77c5b59c11607)
- [articles\virtual-machines-miscellaneous-considerations-oracle-virtual-machine-images.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-miscellaneous-considerations-oracle-virtual-machine-images.md) | HandedOffSuccess | [Details](#4661c4b82ce48b276b6839e8c030bf0294239e0f11616)
- [articles\virtual-machines-sql-server-alwayson-availability-groups-gui.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-alwayson-availability-groups-gui.md) | HandedOffSuccess | [Details](#8f930bc1ca3c35f0ccbe2ec3855ebed0682cb6b211636)
- [articles\virtual-machines-sql-server-alwayson-availability-groups-powershell.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-alwayson-availability-groups-powershell.md) | HandedOffSuccess | [Details](#98c98facfab56133481ef498c0d74ec777fc616111637)
- [articles\virtual-machines-sql-server-application-patterns-and-development-strategies.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-application-patterns-and-development-strategies.md) | HandedOffSuccess | [Details](#20dacd435fdad948843b51703afc9af5edd8e74911638)
  [articles\virtual-machines-sql-server-configure-ilb-alwayson-availability-group-listener.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-configure-ilb-alwayson-availability-group-listener.md) | HandedOffSuccess | [Details](#cde7825c6b57805949185c7e39c532ec746f2cc211643)
  [articles\virtual-machines-sql-server-configure-public-alwayson-availability-group-listener.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-configure-public-alwayson-availability-group-listener.md) | HandedOffSuccess | [Details](#78d9a7c0a1760cb1ec886ca4a17f61edf9fea2b111644)
- [articles\virtual-machines-sql-server-create-native-mode-report-server-powershell.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-create-native-mode-report-server-powershell.md) | HandedOffSuccess | [Details](#750801171c3492b9693364fb8d02fa9eac64d03a11646)
- [articles\virtual-machines-sql-server-extend-on-premises-alwayson-availability-groups.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-extend-on-premises-alwayson-availability-groups.md) | HandedOffSuccess | [Details](#31688f753f5435418ce8cd60eaf391ce4f7c070711648)
  [articles\virtual-machines-sql-server-high-availability-and-disaster-recovery-solutions.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-high-availability-and-disaster-recovery-solutions.md) | HandedOffSuccess | [Details](#9db2dedbc0142bef3d5448da3411d6ac6edfcbe111649)
- [articles\virtual-machines-sql-server-performance-best-practices.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-performance-best-practices.md) | HandedOffSuccess | [Details](#01e98d28b6cf8b5b7203e09a30ea9427cd7b5a8311651)
- [articles\virtual-machines-sql-server-use-reportviewer-in-a-web-site.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-use-reportviewer-in-a-web-site.md) | HandedOffSuccess | [Details](#b9ebda79ecca0c9cb60f05430c2dcd7246af094011654)
- [articles\virtual-machines-troubleshoot-remote-desktop-connections.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-troubleshoot-remote-desktop-connections.md) | HandedOffSuccess | [Details](#5dc34703e94e44b5f3bb117244df3ccb1242196811656)
- [articles\virtual-networks-install-replica-active-directory-domain-controller.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-install-replica-active-directory-domain-controller.md) | HandedOffSuccess | [Details](#2b27780109f26ffcfe9ff12075cb9d8714e09c0f11683)
- [articles\virtual-networks-load-balancer-manage-distribution-mode-source-ip.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-load-balancer-manage-distribution-mode-source-ip.md) | HandedOffSuccess | [Details](#f8989949c61b424e82ea004a9741c077e314d51b11685)
- [articles\virtual-networks-name-resolution-for-vms-and-role-instances.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-name-resolution-for-vms-and-role-instances.md) | HandedOffSuccess | [Details](#340afa59ebabf95f3a893c14fa0c5317a11359ea11692)
- [articles\virtual-networks-setup-hybrid-cloud-environment-testing.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-setup-hybrid-cloud-environment-testing.md) | HandedOffSuccess | [Details](#c855d8f77e5bfee5d2bca45e2397e4647f525a9511701)
- [articles\virtual-networks-setup-sharepoint-hybrid-cloud-testing.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-setup-sharepoint-hybrid-cloud-testing.md) | HandedOffSuccess | [Details](#e8586deee5f3fb4967f8cbf792334be0dabb334d11703)
- [articles\virtual-networks-setup-simulated-hybrid-cloud-environment-testing.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-setup-simulated-hybrid-cloud-environment-testing.md) | HandedOffSuccess | [Details](#b2db604190997de61539b89d926650f0aab45d1811704)
  [articles\virtual-networks-specifying-a-dns-settings-in-a-virtual-network-configuration-file.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-specifying-a-dns-settings-in-a-virtual-network-configuration-file.md) | HandedOffSuccess | [Details](#cbe71c9b931c13214e4edbf6223dd453504a6f5b11705)
- [articles\virtual-networks-specifying-dns-settings-in-a-service-configuration-file.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-specifying-dns-settings-in-a-service-configuration-file.md) | HandedOffSuccess | [Details](#298f572c3d306c1bab3482849d47ab47e70fb89411706)
- [articles\virtual-networks-windows-server-active-directory-virtual-machines.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-windows-server-active-directory-virtual-machines.md) | HandedOffSuccess | [Details](#7f73f038c04501f18e4ad09c8dcb6b67bfcd6eb411713)
- [articles\web-sites-digital-marketing-application-solution-overview.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/web-sites-digital-marketing-application-solution-overview.md) | HandedOffSuccess | [Details](#8383e864244177f8aef44b2bcc5626c693ab71e111752)
- [articles\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database.md) | HandedOffSuccess | [Details](#8536fe30fe572e333bf6d1c24225ddf8a3e1248411753)
- [articles\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database.md) | HandedOffSuccess | [Details](#aed8a97e079df8e3ee0a710e0255c2fc1768120711755)
- [includes\media-services-selector-manage-live-encoder-enabled-channels.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/media-services-selector-manage-live-encoder-enabled-channels.md) | HandedOffSuccess | [Details](#6cca8d9a8fc7d2e3e788af253ebad2fa0f14a10a12014)
- [includes\mobile-services-android-authenticate-app-refresh-token.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-android-authenticate-app-refresh-token.md) | HandedOffSuccess | [Details](#736cef8e9b24428eaa83e94ee22546f651afc9d912917)
- [includes\mobile-services-android-authenticate-app-refresh-token-EC.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-android-authenticate-app-refresh-token-EC.md) | HandedOffSuccess | [Details](#ff9f7fa535f01f4a6a205945981c482c88e2f91f12916)
- [includes\mobile-services-android-authenticate-app-with-token-EC.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-android-authenticate-app-with-token-EC.md) | HandedOffSuccess | [Details](#68507385d99ce957d28ab10ec644b957486f572512918)
- [includes\mobile-services-android-push-notifications-app-users-EC.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-android-push-notifications-app-users-EC.md) | HandedOffSuccess | [Details](#129186b0a0ff288c56abdcf18b895192df25d2eb12931)
- [includes\mobile-services-dotnet-backend-android-push-update-service.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-android-push-update-service.md) | HandedOffSuccess | [Details](#76d96dc1eb4df69d3addfe968f0a8ac06f7c55c412958)
- [includes\mobile-services-dotnet-backend-configure-local-push-vs2013.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-configure-local-push-vs2013.md) | HandedOffSuccess | [Details](#ac90c5fb004d60c922c463bc70c6ecb34364e43712960)
- [includes\mobile-services-dotnet-backend-create-new-service-vs2013.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-create-new-service-vs2013.md) | HandedOffSuccess | [Details](#0cf65b50e325a1508f0a98e26b2d06f6e599d13c12963)
- [includes\mobile-services-dotnet-backend-notification-hubs-register-windows-store-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-notification-hubs-register-windows-store-app.md) | HandedOffSuccess | [Details](#f1374b5603b3cf7cce21d8f7746e0603f6a81bf912965)
- [includes\mobile-services-dotnet-backend-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-push-notifications-app-users.md) | HandedOffSuccess | [Details](#087c12538d0937c605dc331660202120930b3ca712967)
- [includes\mobile-services-dotnet-backend-test-local-service-api-documentation.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-test-local-service-api-documentation.md) | HandedOffSuccess | [Details](#fd0d75506afce53dc4ff57f764945660cbf8ea9f12968)
- [includes\mobile-services-dotnet-backend-test-local-service-data.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-test-local-service-data.md) | HandedOffSuccess | [Details](#047897c7de98aa0d8456163dbfb0a8d8cd86dcdc12969)
- [includes\mobile-services-dotnet-backend-test-local-service-dotnet.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-test-local-service-dotnet.md) | HandedOffSuccess | [Details](#9ec6915bed4aa3c6a8203db1a0822dfe837fb5db12970)
- [includes\mobile-services-dotnet-backend-update-server-push-vs2013.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-update-server-push-vs2013.md) | HandedOffSuccess | [Details](#482ccf9cb542465b3b9a2809fc560edafcebb32812973)
- [includes\mobile-services-dotnet-backend-windows-universal-test-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-windows-universal-test-push.md) | HandedOffSuccess | [Details](#b7b2460fc8c608f8aae4621a82fcadf6c8c5bd8212976)
- [includes\mobile-services-generate-aad-app-registration-access-key.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-generate-aad-app-registration-access-key.md) | HandedOffSuccess | [Details](#3c7823ddd599edb4083083260353349b5b0eb77712982)
- [includes\mobile-services-generate-aad-app-registration-access-key-rbac.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-generate-aad-app-registration-access-key-rbac.md) | HandedOffSuccess | [Details](#e5e0639f358ae6159fc6ab31733f58d9b3539bcc12981)
- [includes\mobile-services-ios-push-notifications-app-users-login.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-ios-push-notifications-app-users-login.md) | HandedOffSuccess | [Details](#1e5642884870a38e312bf53e7d80dfd08fa7810712990)
- [includes\mobile-services-ios-push-notifications-app-users-test-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-ios-push-notifications-app-users-test-app.md) | HandedOffSuccess | [Details](#9b80ff0c9ad72dfa0941c4b0f2c24d7385e873b912991)
- [includes\mobile-services-javascript-backend-android-push-insert-script.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-javascript-backend-android-push-insert-script.md) | HandedOffSuccess | [Details](#5741fc5de1c78bac03c1fae2186dd0091fc1a39012993)
- [includes\mobile-services-javascript-backend-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-javascript-backend-push-notifications-app-users.md) | HandedOffSuccess | [Details](#d6c7702faf72b41ebbd1b7b213e9af55a28ac9df12994)
- [includes\mobile-services-javascript-backend-register-windows-store-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-javascript-backend-register-windows-store-app.md) | HandedOffSuccess | [Details](#5b01e721fef9b4c06d5bcaf6df1a03ca9d8a0add12995)
- [includes\mobile-services-javascript-backend-windows-universal-test-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-javascript-backend-windows-universal-test-push.md) | HandedOffSuccess | [Details](#2395863cb1ba911640d88c9a1227ba99d9a6a1cf12998)
- [includes\mobile-services-javascript-update-script-notification-hubs.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-javascript-update-script-notification-hubs.md) | HandedOffSuccess | [Details](#3b7c9e5798f10bd5ff6a931c32cb5ba794a3631613000)
- [includes\mobile-services-notification-hubs-register-windows-store-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-notification-hubs-register-windows-store-app.md) | HandedOffSuccess | [Details](#90ba9e664d16d9276f3936e87c1893ac2252200b13003)
- [includes\mobile-services-restrict-permissions-javascript-backend.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-restrict-permissions-javascript-backend.md) | HandedOffSuccess | [Details](#f74c62768df4d466345f832d009807518241b9b813009)
- [includes\mobile-services-windows-phone-authenticate-app-with-token.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-phone-authenticate-app-with-token.md) | HandedOffSuccess | [Details](#cea2776e66b61f6a283536a4cde58f5b3a160c7b13043)
- [includes\mobile-services-windows-phone-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-phone-push-notifications-app-users.md) | HandedOffSuccess | [Details](#d942c32ed9ae3d34f2e77f81dee59f04de0d6d8b13046)
- [includes\mobile-services-windows-store-dotnet-authenticate-app-with-token.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-dotnet-authenticate-app-with-token.md) | HandedOffSuccess | [Details](#fa3acc20eca743df4efb6c4fc3395fc37ce04a3913048)
- [includes\mobile-services-windows-store-dotnet-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-dotnet-push-notifications-app-users.md) | HandedOffSuccess | [Details](#35518bd4c12c59fd4b0e6672804486a5cbe38c0e13050)
- [includes\mobile-services-windows-store-dotnet-upload-to-blob-storage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-dotnet-upload-to-blob-storage.md) | HandedOffSuccess | [Details](#360a86c274205e422d9c91e4c660a3a1c8b66a4313051)
- [includes\mobile-services-windows-store-javascript-authenticate-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-javascript-authenticate-app.md) | HandedOffSuccess | [Details](#bc04ab3a1b90e3c88767feaadc978f49ee95d08f13053)
- [includes\mobile-services-windows-store-javascript-authenticate-app-with-token.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-javascript-authenticate-app-with-token.md) | HandedOffSuccess | [Details](#87b2a6d1b219214f99d58b088e976ed9d45d58ec13052)
- [includes\mobile-services-windows-store-javascript-call-custom-api.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-javascript-call-custom-api.md) | HandedOffSuccess | [Details](#b5dc2e7dc986292f175fbda0d94c11454b6e4e5c13054)
- [includes\mobile-services-windows-store-javascript-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-javascript-push-notifications-app-users.md) | HandedOffSuccess | [Details](#5f217fb4e8a70b702359652d353154db8a7a7fdc13055)
- [includes\mobile-services-windows-universal-dotnet-authenticate-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-universal-dotnet-authenticate-app.md) | HandedOffSuccess | [Details](#6f21d9ca3b995b0d1f84d6461267ce1328966bd513058)
- [includes\mobile-services-windows-universal-dotnet-download-project.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-universal-dotnet-download-project.md) | HandedOffSuccess | [Details](#9b1d37ba6782c22ce4c90c6ad68733bbfb670b5713059)
- [includes\mobile-services-windows-universal-dotnet-upload-to-blob-storage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-universal-dotnet-upload-to-blob-storage.md) | HandedOffSuccess | [Details](#42e1d90171c539075c4c8c4a3761ccdbb91634f013060)
- [includes\mobile-services-windows-universal-javascript-authenticate-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-universal-javascript-authenticate-app.md) | HandedOffSuccess | [Details](#b2741778ae7a7af2254315d13a9a76ed94bb54cb13062)
- [includes\mobile-services-windows-universal-javascript-download-project.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-universal-javascript-download-project.md) | HandedOffSuccess | [Details](#3ba60f3faf1f69b8028bd540d9b1fbdee5636d8513063)
- [includes\mobile-services-xamarin-android-push-configure-project.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-xamarin-android-push-configure-project.md) | HandedOffSuccess | [Details](#e895011bd38eed5c7d8d6a739801cda99a2644ff13066)
- [includes\notification-hubs-selector-aspnet-backend-notify-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/notification-hubs-selector-aspnet-backend-notify-users.md) | HandedOffSuccess | [Details](#f51b9a434034a20fec5f117b1e7ecd8e5824333a13076)
- [includes\notification-hubs-sending-notifications-from-the-portal.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/notification-hubs-sending-notifications-from-the-portal.md) | HandedOffSuccess | [Details](#c9234f0597be2566b6a674d79570c40cb89aa2a213080)
- [includes\notification-hubs-xamarin-enable-apple-push-notifications.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/notification-hubs-xamarin-enable-apple-push-notifications.md) | HandedOffSuccess | [Details](#63603aff1736a392d78dd7b042372ed90f354eb913081)
- [includes\sql-database-develop-includes-prerequisites-php-windows.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-develop-includes-prerequisites-php-windows.md) | HandedOffSuccess | [Details](#e70b579cb04f08d0ba3be896e6953fa91ea3132613110)
- [includes\sql-database-develop-includes-selector-language-platform-depth.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-develop-includes-selector-language-platform-depth.md) | HandedOffSuccess | [Details](#4efc86675e3c2d7ea55b0c65855329ab92373e4213111)
- [includes\sql-database-include-connection-string-details-20-portalshots.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-include-connection-string-details-20-portalshots.md) | HandedOffSuccess | [Details](#a1ca09abe11dfd3958ebe3a110a0c7b386275e9c13115)
- [includes\sql-database-include-connection-string-dotnet-20-portalshots.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-include-connection-string-dotnet-20-portalshots.md) | HandedOffSuccess | [Details](#2a1bd28ffff8e37a4e4b1733bc2d5701572a0bae13116)
- [includes\sql-database-include-connection-string-jdbc-20-portalshots.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-include-connection-string-jdbc-20-portalshots.md) | HandedOffSuccess | [Details](#d4e73946c40b2329d76d02246453e5ad6a3a07c913117)
- [includes\sql-database-include-connection-string-odbc-20-portalshots.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-include-connection-string-odbc-20-portalshots.md) | HandedOffSuccess | [Details](#a3cc282050cd170ee6dc6becc80e6774b142f95e13118)
- [includes\sql-database-include-connection-string-php-20-portalshots.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-include-connection-string-php-20-portalshots.md) | HandedOffSuccess | [Details](#a7c4cb208bf09e4bf98ae5a62f4eb02311bd2e2a13119)
- [includes\storage-selector-portal-monitoring-diagnosing-troubleshooting.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/storage-selector-portal-monitoring-diagnosing-troubleshooting.md) | HandedOffSuccess | [Details](#e13284fc2e9b2b3378be8e662c735103a7ad843e13143)
- [includes\virtual-machines-sql-server-connection-steps-classic-tcp-endpoint.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/virtual-machines-sql-server-connection-steps-classic-tcp-endpoint.md) | HandedOffSuccess | [Details](#7c1a188643458b6ef4d1be2a53868754adef39d713172)
- [includes\virtual-network-deploy-multinic-classic-selectors-include.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/virtual-network-deploy-multinic-classic-selectors-include.md) | HandedOffSuccess | [Details](#5451b99e2f62d9ad04fa8103c679140e1c0328e413178)
- [includes\virtual-networks-create-vnet-classic-netcfg-portal-include.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/virtual-networks-create-vnet-classic-netcfg-portal-include.md) | HandedOffSuccess | [Details](#d9f15a387054f6a0b5ab38dee4698adfa8b7572713187)
- [includes\virtual-networks-create-vnet-classic-netcfg-ps-include.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/virtual-networks-create-vnet-classic-netcfg-ps-include.md) | HandedOffSuccess | [Details](#6b08ce6d5e67273309ac813a4c9dd5f48b6bbd3813188)
- [includes\virtual-networks-create-vnet-selectors-classic-include.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/virtual-networks-create-vnet-selectors-classic-include.md) | HandedOffSuccess | [Details](#624722c63a9c16c8dc7d8a75bc2ca8959e2e177f13193)
- [includes\virtual-networks-static-private-ip-selectors-classic-include.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/virtual-networks-static-private-ip-selectors-classic-include.md) | HandedOffSuccess | [Details](#370c945f06e02b9f3e67a0d4e43064278269ffe813206)
- [trigger.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/2489e0bb1620d37b38cdd0b84efd45fd06e92bf8/trigger.md) | HandedOffSuccess | [Details](#0dd2169ad3038d5b8d762179999794d9e5fdd20613236)
+ [includes\media\application-model\application-model-3.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/includes/media/application-model/application-model-3.jpg) | HandedOffSuccess | [Details](#3d3b92f9827684f257f1ee4b51c1743a9978a2bc12021)
+ [includes\media\application-model\application-model-4.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/includes/media/application-model/application-model-4.jpg) | HandedOffSuccess | [Details](#402c69b7cc351f87545e2a665125e76bc9866bc312022)
+ [includes\media\application-model\application-model-5.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/includes/media/application-model/application-model-5.jpg) | HandedOffSuccess | [Details](#cbc2ff4e5aba8c6dc838f4a33362da03ec91bacc12023)
+ [includes\media\application-model\application-model-6.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/includes/media/application-model/application-model-6.jpg) | HandedOffSuccess | [Details](#b7e8f42d850b1e9a33e2a86aab7084969745631012024)
+ [includes\media\application-model\application-model-7.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/includes/media/application-model/application-model-7.jpg) | HandedOffSuccess | [Details](#cc9e95a48f409fce013523db736abc0a0107481812025)
+ [includes\media\application-model\application-model-8.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/includes/media/application-model/application-model-8.jpg) | HandedOffSuccess | [Details](#bf52a36762f0016522196f240c9df4d61900046112026)
 
 ## Item Details
-##### <a name='4084f1eaac5cad259cd74075744586c0d8d4b2535'></a> Source: [articles\active-directory-aadconnect-dirsync-upgrade-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnect-dirsync-upgrade-get-started.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [active-directory-aadconnect-dirsync-upgrade-get-started.36dd530c410c2c1def50a28df36016c03658f52f.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-aadconnect-dirsync-upgrade-get-started.36dd530c410c2c1def50a28df36016c03658f52f.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='3c551a3e402e5e10bb683557b61e5914d4d3edc68'></a> Source: [articles\active-directory-aadconnect-get-started-custom-device-writeback.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnect-get-started-custom-device-writeback.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [active-directory-aadconnect-get-started-custom-device-writeback.44509145b315fdadd3be3147789f17a7ab595fe3.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-aadconnect-get-started-custom-device-writeback.44509145b315fdadd3be3147789f17a7ab595fe3.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='f9dc7739ad447a3b36c256e7edf6b3b265cc5ff111'></a> Source: [articles\active-directory-aadconnect-get-started-tools-comparison.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnect-get-started-tools-comparison.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [active-directory-aadconnect-get-started-tools-comparison.b0c2fac63fffa68b1d90f613f6dfa91560bdbb9d.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-aadconnect-get-started-tools-comparison.b0c2fac63fffa68b1d90f613f6dfa91560bdbb9d.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='c7587344275da67e8bcbe78909dbe0e4aa2db7c026'></a> Source: [articles\active-directory-aadconnectsync-attributes-synchronized.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnectsync-attributes-synchronized.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [active-directory-aadconnectsync-attributes-synchronized.9dc5a53a53bf3688e4e26a64ffed3d1e2cd92723.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-aadconnectsync-attributes-synchronized.9dc5a53a53bf3688e4e26a64ffed3d1e2cd92723.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 ##### <a name='35da5ae0a0a228d258a5dcc0f53a60057034460427'></a> Source: [articles\active-directory-aadconnectsync-best-practices-changing-default-configuration.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnectsync-best-practices-changing-default-configuration.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [active-directory-aadconnectsync-best-practices-changing-default-configuration.a1ba93854a56a9826a9eb240fd6e4e78db5bc19a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-aadconnectsync-best-practices-changing-default-configuration.a1ba93854a56a9826a9eb240fd6e4e78db5bc19a.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='f59afbea6ac9186fc9fe824fcbceb36a3765a66329'></a> Source: [articles\active-directory-aadconnectsync-feature-prevent-accidental-deletes.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnectsync-feature-prevent-accidental-deletes.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [active-directory-aadconnectsync-feature-prevent-accidental-deletes.ccda8fa056e0ce44a3283d8ac0e33ad95ea4f06a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-aadconnectsync-feature-prevent-accidental-deletes.ccda8fa056e0ce44a3283d8ac0e33ad95ea4f06a.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='b9fa19ae51918aa8cf793ea77792706a99c475da31'></a> Source: [articles\active-directory-aadconnectsync-implement-password-synchronization.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnectsync-implement-password-synchronization.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [active-directory-aadconnectsync-implement-password-synchronization.91067e4729d2e7e45134f58bfe9227cadb63803b.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-aadconnectsync-implement-password-synchronization.91067e4729d2e7e45134f58bfe9227cadb63803b.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [active-directory-aadconnectsync-best-practices-changing-default-configurati.a1ba93854a56a9826a9eb240fd6e4e78db5bc19a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-aadconnectsync-best-practices-changing-default-configurati.a1ba93854a56a9826a9eb240fd6e4e78db5bc19a.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -304,8 +131,8 @@
 ##### <a name='219803f1dab7811b6417bda54777161013b5b41d35'></a> Source: [articles\active-directory-aadconnectsync-understanding-declarative-provisioning-expressions.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnectsync-understanding-declarative-provisioning-expressions.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [active-directory-aadconnectsync-understanding-declarative-provisioning-expressions.81f57e66d4fbed071794cfcc8c1dea70f51a003d.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-aadconnectsync-understanding-declarative-provisioning-expressions.81f57e66d4fbed071794cfcc8c1dea70f51a003d.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [active-directory-aadconnectsync-understanding-declarative-provisioning-expr.81f57e66d4fbed071794cfcc8c1dea70f51a003d.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-aadconnectsync-understanding-declarative-provisioning-expr.81f57e66d4fbed071794cfcc8c1dea70f51a003d.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -313,119 +140,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8277de7f5ca91ac6e835593ed9ff6f6a91342ec936'></a> Source: [articles\active-directory-aadconnectsync-understanding-users-and-contacts.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-aadconnectsync-understanding-users-and-contacts.md)
+##### <a name='84c035b4a0f0c7ac79c70f81c6ed40ce09ee8050158'></a> Source: [articles\azure-architectures-cpif-foundation-offsite-batch-processing-tier.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/azure-architectures-cpif-foundation-offsite-batch-processing-tier.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [active-directory-aadconnectsync-understanding-users-and-contacts.edae491c9d76ff959bbd42ed3f3bc3c75d7f8c86.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-aadconnectsync-understanding-users-and-contacts.edae491c9d76ff959bbd42ed3f3bc3c75d7f8c86.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='c739e11b5eb1519a51efc19ec0133c5faf6dc2ef56'></a> Source: [articles\active-directory-how-subscriptions-associated-directory.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-how-subscriptions-associated-directory.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [active-directory-how-subscriptions-associated-directory.1fb74a908917478a0f56052fb9e2b9881192e296.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-how-subscriptions-associated-directory.1fb74a908917478a0f56052fb9e2b9881192e296.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='3690e6dac0488a6697c64e302210924928de765659'></a> Source: [articles\active-directory-java-authenticate-users-access-control-eclipse.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-java-authenticate-users-access-control-eclipse.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [active-directory-java-authenticate-users-access-control-eclipse.9e469870f39d7e36b54b55ecba5118e22f15b884.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-java-authenticate-users-access-control-eclipse.9e469870f39d7e36b54b55ecba5118e22f15b884.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='be0eaf99a264fbf168ea4725fe9363b53780210860'></a> Source: [articles\active-directory-java-view-saml-returned-by-access-control.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/active-directory-java-view-saml-returned-by-access-control.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [active-directory-java-view-saml-returned-by-access-control.389a1020e52222e0b604a89b4968062cabf91ff3.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/active-directory-java-view-saml-returned-by-access-control.389a1020e52222e0b604a89b4968062cabf91ff3.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='ef07eef58bae304eeb8e88dd11c19f95e61d964b156'></a> Source: [articles\azure-architectures-cpif-foundation-global-load-balanced-web-tier.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/azure-architectures-cpif-foundation-global-load-balanced-web-tier.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [azure-architectures-cpif-foundation-global-load-balanced-web-tier.aafed8a8b24c7772433895d64152ee96bb666c9c.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/azure-architectures-cpif-foundation-global-load-balanced-web-tier.aafed8a8b24c7772433895d64152ee96bb666c9c.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='d99ec7c08f685b1694d7c8a6e2959e0fed3510a0157'></a> Source: [articles\azure-architectures-cpif-foundation-multi-site-data-tier.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/azure-architectures-cpif-foundation-multi-site-data-tier.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [azure-architectures-cpif-foundation-multi-site-data-tier.9db7fb4c80332dd6b3bce4f69402636472d1d8bc.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/azure-architectures-cpif-foundation-multi-site-data-tier.9db7fb4c80332dd6b3bce4f69402636472d1d8bc.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='3b11676e01aaf1c4a9cf07cd02a500aa3ca281fc158'></a> Source: [articles\azure-architectures-cpif-foundation-offsite-batch-processing-tier.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/azure-architectures-cpif-foundation-offsite-batch-processing-tier.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [azure-architectures-cpif-foundation-offsite-batch-processing-tier.7609623b11380fd839de4607b232f3757112377a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/azure-architectures-cpif-foundation-offsite-batch-processing-tier.7609623b11380fd839de4607b232f3757112377a.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='49d42a0c531b70d20052f8df91173fc5719c0033159'></a> Source: [articles\azure-architectures-cpif-infrastructure-hybrid-networking.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/azure-architectures-cpif-infrastructure-hybrid-networking.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [azure-architectures-cpif-infrastructure-hybrid-networking.b9659b4b3e5948198e6110c6c4cd1a702ac1cc1a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/azure-architectures-cpif-infrastructure-hybrid-networking.b9659b4b3e5948198e6110c6c4cd1a702ac1cc1a.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='f104e245c148c5cdb6c4d8991fb41878f1f0f377283'></a> Source: [articles\cloud-services-performance-testing-visual-studio-profiler.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/cloud-services-performance-testing-visual-studio-profiler.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [cloud-services-performance-testing-visual-studio-profiler.dcb751c5c982ee7b85bea318da0a8814b03becbc.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/cloud-services-performance-testing-visual-studio-profiler.dcb751c5c982ee7b85bea318da0a8814b03becbc.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='56bea1d04b777df93c1148c35c018681c0787a35296'></a> Source: [articles\cloud-services-troubleshoot-common-issues-which-cause-roles-recycle.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/cloud-services-troubleshoot-common-issues-which-cause-roles-recycle.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [cloud-services-troubleshoot-common-issues-which-cause-roles-recycle.adad0ecfd49829f26800bacc212f4910cfd6143c.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/cloud-services-troubleshoot-common-issues-which-cause-roles-recycle.adad0ecfd49829f26800bacc212f4910cfd6143c.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [azure-architectures-cpif-foundation-offsite-batch-processing-tier.7609623b11380fd839de4607b232f3757112377a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/azure-architectures-cpif-foundation-offsite-batch-processing-tier.7609623b11380fd839de4607b232f3757112377a.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -436,8 +155,8 @@
 ##### <a name='5416086377dade06db3f0fa30a1929fdd0751a10297'></a> Source: [articles\cloud-services-troubleshoot-default-temp-folder-size-too-small-web-worker-role.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/cloud-services-troubleshoot-default-temp-folder-size-too-small-web-worker-role.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [cloud-services-troubleshoot-default-temp-folder-size-too-small-web-worker-role.089ad91ba0c2562b764da453af9bb6462f9ad432.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/cloud-services-troubleshoot-default-temp-folder-size-too-small-web-worker-role.089ad91ba0c2562b764da453af9bb6462f9ad432.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [cloud-services-troubleshoot-default-temp-folder-size-too-small-web-worker-r.089ad91ba0c2562b764da453af9bb6462f9ad432.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/cloud-services-troubleshoot-default-temp-folder-size-too-small-web-worker-r.089ad91ba0c2562b764da453af9bb6462f9ad432.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -445,335 +164,1142 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a07d83207d3e7579e6d80acb2e64815d8f3023e0301'></a> Source: [articles\cloud-services-virtual-machines-dotnet-continuous-delivery-remote-debugging.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/cloud-services-virtual-machines-dotnet-continuous-delivery-remote-debugging.md)
+##### <a name='b2217694e4f9a7e78f85517c3cde50d87a74f488976'></a> Source: [articles\media\active-directory-passwords-learn-more\001.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-learn-more/001.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [cloud-services-virtual-machines-dotnet-continuous-delivery-remote-debugging.f0d4bc9428c80712d5d264727a7b7204b68a651c.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/cloud-services-virtual-machines-dotnet-continuous-delivery-remote-debugging.f0d4bc9428c80712d5d264727a7b7204b68a651c.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [b2217694e4f9a7e78f85517c3cde50d87a74f488.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/b2217694e4f9a7e78f85517c3cde50d87a74f488.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-learn-more.md
 * [Back to Top](#report-top)
 
-##### <a name='3a708296e1c32d55da34b1fd55567d8ad7142a8f303'></a> Source: [articles\data-management-azure-sql-database-and-sql-server-iaas.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/data-management-azure-sql-database-and-sql-server-iaas.md)
+##### <a name='f7dc2a11e09b31a145b237483018e15811aa6d5f977'></a> Source: [articles\media\active-directory-passwords-learn-more\002.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-learn-more/002.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [data-management-azure-sql-database-and-sql-server-iaas.32dd319bd5239b2b1c064fb97b9532c3fb5661d1.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/data-management-azure-sql-database-and-sql-server-iaas.32dd319bd5239b2b1c064fb97b9532c3fb5661d1.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [f7dc2a11e09b31a145b237483018e15811aa6d5f.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/f7dc2a11e09b31a145b237483018e15811aa6d5f.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-learn-more.md
 * [Back to Top](#report-top)
 
-##### <a name='446f7cf4b5bf80d44ff4b37e822d1f3b0f811ac7464'></a> Source: [articles\media-services-dotnet-configure-content-key-auth-policy.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-dotnet-configure-content-key-auth-policy.md)
+##### <a name='465a5075033240cdbbc20d0af08ad84d8eb8fed7978'></a> Source: [articles\media\active-directory-passwords-troubleshoot\001.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-troubleshoot/001.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [media-services-dotnet-configure-content-key-auth-policy.65cb9e2a08693cd524bf015d88d3eaf05a77292c.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/media-services-dotnet-configure-content-key-auth-policy.65cb9e2a08693cd524bf015d88d3eaf05a77292c.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [465a5075033240cdbbc20d0af08ad84d8eb8fed7.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/465a5075033240cdbbc20d0af08ad84d8eb8fed7.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-troubleshoot.md
 * [Back to Top](#report-top)
 
-##### <a name='16c32913d075ba9655667b1817933430c2ff9e96467'></a> Source: [articles\media-services-dotnet-creating-live-encoder-enabled-channel.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-dotnet-creating-live-encoder-enabled-channel.md)
+##### <a name='bdbce8832f10fee8598933e6e43c69b50eb12cea979'></a> Source: [articles\media\active-directory-passwords-troubleshoot\002.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-troubleshoot/002.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [media-services-dotnet-creating-live-encoder-enabled-channel.c50488e0173d73f9f451d54c179e7de4e7429751.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/media-services-dotnet-creating-live-encoder-enabled-channel.c50488e0173d73f9f451d54c179e7de4e7429751.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [bdbce8832f10fee8598933e6e43c69b50eb12cea.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/bdbce8832f10fee8598933e6e43c69b50eb12cea.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-troubleshoot.md
 * [Back to Top](#report-top)
 
-##### <a name='34e4506759bb7fad0739c58cba834778479ceef0470'></a> Source: [articles\media-services-dotnet-encode-with-media-encoder-standard.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-dotnet-encode-with-media-encoder-standard.md)
+##### <a name='64d2267aa3815d36ffc5d9876ccbe7ad49434abd980'></a> Source: [articles\media\active-directory-passwords-troubleshoot\003.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-troubleshoot/003.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [media-services-dotnet-encode-with-media-encoder-standard.5206dc22139c7b34697469e2139d31939cc4a2d9.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/media-services-dotnet-encode-with-media-encoder-standard.5206dc22139c7b34697469e2139d31939cc4a2d9.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [64d2267aa3815d36ffc5d9876ccbe7ad49434abd.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/64d2267aa3815d36ffc5d9876ccbe7ad49434abd.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-troubleshoot.md
 * [Back to Top](#report-top)
 
-##### <a name='0eff6c8df34656583077cc4d99e2e2aefe7c39b0475'></a> Source: [articles\media-services-dotnet-live-encode-with-onpremises-encoders.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-dotnet-live-encode-with-onpremises-encoders.md)
+##### <a name='72274c059a7ab40b0d0f4ac541cb068f2cd4189a982'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\001.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/001.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [media-services-dotnet-live-encode-with-onpremises-encoders.6d3ec1af37dfc1c2fa0800645ec19e32bedeca8a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/media-services-dotnet-live-encode-with-onpremises-encoders.6d3ec1af37dfc1c2fa0800645ec19e32bedeca8a.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [72274c059a7ab40b0d0f4ac541cb068f2cd4189a.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/72274c059a7ab40b0d0f4ac541cb068f2cd4189a.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='d527b33011357e546609f991f7ca7348f26e8183508'></a> Source: [articles\media-services-portal-configure-content-key-auth-policy.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-portal-configure-content-key-auth-policy.md)
+##### <a name='8a9328dcca0fed373b1ac2b2ae8597f111208e81983'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\002.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/002.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [media-services-portal-configure-content-key-auth-policy.328f1e7410f5c8694ac2da6f2e518926e66e75e7.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/media-services-portal-configure-content-key-auth-policy.328f1e7410f5c8694ac2da6f2e518926e66e75e7.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [8a9328dcca0fed373b1ac2b2ae8597f111208e81.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/8a9328dcca0fed373b1ac2b2ae8597f111208e81.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='374fd203ab7e7cf5096c7d1de9bf51cbc3fe367d509'></a> Source: [articles\media-services-portal-creating-live-encoder-enabled-channel.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-portal-creating-live-encoder-enabled-channel.md)
+##### <a name='4c25c01d3f8e5f9db12b9d2c533d57fb1edbfd80984'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\003.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/003.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [media-services-portal-creating-live-encoder-enabled-channel.a20438237199e11f46d2ef9e1fd429abcf76243f.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/media-services-portal-creating-live-encoder-enabled-channel.a20438237199e11f46d2ef9e1fd429abcf76243f.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [4c25c01d3f8e5f9db12b9d2c533d57fb1edbfd80.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/4c25c01d3f8e5f9db12b9d2c533d57fb1edbfd80.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='f94453f13574539be9d083acbb70fa8118e75055535'></a> Source: [articles\media-services-use-osmf-smooth-streaming-client-plugin.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/media-services-use-osmf-smooth-streaming-client-plugin.md)
+##### <a name='6ec1acd5572a40c37d7bd1524eba30cb4217d6cb985'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\004.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/004.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [media-services-use-osmf-smooth-streaming-client-plugin.eba85f1a353d31de507d82455a881fbb8826f382.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/media-services-use-osmf-smooth-streaming-client-plugin.eba85f1a353d31de507d82455a881fbb8826f382.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [6ec1acd5572a40c37d7bd1524eba30cb4217d6cb.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/6ec1acd5572a40c37d7bd1524eba30cb4217d6cb.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='b7b760195a4a7b5184aa1602a7ec27e9585b035910866'></a> Source: [articles\mobile-services-dotnet-backend-android-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-android-get-started-push.md)
+##### <a name='8c08100fe57b5fee2d1b1c7891bc51d0bd749a33986'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\005.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/005.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-android-get-started-push.49204b346472aae07bad8d912006033e2af35b69.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-android-get-started-push.49204b346472aae07bad8d912006033e2af35b69.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [8c08100fe57b5fee2d1b1c7891bc51d0bd749a33.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/8c08100fe57b5fee2d1b1c7891bc51d0bd749a33.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='6af55ba8da9eaa46aa234e3d3ab0a9739737570810867'></a> Source: [articles\mobile-services-dotnet-backend-android-get-started-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-android-get-started-users.md)
+##### <a name='345e865c005a9024fcc2e45d2dc3347ebd6cba3d987'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\006.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/006.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-android-get-started-users.7665b87ffee14a5294f216c38d936af8dd96342a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-android-get-started-users.7665b87ffee14a5294f216c38d936af8dd96342a.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [345e865c005a9024fcc2e45d2dc3347ebd6cba3d.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/345e865c005a9024fcc2e45d2dc3347ebd6cba3d.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='18b5a0909de0f97139be083f09d790791446000710870'></a> Source: [articles\mobile-services-dotnet-backend-get-started-custom-authentication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-get-started-custom-authentication.md)
+##### <a name='b1474e2864b90068fc0349851d31e437b1f19f78988'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\007.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/007.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-get-started-custom-authentication.3244bfa9d364078edc1d642519c8c5710f5da787.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-get-started-custom-authentication.3244bfa9d364078edc1d642519c8c5710f5da787.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [b1474e2864b90068fc0349851d31e437b1f19f78.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/b1474e2864b90068fc0349851d31e437b1f19f78.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='1d738665bf96a31dc56a29668601c2143fcc678710871'></a> Source: [articles\mobile-services-dotnet-backend-how-to-configure-iis-express.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-how-to-configure-iis-express.md)
+##### <a name='071606d23993ec2344d3625dc32b653d05ead2c5989'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\008.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/008.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-how-to-configure-iis-express.5b617a3eeb5310149e771c66b23611df7de30daf.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-how-to-configure-iis-express.5b617a3eeb5310149e771c66b23611df7de30daf.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [071606d23993ec2344d3625dc32b653d05ead2c5.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/071606d23993ec2344d3625dc32b653d05ead2c5.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='87902104a44b3c7fd2176aeb5c5590658717c87f10873'></a> Source: [articles\mobile-services-dotnet-backend-how-to-use-code-first-migrations.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-how-to-use-code-first-migrations.md)
+##### <a name='589f02cfd593f1f49566ac7c21f80135f980480b990'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\009.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/009.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-how-to-use-code-first-migrations.ba997d37b7f81c78ad3a6a7d61e47667cfadde1a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-how-to-use-code-first-migrations.ba997d37b7f81c78ad3a6a7d61e47667cfadde1a.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [589f02cfd593f1f49566ac7c21f80135f980480b.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/589f02cfd593f1f49566ac7c21f80135f980480b.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='7ebe3a4974430b0e4c100db18905cbce405be78410874'></a> Source: [articles\mobile-services-dotnet-backend-hybrid-connections-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-hybrid-connections-get-started.md)
+##### <a name='6a122924b3ea0eb76c6462ec8470e8328610273b991'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\010.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/010.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-hybrid-connections-get-started.3a4c950d9ebbefff40be45f52c6cff2da9813cef.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-hybrid-connections-get-started.3a4c950d9ebbefff40be45f52c6cff2da9813cef.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [6a122924b3ea0eb76c6462ec8470e8328610273b.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/6a122924b3ea0eb76c6462ec8470e8328610273b.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='8ae118bed112d326005b024b09ef9058e5aceb8110875'></a> Source: [articles\mobile-services-dotnet-backend-ios-adal-sso-authentication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-ios-adal-sso-authentication.md)
+##### <a name='9fe774ef379b362925cfa4e1ac11384d2c8f3eb4992'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\011.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/011.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-ios-adal-sso-authentication.5f7bfcfdcd385bbf20e6a0e887881a52a469dec4.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-ios-adal-sso-authentication.5f7bfcfdcd385bbf20e6a0e887881a52a469dec4.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [9fe774ef379b362925cfa4e1ac11384d2c8f3eb4.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/9fe774ef379b362925cfa4e1ac11384d2c8f3eb4.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='5f1684a9f9b0dd7213ed520883ae2832f5dad14d10879'></a> Source: [articles\mobile-services-dotnet-backend-ios-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-ios-push-notifications-app-users.md)
+##### <a name='73de65d24f887c351a81d54d363a1a37a3e17071993'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\012.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/012.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-ios-push-notifications-app-users.3cda053d7104c4dbaf507c48789d2d85f7d63d41.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-ios-push-notifications-app-users.3cda053d7104c4dbaf507c48789d2d85f7d63d41.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [73de65d24f887c351a81d54d363a1a37a3e17071.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/73de65d24f887c351a81d54d363a1a37a3e17071.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='f7c055e5b8739f60f91bb99dabede32cddae87a910880'></a> Source: [articles\mobile-services-dotnet-backend-service-side-authorization.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-service-side-authorization.md)
+##### <a name='2b579f24e5445b3e71f8cc993ef1f200302f88df994'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\013.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/013.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-service-side-authorization.fea774aea8d077c7e13c2d798905f73dbe6bcf1e.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-service-side-authorization.fea774aea8d077c7e13c2d798905f73dbe6bcf1e.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [2b579f24e5445b3e71f8cc993ef1f200302f88df.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/2b579f24e5445b3e71f8cc993ef1f200302f88df.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='a1d8a9076eb169dcb95f99ec2c7a5b19e5ea4e0d10881'></a> Source: [articles\mobile-services-dotnet-backend-store-code-source-control.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-store-code-source-control.md)
+##### <a name='4c734fabd7a5407b87f870e8979c4317e3737ba4995'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\014.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/014.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-store-code-source-control.1e54aa24539973a153201177d19b30b83da952e9.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-store-code-source-control.1e54aa24539973a153201177d19b30b83da952e9.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [4c734fabd7a5407b87f870e8979c4317e3737ba4.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/4c734fabd7a5407b87f870e8979c4317e3737ba4.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='4a808d2cc2a57012074662ae027baae0795cf40210882'></a> Source: [articles\mobile-services-dotnet-backend-store-data-table-storage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-store-data-table-storage.md)
+##### <a name='e3ea39791c05f09cf37058cc84ce2602381e49f4996'></a> Source: [articles\media\active-directory-passwords-update-your-own-password\015.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/active-directory-passwords-update-your-own-password/015.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-store-data-table-storage.525f6638df241d856b2feb392072c26794289962.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-store-data-table-storage.525f6638df241d856b2feb392072c26794289962.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [e3ea39791c05f09cf37058cc84ce2602381e49f4.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/e3ea39791c05f09cf37058cc84ce2602381e49f4.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\active-directory-passwords-update-your-own-password.md
 * [Back to Top](#report-top)
 
-##### <a name='eafff7628f59ba4d431bd5bd745133963147734b10883'></a> Source: [articles\mobile-services-dotnet-backend-use-existing-sql-database.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-use-existing-sql-database.md)
+##### <a name='f2df84ca21083d49c8e1da979b16f882fc60c2363180'></a> Source: [articles\media\data-management-azure-sql-database-and-sql-server-iaas\SQLIAAS_SQL_Server_Cloud_Continuum.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/data-management-azure-sql-database-and-sql-server-iaas/SQLIAAS_SQL_Server_Cloud_Continuum.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-use-existing-sql-database.d8a993a0306c72d36a701f9ea28e10b9b9528bef.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-use-existing-sql-database.d8a993a0306c72d36a701f9ea28e10b9b9528bef.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [f2df84ca21083d49c8e1da979b16f882fc60c236.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/f2df84ca21083d49c8e1da979b16f882fc60c236.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\data-management-azure-sql-database-and-sql-server-iaas.md
 * [Back to Top](#report-top)
 
-##### <a name='785287e8db13f64e007b9281a01a5d5ed710df5f10884'></a> Source: [articles\mobile-services-dotnet-backend-windows-store-dotnet-aad-rbac.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-store-dotnet-aad-rbac.md)
+##### <a name='3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e3659'></a> Source: [articles\media\hdinsight-giraph\giraph-graph.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-giraph/giraph-graph.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-windows-store-dotnet-aad-rbac.fe1dcc7cdb6b50b4d8e39492bca96e379e63d125.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-windows-store-dotnet-aad-rbac.fe1dcc7cdb6b50b4d8e39492bca96e379e63d125.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-giraph-install-v1.md
 * [Back to Top](#report-top)
 
-##### <a name='7c80bb5820871ebb7d912d85372834b3ec3b1ad110885'></a> Source: [articles\mobile-services-dotnet-backend-windows-store-dotnet-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-store-dotnet-get-started.md)
+##### <a name='46683c560067cda67e1a31b1f9bec686ad6c14653658'></a> Source: [articles\media\hdinsight-giraph\giraph-graph-out.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-giraph/giraph-graph-out.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-windows-store-dotnet-get-started.35084186a34a1d4d9887608ad4abda37c7fc3463.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-windows-store-dotnet-get-started.35084186a34a1d4d9887608ad4abda37c7fc3463.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [46683c560067cda67e1a31b1f9bec686ad6c1465.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/46683c560067cda67e1a31b1f9bec686ad6c1465.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-giraph-install-v1.md
 * [Back to Top](#report-top)
 
-##### <a name='895c42f6a0e334709902aa2c0c8b69d70085006e10886'></a> Source: [articles\mobile-services-dotnet-backend-windows-store-dotnet-leaderboard.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-store-dotnet-leaderboard.md)
+##### <a name='26bcbc79d608e34a063520caa0266140f6f007ec3664'></a> Source: [articles\media\hdinsight-hadoop-customize-cluster\HDI.CustomProvision.Page6.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-customize-cluster/HDI.CustomProvision.Page6.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-windows-store-dotnet-leaderboard.08293675842dce24b31670a2784812433bd4f3e0.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-windows-store-dotnet-leaderboard.08293675842dce24b31670a2784812433bd4f3e0.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [26bcbc79d608e34a063520caa0266140f6f007ec.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/26bcbc79d608e34a063520caa0266140f6f007ec.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-customize-cluster-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='74793ffc7dc7228740ca94191e1dd1295e52078d3663'></a> Source: [articles\media\hdinsight-hadoop-customize-cluster\HDI-Cluster-state.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-customize-cluster/HDI-Cluster-state.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [74793ffc7dc7228740ca94191e1dd1295e52078d.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/74793ffc7dc7228740ca94191e1dd1295e52078d.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-customize-cluster-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='26bcbc79d608e34a063520caa0266140f6f007ec3662'></a> Source: [articles\media\hdinsight-hadoop-customize-cluster-v1\HDI.CustomProvision.Page6.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-customize-cluster-v1/HDI.CustomProvision.Page6.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [26bcbc79d608e34a063520caa0266140f6f007ec.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/26bcbc79d608e34a063520caa0266140f6f007ec.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-customize-cluster-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='74793ffc7dc7228740ca94191e1dd1295e52078d3661'></a> Source: [articles\media\hdinsight-hadoop-customize-cluster-v1\HDI-Cluster-state.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-customize-cluster-v1/HDI-Cluster-state.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [74793ffc7dc7228740ca94191e1dd1295e52078d.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/74793ffc7dc7228740ca94191e1dd1295e52078d.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-customize-cluster-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e3674'></a> Source: [articles\media\hdinsight-hadoop-giraph-install\giraph-graph.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-giraph-install/giraph-graph.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-giraph-install-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='46683c560067cda67e1a31b1f9bec686ad6c14653673'></a> Source: [articles\media\hdinsight-hadoop-giraph-install\giraph-graph-out.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-giraph-install/giraph-graph-out.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [46683c560067cda67e1a31b1f9bec686ad6c1465.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/46683c560067cda67e1a31b1f9bec686ad6c1465.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-giraph-install-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='c22d658875fe50589ce983f5aeeb9473543281813675'></a> Source: [articles\media\hdinsight-hadoop-giraph-install\hdi-script-action-giraph.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-giraph-install/hdi-script-action-giraph.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [c22d658875fe50589ce983f5aeeb947354328181.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/c22d658875fe50589ce983f5aeeb947354328181.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-giraph-install-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e3671'></a> Source: [articles\media\hdinsight-hadoop-giraph-install-v1\giraph-graph.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-giraph-install-v1/giraph-graph.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-giraph-install-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='46683c560067cda67e1a31b1f9bec686ad6c14653670'></a> Source: [articles\media\hdinsight-hadoop-giraph-install-v1\giraph-graph-out.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-giraph-install-v1/giraph-graph-out.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [46683c560067cda67e1a31b1f9bec686ad6c1465.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/46683c560067cda67e1a31b1f9bec686ad6c1465.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-giraph-install-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='c22d658875fe50589ce983f5aeeb9473543281813672'></a> Source: [articles\media\hdinsight-hadoop-giraph-install-v1\hdi-script-action-giraph.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-giraph-install-v1/hdi-script-action-giraph.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [c22d658875fe50589ce983f5aeeb947354328181.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/c22d658875fe50589ce983f5aeeb947354328181.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-giraph-install-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='748854d97a3e9cef42b58ec9f0da32e8dc186a713762'></a> Source: [articles\media\hdinsight-hadoop-r-scripts\hdi-r-script-action.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-r-scripts/hdi-r-script-action.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [748854d97a3e9cef42b58ec9f0da32e8dc186a71.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/748854d97a3e9cef42b58ec9f0da32e8dc186a71.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-r-scripts.md
+* [Back to Top](#report-top)
+
+##### <a name='23662328b7402264e270b22d447de099d9ca2e8b3771'></a> Source: [articles\media\hdinsight-hadoop-solr-install\hdi-script-action-solr.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-solr-install/hdi-script-action-solr.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [23662328b7402264e270b22d447de099d9ca2e8b.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/23662328b7402264e270b22d447de099d9ca2e8b.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-solr-install-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='27ecb7c701ed6bd0bddb7701de222160e7fcb0cd3772'></a> Source: [articles\media\hdinsight-hadoop-solr-install\hdi-solr-dashboard-query.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-solr-install/hdi-solr-dashboard-query.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [27ecb7c701ed6bd0bddb7701de222160e7fcb0cd.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/27ecb7c701ed6bd0bddb7701de222160e7fcb0cd.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-solr-install-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='23662328b7402264e270b22d447de099d9ca2e8b3769'></a> Source: [articles\media\hdinsight-hadoop-solr-install-v1\hdi-script-action-solr.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-solr-install-v1/hdi-script-action-solr.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [23662328b7402264e270b22d447de099d9ca2e8b.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/23662328b7402264e270b22d447de099d9ca2e8b.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-solr-install-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='27ecb7c701ed6bd0bddb7701de222160e7fcb0cd3770'></a> Source: [articles\media\hdinsight-hadoop-solr-install-v1\hdi-solr-dashboard-query.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/hdinsight-hadoop-solr-install-v1/hdi-solr-dashboard-query.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [27ecb7c701ed6bd0bddb7701de222160e7fcb0cd.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/27ecb7c701ed6bd0bddb7701de222160e7fcb0cd.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\hdinsight-hadoop-solr-install-v1.md
+* [Back to Top](#report-top)
+
+##### <a name='84b665da0f740ebe688b8c71ed6bd10dff1022715611'></a> Source: [articles\media\multi-factor-authentication-end-user-first-time\first.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/multi-factor-authentication-end-user-first-time/first.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [84b665da0f740ebe688b8c71ed6bd10dff102271.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/84b665da0f740ebe688b8c71ed6bd10dff102271.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\multi-factor-authentication-end-user-first-time.md
+* [Back to Top](#report-top)
+
+##### <a name='a20df7082ab0fb675ed24e99571b6bc9097716607407'></a> Source: [articles\media\sql-database-elastic-jobs-service-installation\credentials.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-jobs-service-installation/credentials.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [a20df7082ab0fb675ed24e99571b6bc909771660.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/a20df7082ab0fb675ed24e99571b6bc909771660.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\sql-database-elastic-jobs-service-installation.md
+* [Back to Top](#report-top)
+
+##### <a name='8e892907412ae316946bfdab5348fcda3aae8f097414'></a> Source: [articles\media\sql-database-elastic-jobs-service-installation\start-board.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-jobs-service-installation/start-board.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [8e892907412ae316946bfdab5348fcda3aae8f09.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/8e892907412ae316946bfdab5348fcda3aae8f09.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\sql-database-elastic-jobs-service-installation.md
+* [Back to Top](#report-top)
+
+##### <a name='86c4e83ebfe076d85eb5fce4f73ded11ac6667167456'></a> Source: [articles\media\sql-database-elastic-scale-configure-deploy-split-and-merge\allowed-services.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-scale-configure-deploy-split-and-merge/allowed-services.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [86c4e83ebfe076d85eb5fce4f73ded11ac666716.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/86c4e83ebfe076d85eb5fce4f73ded11ac666716.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\sql-database-elastic-scale-configure-deploy-split-and-merge.md
+* [Back to Top](#report-top)
+
+##### <a name='c10aa6f1f2e5b66d3ddcede921e55fee1d9a62f17457'></a> Source: [articles\media\sql-database-elastic-scale-configure-deploy-split-and-merge\staging.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-scale-configure-deploy-split-and-merge/staging.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [c10aa6f1f2e5b66d3ddcede921e55fee1d9a62f1.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/c10aa6f1f2e5b66d3ddcede921e55fee1d9a62f1.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\sql-database-elastic-scale-configure-deploy-split-and-merge.md
+* [Back to Top](#report-top)
+
+##### <a name='20e50793f2ce19dba85a4351f60f2a3b920aa7107458'></a> Source: [articles\media\sql-database-elastic-scale-configure-deploy-split-and-merge\upload.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-scale-configure-deploy-split-and-merge/upload.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [20e50793f2ce19dba85a4351f60f2a3b920aa710.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/20e50793f2ce19dba85a4351f60f2a3b920aa710.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\sql-database-elastic-scale-configure-deploy-split-and-merge.md
+* [Back to Top](#report-top)
+
+##### <a name='c10aa6f1f2e5b66d3ddcede921e55fee1d9a62f17510'></a> Source: [articles\media\sql-database-elastic-scale-split-and-merge-tutorial\staging.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-scale-split-and-merge-tutorial/staging.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [c10aa6f1f2e5b66d3ddcede921e55fee1d9a62f1.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/c10aa6f1f2e5b66d3ddcede921e55fee1d9a62f1.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\sql-database-elastic-scale-configure-deploy-split-and-merge.md
+* [Back to Top](#report-top)
+
+##### <a name='20e50793f2ce19dba85a4351f60f2a3b920aa7107512'></a> Source: [articles\media\sql-database-elastic-scale-split-and-merge-tutorial\upload.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/sql-database-elastic-scale-split-and-merge-tutorial/upload.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [20e50793f2ce19dba85a4351f60f2a3b920aa710.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/20e50793f2ce19dba85a4351f60f2a3b920aa710.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\sql-database-elastic-scale-configure-deploy-split-and-merge.md
+* [Back to Top](#report-top)
+
+##### <a name='0dca11997bc8b9c72767f74098b5f421025797f57969'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE01.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE01.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [0dca11997bc8b9c72767f74098b5f421025797f5.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/0dca11997bc8b9c72767f74098b5f421025797f5.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='c96396eebd4b653cbfde3ef1972b1ea5d803e8747970'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE02.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE02.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [c96396eebd4b653cbfde3ef1972b1ea5d803e874.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/c96396eebd4b653cbfde3ef1972b1ea5d803e874.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='a57d8ed84e4b32e14bc711f79c744478762dd7697971'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE03.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE03.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [a57d8ed84e4b32e14bc711f79c744478762dd769.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/a57d8ed84e4b32e14bc711f79c744478762dd769.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='a5f243c57a54941d4cf606db230eb9891c68fbcc7972'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE04.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE04.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [a5f243c57a54941d4cf606db230eb9891c68fbcc.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/a5f243c57a54941d4cf606db230eb9891c68fbcc.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='411ce74e23e1a81a3c78c3df7607c088738218d17973'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE05.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE05.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [411ce74e23e1a81a3c78c3df7607c088738218d1.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/411ce74e23e1a81a3c78c3df7607c088738218d1.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='579d211a95b3b7552d265def4e081dc5f99186147974'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE06.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE06.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [579d211a95b3b7552d265def4e081dc5f9918614.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/579d211a95b3b7552d265def4e081dc5f9918614.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='002fc2b11a82cf35bf7f09e4389cdc1a6fc26d2c7975'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE07.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE07.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [002fc2b11a82cf35bf7f09e4389cdc1a6fc26d2c.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/002fc2b11a82cf35bf7f09e4389cdc1a6fc26d2c.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='296da6cb663ef42db1df9581600b81e2d10211147976'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE08.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE08.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [296da6cb663ef42db1df9581600b81e2d1021114.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/296da6cb663ef42db1df9581600b81e2d1021114.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='579d211a95b3b7552d265def4e081dc5f99186147977'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE09.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE09.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [579d211a95b3b7552d265def4e081dc5f9918614.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/579d211a95b3b7552d265def4e081dc5f9918614.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='6bd96f95daac2190b82321c6aa8d79acc406b0277978'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE10.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE10.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [6bd96f95daac2190b82321c6aa8d79acc406b027.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/6bd96f95daac2190b82321c6aa8d79acc406b027.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='06069d027a71949e571b6aa99211094441469b187979'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE11.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE11.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [06069d027a71949e571b6aa99211094441469b18.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/06069d027a71949e571b6aa99211094441469b18.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='0115879dec6f1419389f218ff035b07b52a011ef7980'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE12.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE12.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [0115879dec6f1419389f218ff035b07b52a011ef.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/0115879dec6f1419389f218ff035b07b52a011ef.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='3e843e4092bfaa9e9e7c7454355c94a30fc5e1d97981'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE13.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE13.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [3e843e4092bfaa9e9e7c7454355c94a30fc5e1d9.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/3e843e4092bfaa9e9e7c7454355c94a30fc5e1d9.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='4428ed7401db7f55d03b3bec418323da92771a697982'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE14.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE14.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [4428ed7401db7f55d03b3bec418323da92771a69.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/4428ed7401db7f55d03b3bec418323da92771a69.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='0ed88900597be76eeb3b46c89d130f04d1da3be57983'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE15.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE15.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [0ed88900597be76eeb3b46c89d130f04d1da3be5.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/0ed88900597be76eeb3b46c89d130f04d1da3be5.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='45106cd83e21c0aca91279ad37e8461cca7235037984'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE16.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE16.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [45106cd83e21c0aca91279ad37e8461cca723503.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/45106cd83e21c0aca91279ad37e8461cca723503.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='071e2e453a0ce2ad6f8adfd23a8110fda3e0559e7985'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE17.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE17.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [071e2e453a0ce2ad6f8adfd23a8110fda3e0559e.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/071e2e453a0ce2ad6f8adfd23a8110fda3e0559e.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='579d211a95b3b7552d265def4e081dc5f99186147986'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE18.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE18.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [579d211a95b3b7552d265def4e081dc5f9918614.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/579d211a95b3b7552d265def4e081dc5f9918614.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='8aaf69ba289ca26fb73873f2e0ee42fcc7a22dcd7987'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE19.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE19.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [8aaf69ba289ca26fb73873f2e0ee42fcc7a22dcd.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/8aaf69ba289ca26fb73873f2e0ee42fcc7a22dcd.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='2fea4dbfaa93cf24dcb977242780a28deebcc8e67988'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE20.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE20.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [2fea4dbfaa93cf24dcb977242780a28deebcc8e6.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/2fea4dbfaa93cf24dcb977242780a28deebcc8e6.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='ec4f073d5f1653acc9a707b149a6eae7180924837989'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE21.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE21.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [ec4f073d5f1653acc9a707b149a6eae718092483.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/ec4f073d5f1653acc9a707b149a6eae718092483.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='85a9d21fa7433a841740ffcf8bec6ca51ce7c7017990'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE22.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE22.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [85a9d21fa7433a841740ffcf8bec6ca51ce7c701.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/85a9d21fa7433a841740ffcf8bec6ca51ce7c701.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='365dfb242856fe1b4c2ee486d2f402939cfea90d7991'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE23.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE23.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [365dfb242856fe1b4c2ee486d2f402939cfea90d.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/365dfb242856fe1b4c2ee486d2f402939cfea90d.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='8f3c79ddc102cc09e16a82861437109db84d4ea27992'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE24.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE24.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [8f3c79ddc102cc09e16a82861437109db84d4ea2.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/8f3c79ddc102cc09e16a82861437109db84d4ea2.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='4d8ffaafabcea78c1f0c73abcb7f57b7b55bfd3e7993'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE25.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE25.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [4d8ffaafabcea78c1f0c73abcb7f57b7b55bfd3e.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/4d8ffaafabcea78c1f0c73abcb7f57b7b55bfd3e.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='0668aeaaaf7482a5b71dc912eec99462d0a3dcd77994'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE26.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE26.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [0668aeaaaf7482a5b71dc912eec99462d0a3dcd7.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/0668aeaaaf7482a5b71dc912eec99462d0a3dcd7.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='0ece566413601b3ced00a69c81dec7b3f2a93a9c7995'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE27.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE27.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [0ece566413601b3ced00a69c81dec7b3f2a93a9c.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/0ece566413601b3ced00a69c81dec7b3f2a93a9c.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='6ddf3257d807639b07d241b1de7b1be1df27b3ec7996'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE28.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE28.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [6ddf3257d807639b07d241b1de7b1be1df27b3ec.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/6ddf3257d807639b07d241b1de7b1be1df27b3ec.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='5779d78e5592acd06817cab38c1e2c2390dfa6c77997'></a> Source: [articles\media\storage-table-design-guide\storage-table-design-IMAGE29.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/storage-table-design-guide/storage-table-design-IMAGE29.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [5779d78e5592acd06817cab38c1e2c2390dfa6c7.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/5779d78e5592acd06817cab38c1e2c2390dfa6c7.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\storage-table-design-guide.md
+* [Back to Top](#report-top)
+
+##### <a name='74b98f627373f64060783454c6fa039e2caf95d68221'></a> Source: [articles\media\stream-analytics-scale-jobs\perf.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/stream-analytics-scale-jobs/perf.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [74b98f627373f64060783454c6fa039e2caf95d6.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/74b98f627373f64060783454c6fa039e2caf95d6.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\stream-analytics-scale-jobs.md
+* [Back to Top](#report-top)
+
+##### <a name='37e2f6af27c2509d31562bac2438c4eb27fe02ee8223'></a> Source: [articles\media\stream-analytics-scale-jobs\StreamAnalytics.job.monitor.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/stream-analytics-scale-jobs/StreamAnalytics.job.monitor.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [37e2f6af27c2509d31562bac2438c4eb27fe02ee.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/37e2f6af27c2509d31562bac2438c4eb27fe02ee.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\stream-analytics-scale-jobs.md
+* [Back to Top](#report-top)
+
+##### <a name='e220b4f0f5d796d9664377df8a75cd77ec16a7ff8224'></a> Source: [articles\media\stream-analytics-scale-jobs\StreamAnalyticsStreamingUnitsExample.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/stream-analytics-scale-jobs/StreamAnalyticsStreamingUnitsExample.jpg)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [e220b4f0f5d796d9664377df8a75cd77ec16a7ff.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/e220b4f0f5d796d9664377df8a75cd77ec16a7ff.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\stream-analytics-scale-jobs.md
+* [Back to Top](#report-top)
+
+##### <a name='3ef4e6ff7747a0065d67c28e4a9aec57832c76518618'></a> Source: [articles\media\virtual-machines-linux-nodejs-running-cassandra\cassandra-linux1.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-linux-nodejs-running-cassandra/cassandra-linux1.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [3ef4e6ff7747a0065d67c28e4a9aec57832c7651.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/3ef4e6ff7747a0065d67c28e4a9aec57832c7651.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\virtual-machines-linux-nodejs-running-cassandra.md
+* [Back to Top](#report-top)
+
+##### <a name='19468068506d337d3ebcc7eeb3f067606a0d3c318619'></a> Source: [articles\media\virtual-machines-linux-nodejs-running-cassandra\cassandra-linux2.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-linux-nodejs-running-cassandra/cassandra-linux2.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [19468068506d337d3ebcc7eeb3f067606a0d3c31.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/19468068506d337d3ebcc7eeb3f067606a0d3c31.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\virtual-machines-linux-nodejs-running-cassandra.md
+* [Back to Top](#report-top)
+
+##### <a name='042e381c007b523aaafde75fbc062fdcde19fcd98787'></a> Source: [articles\media\virtual-machines-python-ipython-notebook\anaconda-install.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/anaconda-install.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [042e381c007b523aaafde75fbc062fdcde19fcd9.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/042e381c007b523aaafde75fbc062fdcde19fcd9.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\virtual-machines-python-ipython-notebook.md
+* [Back to Top](#report-top)
+
+##### <a name='249b93e499cc74245b93549a7ef06d08cd2ff4848789'></a> Source: [articles\media\virtual-machines-python-ipython-notebook\ipy-azure-linux-005.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/ipy-azure-linux-005.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [249b93e499cc74245b93549a7ef06d08cd2ff484.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/249b93e499cc74245b93549a7ef06d08cd2ff484.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\virtual-machines-python-ipython-notebook.md
+* [Back to Top](#report-top)
+
+##### <a name='d937f03b7b725b7bc34efe95f8aafa77d9b02f2c8790'></a> Source: [articles\media\virtual-machines-python-ipython-notebook\ipy-azure-linux-006.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/ipy-azure-linux-006.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [d937f03b7b725b7bc34efe95f8aafa77d9b02f2c.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/d937f03b7b725b7bc34efe95f8aafa77d9b02f2c.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\virtual-machines-python-ipython-notebook.md
+* [Back to Top](#report-top)
+
+##### <a name='a4275b3479fffe069b8025588e5627d9219271c18799'></a> Source: [articles\media\virtual-machines-python-ipython-notebook\ipy-notebook-spectral.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/ipy-notebook-spectral.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [a4275b3479fffe069b8025588e5627d9219271c1.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/a4275b3479fffe069b8025588e5627d9219271c1.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\virtual-machines-python-ipython-notebook.md
+* [Back to Top](#report-top)
+
+##### <a name='59e14695f6c71b3bd213bdc252d9bfe6ddf06dc28800'></a> Source: [articles\media\virtual-machines-python-ipython-notebook\jupyter-editing-experience.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/jupyter-editing-experience.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [59e14695f6c71b3bd213bdc252d9bfe6ddf06dc2.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/59e14695f6c71b3bd213bdc252d9bfe6ddf06dc2.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\virtual-machines-python-ipython-notebook.md
+* [Back to Top](#report-top)
+
+##### <a name='cf2b978f2fec646abaddfd9cbc9aa99f6cf236288801'></a> Source: [articles\media\virtual-machines-python-ipython-notebook\jupyter-tree-view.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/jupyter-tree-view.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [cf2b978f2fec646abaddfd9cbc9aa99f6cf23628.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/cf2b978f2fec646abaddfd9cbc9aa99f6cf23628.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\virtual-machines-python-ipython-notebook.md
+* [Back to Top](#report-top)
+
+##### <a name='9b16b34540c842eae27a8ad252b6632c574677bf8802'></a> Source: [articles\media\virtual-machines-python-ipython-notebook\jupyter-untitled-notebook.png](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/articles/media/virtual-machines-python-ipython-notebook/jupyter-untitled-notebook.png)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [9b16b34540c842eae27a8ad252b6632c574677bf.png](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/9b16b34540c842eae27a8ad252b6632c574677bf.png)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: articles\virtual-machines-python-ipython-notebook.md
 * [Back to Top](#report-top)
 
 ##### <a name='bedb241a1d5e6138431eb4ce892701ff21d750ca10887'></a> Source: [articles\mobile-services-dotnet-backend-windows-store-dotnet-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-store-dotnet-push-notifications-app-users.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-windows-store-dotnet-push-notifications-app-users.21aae2bbbd4be66b80ed3017e44c6bab011e4931.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-windows-store-dotnet-push-notifications-app-users.21aae2bbbd4be66b80ed3017e44c6bab011e4931.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='af7d63a75433a04eeb17fd76c66081d5562b51b810888'></a> Source: [articles\mobile-services-dotnet-backend-windows-universal-dotnet-get-started-data.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-universal-dotnet-get-started-data.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-windows-universal-dotnet-get-started-data.46aed011b8e7bacc75745c3bf922e10ca0dd5de2.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-windows-universal-dotnet-get-started-data.46aed011b8e7bacc75745c3bf922e10ca0dd5de2.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='6768546caeff3dd1f227ace0ade6b8c5b9aa0e9410889'></a> Source: [articles\mobile-services-dotnet-backend-windows-universal-dotnet-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-universal-dotnet-get-started-push.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-windows-universal-dotnet-get-started-push.cc38c93f42a6b9f196d41df31e3d87d5b21846db.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-windows-universal-dotnet-get-started-push.cc38c93f42a6b9f196d41df31e3d87d5b21846db.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='875fb791f641a94dede9c7a1acc4ccf465a213ab10890'></a> Source: [articles\mobile-services-dotnet-backend-windows-universal-dotnet-get-started-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-universal-dotnet-get-started-users.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-windows-universal-dotnet-get-started-users.21cd29f001200dc16125ddfc420c73889cdca713.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-windows-universal-dotnet-get-started-users.21cd29f001200dc16125ddfc420c73889cdca713.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [mobile-services-dotnet-backend-windows-store-dotnet-push-notifications-app-.21aae2bbbd4be66b80ed3017e44c6bab011e4931.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-windows-store-dotnet-push-notifications-app-.21aae2bbbd4be66b80ed3017e44c6bab011e4931.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -784,200 +1310,8 @@
 ##### <a name='fe78f8a149b1bfefbb140b1d7c8c17cfe265505c10891'></a> Source: [articles\mobile-services-dotnet-backend-windows-universal-dotnet-upload-data-blob-storage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-windows-universal-dotnet-upload-data-blob-storage.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-dotnet-backend-windows-universal-dotnet-upload-data-blob-storage.c684409c3e6ef55816cb1a7afbbcceb5c4a3fce7.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-windows-universal-dotnet-upload-data-blob-storage.c684409c3e6ef55816cb1a7afbbcceb5c4a3fce7.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='1236fcba0c5a524f2797fe951ccbc18f568f6f6d10894'></a> Source: [articles\mobile-services-dotnet-backend-xamarin-android-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-xamarin-android-get-started.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-xamarin-android-get-started.e2f36a00ac84a828e2eaf0333e13a34237ba59e9.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-xamarin-android-get-started.e2f36a00ac84a828e2eaf0333e13a34237ba59e9.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='a87313422b163dbad3e4516093e31aeacd96b3a410892'></a> Source: [articles\mobile-services-dotnet-backend-xamarin-android-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-xamarin-android-get-started-push.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-xamarin-android-get-started-push.79587e2c9a30015807679035593ea59fb4367720.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-xamarin-android-get-started-push.79587e2c9a30015807679035593ea59fb4367720.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='24aa6032bfff76de3a10bf298f5039636e9f715610893'></a> Source: [articles\mobile-services-dotnet-backend-xamarin-android-get-started-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-xamarin-android-get-started-users.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-xamarin-android-get-started-users.f810aa49a778316257345c3ddda99923bbf8b164.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-xamarin-android-get-started-users.f810aa49a778316257345c3ddda99923bbf8b164.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='d88d25049cd295db18212cb8ff23b4379f336ed510897'></a> Source: [articles\mobile-services-dotnet-backend-xamarin-ios-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-xamarin-ios-get-started.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-xamarin-ios-get-started.85bab2f4577c8438b3e28f6de1226cf904afcca8.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-xamarin-ios-get-started.85bab2f4577c8438b3e28f6de1226cf904afcca8.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='9cf71970cde5bfff0a3d1a26e6a2e5e6c532259a10895'></a> Source: [articles\mobile-services-dotnet-backend-xamarin-ios-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-xamarin-ios-get-started-push.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-xamarin-ios-get-started-push.5ead38fd57baf331fd858e2f657497ec8feeec7a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-xamarin-ios-get-started-push.5ead38fd57baf331fd858e2f657497ec8feeec7a.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='b6d287e21cf2e637f6ab8d273b3520e8e6cf016d10896'></a> Source: [articles\mobile-services-dotnet-backend-xamarin-ios-get-started-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-dotnet-backend-xamarin-ios-get-started-users.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-xamarin-ios-get-started-users.145c76a1e7dabc5beab6e492070944b98841a32f.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-xamarin-ios-get-started-users.145c76a1e7dabc5beab6e492070944b98841a32f.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='cba5b78ba0ba888e6c18a8129e99b1c64eb71d0710899'></a> Source: [articles\mobile-services-how-to-register-active-directory-authentication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-how-to-register-active-directory-authentication.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-how-to-register-active-directory-authentication.719de258f32e504afdc7a10cb62063eff8040d7f.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-how-to-register-active-directory-authentication.719de258f32e504afdc7a10cb62063eff8040d7f.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='f654b10e041ee28959df625b929a8d7bd78f518e10900'></a> Source: [articles\mobile-services-how-to-register-microsoft-authentication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-how-to-register-microsoft-authentication.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-how-to-register-microsoft-authentication.02cdbf72fe4211460f9f735f3cedff9a71a53508.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-how-to-register-microsoft-authentication.02cdbf72fe4211460f9f735f3cedff9a71a53508.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='ff74c810c0b07915ddd23c25e005711e29d3391f10901'></a> Source: [articles\mobile-services-how-to-use-multiple-clients-single-service.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-how-to-use-multiple-clients-single-service.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-how-to-use-multiple-clients-single-service.56ad1ee4c42fb42df00431a06b608d63404894de.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-how-to-use-multiple-clients-single-service.56ad1ee4c42fb42df00431a06b608d63404894de.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='3baf8acefd805e11e84514c674aada537f303db110911'></a> Source: [articles\mobile-services-javascript-backend-android-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-android-get-started-push.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-javascript-backend-android-get-started-push.83c6d21ca7e5092ffbbdf8896b4289c06f7d0845.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-android-get-started-push.83c6d21ca7e5092ffbbdf8896b4289c06f7d0845.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='f77dc41063cc0169b9d1eb5a20c15708e83e2f0410913'></a> Source: [articles\mobile-services-javascript-backend-ios-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-ios-get-started-push.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-javascript-backend-ios-get-started-push.341c7734f28d3f54e7668d837679180a85ec85c5.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-ios-get-started-push.341c7734f28d3f54e7668d837679180a85ec85c5.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='4c7784be17d884fc64ba7cffc13dc1a8e38af22d10914'></a> Source: [articles\mobile-services-javascript-backend-ios-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-ios-push-notifications-app-users.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-javascript-backend-ios-push-notifications-app-users.59e8799fe4723f0accb33d32fe82962609e92692.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-ios-push-notifications-app-users.59e8799fe4723f0accb33d32fe82962609e92692.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='a328640a0a722d2010a4ca2999a2adad27a0429610915'></a> Source: [articles\mobile-services-javascript-backend-phonegap-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-phonegap-get-started.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-javascript-backend-phonegap-get-started.f2880bec773704780ef5cedfcfb8786f0e515ce1.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-phonegap-get-started.f2880bec773704780ef5cedfcfb8786f0e515ce1.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='b41f09b01c22ba1f999ae6bdcba72b3b9c699c3f10916'></a> Source: [articles\mobile-services-javascript-backend-service-side-authorization.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-service-side-authorization.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-javascript-backend-service-side-authorization.aae368075bb38a372006f7a23bcbca75af3beae3.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-service-side-authorization.aae368075bb38a372006f7a23bcbca75af3beae3.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='c6bd3b086c866ba6376c460f731f140e2ffdfb4310917'></a> Source: [articles\mobile-services-javascript-backend-windows-phone-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-phone-get-started-push.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-javascript-backend-windows-phone-get-started-push.7361867d9d1f808c46cea0c2ab9fb1abdcb1b021.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-windows-phone-get-started-push.7361867d9d1f808c46cea0c2ab9fb1abdcb1b021.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='2e12d3fae2fc22997df5cf16727c789b8bdc968f10918'></a> Source: [articles\mobile-services-javascript-backend-windows-store-dotnet-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-store-dotnet-get-started.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-javascript-backend-windows-store-dotnet-get-started.692d4255c0c66d01b32c1d736797bcac2d19a5ac.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-windows-store-dotnet-get-started.692d4255c0c66d01b32c1d736797bcac2d19a5ac.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [mobile-services-dotnet-backend-windows-universal-dotnet-upload-data-blob-st.c684409c3e6ef55816cb1a7afbbcceb5c4a3fce7.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-windows-universal-dotnet-upload-data-blob-st.c684409c3e6ef55816cb1a7afbbcceb5c4a3fce7.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -988,20 +1322,8 @@
 ##### <a name='e1e8f62e4362df388d9c840c7bb799439c77d69210919'></a> Source: [articles\mobile-services-javascript-backend-windows-store-dotnet-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-store-dotnet-push-notifications-app-users.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-javascript-backend-windows-store-dotnet-push-notifications-app-users.c2e03e342e4fba3a39cdc1293bd977588f48a806.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-windows-store-dotnet-push-notifications-app-users.c2e03e342e4fba3a39cdc1293bd977588f48a806.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='1a8f5c3b30e85f94ac91e29c66e666453f92016710920'></a> Source: [articles\mobile-services-javascript-backend-windows-store-javascript-get-started.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-store-javascript-get-started.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-javascript-backend-windows-store-javascript-get-started.fb1ae6bbe9d7f2ff6b6ba52c1e9067871eb166aa.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-windows-store-javascript-get-started.fb1ae6bbe9d7f2ff6b6ba52c1e9067871eb166aa.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [mobile-services-javascript-backend-windows-store-dotnet-push-notifications-.c2e03e342e4fba3a39cdc1293bd977588f48a806.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-windows-store-dotnet-push-notifications-.c2e03e342e4fba3a39cdc1293bd977588f48a806.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1012,8 +1334,8 @@
 ##### <a name='8248845e47a84b997a2a5ae687d58f70c81b1b2f10921'></a> Source: [articles\mobile-services-javascript-backend-windows-universal-dotnet-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-universal-dotnet-get-started-push.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-javascript-backend-windows-universal-dotnet-get-started-push.7e0b1dbcb01a3df7f7de5aa2c3296a258288d96f.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-windows-universal-dotnet-get-started-push.7e0b1dbcb01a3df7f7de5aa2c3296a258288d96f.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [mobile-services-javascript-backend-windows-universal-dotnet-get-started-pus.7e0b1dbcb01a3df7f7de5aa2c3296a258288d96f.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-windows-universal-dotnet-get-started-pus.7e0b1dbcb01a3df7f7de5aa2c3296a258288d96f.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1024,8 +1346,8 @@
 ##### <a name='f1992d51c5ebb49a2a83fe4dde80fc0c36de7b6910922'></a> Source: [articles\mobile-services-javascript-backend-windows-universal-dotnet-get-started-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-universal-dotnet-get-started-users.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-javascript-backend-windows-universal-dotnet-get-started-users.a6c5be6ce462afb3536e7fcf34cc0c25ad238482.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-windows-universal-dotnet-get-started-users.a6c5be6ce462afb3536e7fcf34cc0c25ad238482.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [mobile-services-javascript-backend-windows-universal-dotnet-get-started-use.a6c5be6ce462afb3536e7fcf34cc0c25ad238482.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-windows-universal-dotnet-get-started-use.a6c5be6ce462afb3536e7fcf34cc0c25ad238482.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1036,620 +1358,8 @@
 ##### <a name='be59e2ab922d722d2c9009c74f592e6950cecf3910923'></a> Source: [articles\mobile-services-javascript-backend-windows-universal-dotnet-upload-data-blob-storage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-javascript-backend-windows-universal-dotnet-upload-data-blob-storage.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-javascript-backend-windows-universal-dotnet-upload-data-blob-storage.31b77ee73002110228bde622460d7bd3dd8fb29a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-windows-universal-dotnet-upload-data-blob-storage.31b77ee73002110228bde622460d7bd3dd8fb29a.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='9b8b69174873be24230ab5ad9fd33e45c7dd85fe10930'></a> Source: [articles\mobile-services-windows-store-dotnet-adal-sso-authentication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-windows-store-dotnet-adal-sso-authentication.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-store-dotnet-adal-sso-authentication.4c61db9881dc5d2e0f8d06d5cf4183cfab744e0c.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-store-dotnet-adal-sso-authentication.4c61db9881dc5d2e0f8d06d5cf4183cfab744e0c.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='43c3c84044880e305f36734e103922eb0b9a6b5010931'></a> Source: [articles\mobile-services-windows-store-dotnet-get-started-offline-data.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-windows-store-dotnet-get-started-offline-data.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-store-dotnet-get-started-offline-data.db53dfd8e4cbacb875121fd332ac73378213c34d.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-store-dotnet-get-started-offline-data.db53dfd8e4cbacb875121fd332ac73378213c34d.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='85ae7cf08697e2038f372d60aa60fe55fc03cbf910932'></a> Source: [articles\mobile-services-windows-store-dotnet-handle-database-conflicts.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-windows-store-dotnet-handle-database-conflicts.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-store-dotnet-handle-database-conflicts.5e1c2ba5fa124da2ea3d33c2a52bd5619543f2b4.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-store-dotnet-handle-database-conflicts.5e1c2ba5fa124da2ea3d33c2a52bd5619543f2b4.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='1b6005b699bfe393dde69dc90bcb2ef6b04c938e10933'></a> Source: [articles\mobile-services-windows-store-dotnet-handling-conflicts-offline-data.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-windows-store-dotnet-handling-conflicts-offline-data.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-store-dotnet-handling-conflicts-offline-data.4e6f26277624494c26fdf77330c109381fb0e2fb.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-store-dotnet-handling-conflicts-offline-data.4e6f26277624494c26fdf77330c109381fb0e2fb.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='eed0cfbba80595ec18617bfd96e3b6069d1323db10934'></a> Source: [articles\mobile-services-xamarin-android-get-started-offline-data.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mobile-services-xamarin-android-get-started-offline-data.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-xamarin-android-get-started-offline-data.0e72e2ec21e7f10715d054c4efc1dd2de083bb43.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-xamarin-android-get-started-offline-data.0e72e2ec21e7f10715d054c4efc1dd2de083bb43.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='73b00d22849dc9c726f458fb032939f1e72a509810936'></a> Source: [articles\multi-factor-authentication-end-user-app-passwords-create-azure.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-app-passwords-create-azure.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [multi-factor-authentication-end-user-app-passwords-create-azure.491931f1114222501ceb1a26bb3b0731a8a127e1.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/multi-factor-authentication-end-user-app-passwords-create-azure.491931f1114222501ceb1a26bb3b0731a8a127e1.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='e7f2c88f2ccf32f06e1792dfc911d6e14352257910937'></a> Source: [articles\multi-factor-authentication-end-user-app-passwords-create-myapps.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-app-passwords-create-myapps.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [multi-factor-authentication-end-user-app-passwords-create-myapps.68dce07f380f913a64595d16e76e056ba6765b52.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/multi-factor-authentication-end-user-app-passwords-create-myapps.68dce07f380f913a64595d16e76e056ba6765b52.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='00c3876c66ee25644c12fdbb533e13cbf977d4be10938'></a> Source: [articles\multi-factor-authentication-end-user-app-passwords-create-o365.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-app-passwords-create-o365.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [multi-factor-authentication-end-user-app-passwords-create-o365.b94877e0c81457cf93c01351d6ada420e77d4898.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/multi-factor-authentication-end-user-app-passwords-create-o365.b94877e0c81457cf93c01351d6ada420e77d4898.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='de9af308608fee6f3449c987c4992e760782fbbf10940'></a> Source: [articles\multi-factor-authentication-end-user-first-time-mobile-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-first-time-mobile-app.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [multi-factor-authentication-end-user-first-time-mobile-app.82a3ab340caf00799e81f1c4fef77b5262aaebc0.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/multi-factor-authentication-end-user-first-time-mobile-app.82a3ab340caf00799e81f1c4fef77b5262aaebc0.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='1021a4338eb26da16d13a595b4c6b74c7fa5446610941'></a> Source: [articles\multi-factor-authentication-end-user-first-time-mobile-phone.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-first-time-mobile-phone.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [multi-factor-authentication-end-user-first-time-mobile-phone.f3edeccd4113a0abe4db2b9ff30abf4cc8249354.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/multi-factor-authentication-end-user-first-time-mobile-phone.f3edeccd4113a0abe4db2b9ff30abf4cc8249354.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='a678ef4e400b8e89eddc8eb14f8e9bdb9d84f9bb10942'></a> Source: [articles\multi-factor-authentication-end-user-first-time-office-phone.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-first-time-office-phone.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [multi-factor-authentication-end-user-first-time-office-phone.69d74e583d3162b91a1a297183eb22d895d09570.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/multi-factor-authentication-end-user-first-time-office-phone.69d74e583d3162b91a1a297183eb22d895d09570.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='005ecb5c2d2680882f9b0d8815f01ab90675f6c710946'></a> Source: [articles\multi-factor-authentication-end-user-signin-app-notify.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-signin-app-notify.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [multi-factor-authentication-end-user-signin-app-notify.fbadd47b5a1d3c43e77ab14ff9445e252c4c9f12.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/multi-factor-authentication-end-user-signin-app-notify.fbadd47b5a1d3c43e77ab14ff9445e252c4c9f12.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='6ca4b1f2fc1611ab71cc1e2b3797336909c140c910947'></a> Source: [articles\multi-factor-authentication-end-user-signin-app-verify.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/multi-factor-authentication-end-user-signin-app-verify.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [multi-factor-authentication-end-user-signin-app-verify.c957ce573ffdff4f7cca6bfabc7009439ae4e9ea.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/multi-factor-authentication-end-user-signin-app-verify.c957ce573ffdff4f7cca6bfabc7009439ae4e9ea.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='b86aa9c52fe5dea2df85f436fbe51eccfd027b6710995'></a> Source: [articles\mysql-database-enus-performance-guidance-asdb-test-result.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/mysql-database-enus-performance-guidance-asdb-test-result.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mysql-database-enus-performance-guidance-asdb-test-result.9faefae42e21c027bb0a86280b384692937ee4c0.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mysql-database-enus-performance-guidance-asdb-test-result.9faefae42e21c027bb0a86280b384692937ee4c0.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='05c003e8965f8961e6c24cb8b448a78962b42b4f11018'></a> Source: [articles\notification-hubs-aspnet-backend-windows-dotnet-notify-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/notification-hubs-aspnet-backend-windows-dotnet-notify-users.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [notification-hubs-aspnet-backend-windows-dotnet-notify-users.2b5e520577d15e7c38d8d009353b7eed8678fa64.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/notification-hubs-aspnet-backend-windows-dotnet-notify-users.2b5e520577d15e7c38d8d009353b7eed8678fa64.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='370326ab01ad19f172e66d6009cc35bdaaaf22c011019'></a> Source: [articles\notification-hubs-aspnet-backend-windows-dotnet-secure-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/notification-hubs-aspnet-backend-windows-dotnet-secure-push.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [notification-hubs-aspnet-backend-windows-dotnet-secure-push.1c41691bfbde32e874d3e8e8f148dea667b3932c.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/notification-hubs-aspnet-backend-windows-dotnet-secure-push.1c41691bfbde32e874d3e8e8f148dea667b3932c.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='f462de540575c68d90eb921d5b97e7a98ef8f41311026'></a> Source: [articles\notification-hubs-ios-aspnet-register-user-push-notifications.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/notification-hubs-ios-aspnet-register-user-push-notifications.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [notification-hubs-ios-aspnet-register-user-push-notifications.9d6830fb84170faa18603e8ce6be2da80ca833b6.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/notification-hubs-ios-aspnet-register-user-push-notifications.9d6830fb84170faa18603e8ce6be2da80ca833b6.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='64623655b6255ee13d15fa351f03d95e17600bec11028'></a> Source: [articles\notification-hubs-ios-mobile-services-register-user-push-notifications.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/notification-hubs-ios-mobile-services-register-user-push-notifications.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [notification-hubs-ios-mobile-services-register-user-push-notifications.f69b0cc48ca374e60e4c23c37c292140cff95435.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/notification-hubs-ios-mobile-services-register-user-push-notifications.f69b0cc48ca374e60e4c23c37c292140cff95435.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='7b0e356b5f7bca0df51a2915faffa6249b71fb6511044'></a> Source: [articles\notification-hubs-windows-store-dotnet-send-breaking-news.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/notification-hubs-windows-store-dotnet-send-breaking-news.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [notification-hubs-windows-store-dotnet-send-breaking-news.715f2a4300993dfe4e9f2277d2b6723aadea4a41.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/notification-hubs-windows-store-dotnet-send-breaking-news.715f2a4300993dfe4e9f2277d2b6723aadea4a41.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='d36715e25b419dc514dd1e23a0be79300f3eb48811045'></a> Source: [articles\notification-hubs-windows-store-dotnet-send-localized-breaking-news.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/notification-hubs-windows-store-dotnet-send-localized-breaking-news.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [notification-hubs-windows-store-dotnet-send-localized-breaking-news.b063fae2b607a1d9f5688146be88895d072d6ccd.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/notification-hubs-windows-store-dotnet-send-localized-breaking-news.b063fae2b607a1d9f5688146be88895d072d6ccd.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='e2a55282db371fd8bea987c7cc9e42c5a235b7e211047'></a> Source: [articles\partner-xamarin-mobile-services-android-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/partner-xamarin-mobile-services-android-get-started-push.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [partner-xamarin-mobile-services-android-get-started-push.5b7180dfaf9c3870321373499258c40b1e0da2a9.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/partner-xamarin-mobile-services-android-get-started-push.5b7180dfaf9c3870321373499258c40b1e0da2a9.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='12e82d92651f135289f757b0366554ec6eae389011048'></a> Source: [articles\partner-xamarin-mobile-services-android-get-started-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/partner-xamarin-mobile-services-android-get-started-users.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [partner-xamarin-mobile-services-android-get-started-users.47f9f9fba763a2ab5dbfee93f44b80158f12f8ac.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/partner-xamarin-mobile-services-android-get-started-users.47f9f9fba763a2ab5dbfee93f44b80158f12f8ac.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='ef9a2519ec1a9203afb45a30e59a78b8ba55e93e11053'></a> Source: [articles\partner-xamarin-mobile-services-xamarin-forms-get-started-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/partner-xamarin-mobile-services-xamarin-forms-get-started-push.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [partner-xamarin-mobile-services-xamarin-forms-get-started-push.4ba2ae20a5818a2ebe00ae79eaf11e8a8bea7be2.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/partner-xamarin-mobile-services-xamarin-forms-get-started-push.4ba2ae20a5818a2ebe00ae79eaf11e8a8bea7be2.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='c4660f71a0ef1aa853d34cdbed6f416780a6877211106'></a> Source: [articles\service-bus-azure-and-service-bus-queues-compared-contrasted.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/service-bus-azure-and-service-bus-queues-compared-contrasted.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [service-bus-azure-and-service-bus-queues-compared-contrasted.ac481816f812794926c975a1a756e66a3feb2a65.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/service-bus-azure-and-service-bus-queues-compared-contrasted.ac481816f812794926c975a1a756e66a3feb2a65.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='c6360e95b8264fbe06188a09257a7f4f6757427911118'></a> Source: [articles\service-bus-dotnet-multi-tier-app-using-service-bus-queues.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/service-bus-dotnet-multi-tier-app-using-service-bus-queues.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [service-bus-dotnet-multi-tier-app-using-service-bus-queues.3e40806db861cbd9fadba14eeae43284a46ed279.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/service-bus-dotnet-multi-tier-app-using-service-bus-queues.3e40806db861cbd9fadba14eeae43284a46ed279.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='6e03d32b15d2c2fa8577bf43ac6cee5b06c9504511121'></a> Source: [articles\service-bus-hybrid-applications-spanning-cloud-and-premises.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/service-bus-hybrid-applications-spanning-cloud-and-premises.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [service-bus-hybrid-applications-spanning-cloud-and-premises.aa5853633ff80054cb2a774af698603cfaca9ca8.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/service-bus-hybrid-applications-spanning-cloud-and-premises.aa5853633ff80054cb2a774af698603cfaca9ca8.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='46ed5ad30661aa7498fd362fc37510451dbf0d5011133'></a> Source: [articles\service-bus-partitioned-queues-and-topics-amqp-overview.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/service-bus-partitioned-queues-and-topics-amqp-overview.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [service-bus-partitioned-queues-and-topics-amqp-overview.4f2c0eae19b1551dd1985cf5fab02727e4eda537.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/service-bus-partitioned-queues-and-topics-amqp-overview.4f2c0eae19b1551dd1985cf5fab02727e4eda537.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='604e291cd345727c7700f0c5ddc55e0ca1eeb31411158'></a> Source: [articles\site-recovery-capacity-planning-for-hyper-v-replication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/site-recovery-capacity-planning-for-hyper-v-replication.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [site-recovery-capacity-planning-for-hyper-v-replication.13b6bcf666b3f9930b540c29739a697ffd08bf5b.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/site-recovery-capacity-planning-for-hyper-v-replication.13b6bcf666b3f9930b540c29739a697ffd08bf5b.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='5e247813ae1033abeb2decc1e8e7a72021e1e9f711173'></a> Source: [articles\site-recovery-performance-and-scaling-testing-on-premises-to-on-premises.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/site-recovery-performance-and-scaling-testing-on-premises-to-on-premises.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [site-recovery-performance-and-scaling-testing-on-premises-to-on-premises.120e3fddc43b49f7c1f52e32f32e72789ef26017.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/site-recovery-performance-and-scaling-testing-on-premises-to-on-premises.120e3fddc43b49f7c1f52e32f32e72789ef26017.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='31213b5700514ad30a4e5cf1e45bdfa2ceb18d4011181'></a> Source: [articles\site-recovery-vmm-to-vmm-with-powershell-resource-manager.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/site-recovery-vmm-to-vmm-with-powershell-resource-manager.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [site-recovery-vmm-to-vmm-with-powershell-resource-manager.9b3c18915bd6b72a6c3c5e94400fc428b740ee30.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/site-recovery-vmm-to-vmm-with-powershell-resource-manager.9b3c18915bd6b72a6c3c5e94400fc428b740ee30.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='e7db2db180c30811ceb6cd3bb03f8b136d505d7f11249'></a> Source: [articles\sql-database-auditing-and-dynamic-data-masking-downlevel-clients.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-auditing-and-dynamic-data-masking-downlevel-clients.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-auditing-and-dynamic-data-masking-downlevel-clients.0048b60f03880c04f47833097d8abd0bf5c97e6b.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-auditing-and-dynamic-data-masking-downlevel-clients.0048b60f03880c04f47833097d8abd0bf5c97e6b.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='4db557467cddac4572d90286c95f6c898480412211257'></a> Source: [articles\sql-database-cloud-migrate-compatible-export-bacpac-sqlpackage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-compatible-export-bacpac-sqlpackage.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-cloud-migrate-compatible-export-bacpac-sqlpackage.70c948aac607762599c15589eaa34a93a162fbf4.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-cloud-migrate-compatible-export-bacpac-sqlpackage.70c948aac607762599c15589eaa34a93a162fbf4.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='ae92b8508906216c2865317647cd52a17f641c1411258'></a> Source: [articles\sql-database-cloud-migrate-compatible-export-bacpac-ssms.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-compatible-export-bacpac-ssms.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-cloud-migrate-compatible-export-bacpac-ssms.4313bb9c071dceb0f521ed4f90bee0e5e9904eac.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-cloud-migrate-compatible-export-bacpac-ssms.4313bb9c071dceb0f521ed4f90bee0e5e9904eac.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='3b067c49ef21aa68603d43c23f3b5f8aaacf21b511259'></a> Source: [articles\sql-database-cloud-migrate-compatible-import-bacpac-sqlpackage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-compatible-import-bacpac-sqlpackage.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-cloud-migrate-compatible-import-bacpac-sqlpackage.37db7fc85800294a1c50a78c13619bd2fba5f43a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-cloud-migrate-compatible-import-bacpac-sqlpackage.37db7fc85800294a1c50a78c13619bd2fba5f43a.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='b8f30c61178905cbcf7b8bd915a363ee2ff33bcd11260'></a> Source: [articles\sql-database-cloud-migrate-compatible-import-bacpac-ssms.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-compatible-import-bacpac-ssms.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-cloud-migrate-compatible-import-bacpac-ssms.76fc45cd278f4014a197acb351b136c002deb360.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-cloud-migrate-compatible-import-bacpac-ssms.76fc45cd278f4014a197acb351b136c002deb360.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='fa0f0f6b79a27dde5a283776d598bb6f8122d0b511261'></a> Source: [articles\sql-database-cloud-migrate-compatible-using-ssms-migration-wizard.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-compatible-using-ssms-migration-wizard.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-cloud-migrate-compatible-using-ssms-migration-wizard.e862e650463e69283b464f97faa0aa8a78fb9631.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-cloud-migrate-compatible-using-ssms-migration-wizard.e862e650463e69283b464f97faa0aa8a78fb9631.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='2048ad39460fa2709fbb413290bdf4928ea4a0bc11262'></a> Source: [articles\sql-database-cloud-migrate-compatible-using-transactional-replication.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-compatible-using-transactional-replication.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-cloud-migrate-compatible-using-transactional-replication.9446ef9a81ba9d0aa3ba56e9ae0990050475efb8.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-cloud-migrate-compatible-using-transactional-replication.9446ef9a81ba9d0aa3ba56e9ae0990050475efb8.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='de003a47809a87a1ecf281ceabd3499b7381407911263'></a> Source: [articles\sql-database-cloud-migrate-determine-compatibility-sqlpackage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-determine-compatibility-sqlpackage.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-cloud-migrate-determine-compatibility-sqlpackage.21643316bb5152aa563eaee159b9f4aef5f6d59d.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-cloud-migrate-determine-compatibility-sqlpackage.21643316bb5152aa563eaee159b9f4aef5f6d59d.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='6d85b96ecc449b319f95940565872070ce86b83711264'></a> Source: [articles\sql-database-cloud-migrate-determine-compatibility-ssms.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-determine-compatibility-ssms.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-cloud-migrate-determine-compatibility-ssms.70a0a3de93e7185e2b32b465444e11e90f3b060c.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-cloud-migrate-determine-compatibility-ssms.70a0a3de93e7185e2b32b465444e11e90f3b060c.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='84833905f8d48e827783e354864ec965cd15fc6311265'></a> Source: [articles\sql-database-cloud-migrate-fix-compatibility-issues-SSDT.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-fix-compatibility-issues-SSDT.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-cloud-migrate-fix-compatibility-issues-SSDT.2303d8fc130441c52dfd61eb75d60fa1df5e61a2.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-cloud-migrate-fix-compatibility-issues-SSDT.2303d8fc130441c52dfd61eb75d60fa1df5e61a2.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='1110c29f921d9bbaade156cae32dea98cc03a67711266'></a> Source: [articles\sql-database-cloud-migrate-fix-compatibility-issues-SSMS.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-cloud-migrate-fix-compatibility-issues-SSMS.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-cloud-migrate-fix-compatibility-issues-SSMS.11aa5130a821a00aafd03b0708cd31e0f77ddbfd.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-cloud-migrate-fix-compatibility-issues-SSMS.11aa5130a821a00aafd03b0708cd31e0f77ddbfd.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='e800e6219e5590d0866a3d5d3b730175c9dd929d11284'></a> Source: [articles\sql-database-designing-cloud-solutions-for-disaster-recovery.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-designing-cloud-solutions-for-disaster-recovery.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-designing-cloud-solutions-for-disaster-recovery.319ca9dc9bd841afc92b2cd874d14e9b53feb2f1.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-designing-cloud-solutions-for-disaster-recovery.319ca9dc9bd841afc92b2cd874d14e9b53feb2f1.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='2327bcf04180015d13bb956df659572fb8275e6f11329'></a> Source: [articles\sql-database-elastic-scale-configure-deploy-split-and-merge.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-elastic-scale-configure-deploy-split-and-merge.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-elastic-scale-configure-deploy-split-and-merge.5500fd6f9056625847180590ad970dd4b8e3c9c8.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-elastic-scale-configure-deploy-split-and-merge.5500fd6f9056625847180590ad970dd4b8e3c9c8.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='d6ace18143a2782113daeae0fc13ed3651f5eaf711340'></a> Source: [articles\sql-database-elastic-scale-split-merge-security-configuration.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-elastic-scale-split-merge-security-configuration.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-elastic-scale-split-merge-security-configuration.3eab4b34a61da806778e20d83aedec83239628b5.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-elastic-scale-split-merge-security-configuration.3eab4b34a61da806778e20d83aedec83239628b5.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='b2df5f94676574e8be321e80b57e54608163a05d11342'></a> Source: [articles\sql-database-elastic-scale-use-entity-framework-applications-visual-studio.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-elastic-scale-use-entity-framework-applications-visual-studio.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-elastic-scale-use-entity-framework-applications-visual-studio.3dd9ed1e746a348ad13ad895d23e3331747ca758.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-elastic-scale-use-entity-framework-applications-visual-studio.3dd9ed1e746a348ad13ad895d23e3331747ca758.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='eaf501c766326fde5bd143133ba650ed124ad55911344'></a> Source: [articles\sql-database-elastic-tools-multi-tenant-row-level-security.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-database-elastic-tools-multi-tenant-row-level-security.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-elastic-tools-multi-tenant-row-level-security.f2dac6daa8c3e9b70ba47e6f915d19398c840b01.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-elastic-tools-multi-tenant-row-level-security.f2dac6daa8c3e9b70ba47e6f915d19398c840b01.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='a4105a2bca6b658c0a8907599bf28e190f455b7911188'></a> Source: [articles\sql-data-warehouse-business-continuity-recover-from-user-error.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/sql-data-warehouse-business-continuity-recover-from-user-error.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-data-warehouse-business-continuity-recover-from-user-error.3c9c7fe2dcd04d924d8adbc02b2a69485e0b19f0.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-data-warehouse-business-continuity-recover-from-user-error.3c9c7fe2dcd04d924d8adbc02b2a69485e0b19f0.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='741d3bb51a58be1b793f501b7040b7675e7aece211444'></a> Source: [articles\storage-monitoring-diagnosing-troubleshooting-classic-portal.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/storage-monitoring-diagnosing-troubleshooting-classic-portal.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [storage-monitoring-diagnosing-troubleshooting-classic-portal.adf76a0208e3df06e5cc38dd6d526407e7204231.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/storage-monitoring-diagnosing-troubleshooting-classic-portal.adf76a0208e3df06e5cc38dd6d526407e7204231.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='664c7d6229ef3b2bfa2e207067f0ceef562824fe11488'></a> Source: [articles\stream-analytics-monitor-and-manage-jobs-use-powershell.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/stream-analytics-monitor-and-manage-jobs-use-powershell.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [stream-analytics-monitor-and-manage-jobs-use-powershell.16546d69bc0c49363ecbf3652ba1f47297d67cf4.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/stream-analytics-monitor-and-manage-jobs-use-powershell.16546d69bc0c49363ecbf3652ba1f47297d67cf4.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='d2ff0cb3106481506650cbf582f2ede809c4c9ca11493'></a> Source: [articles\stream-analytics-real-time-event-processing-reference-architecture.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/stream-analytics-real-time-event-processing-reference-architecture.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [stream-analytics-real-time-event-processing-reference-architecture.17c2403bc0c3ec65e098ca22a5e788d6f6619443.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/stream-analytics-real-time-event-processing-reference-architecture.17c2403bc0c3ec65e098ca22a5e788d6f6619443.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='213cb433cccf7183200fcb2588987bf905c5c78211529'></a> Source: [articles\virtual-machines-creating-oracle-database-virtual-machine.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-creating-oracle-database-virtual-machine.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-creating-oracle-database-virtual-machine.aa8da2a0f65bddce952eed47c2b9f8ef0adef8af.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-creating-oracle-database-virtual-machine.aa8da2a0f65bddce952eed47c2b9f8ef0adef8af.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [mobile-services-javascript-backend-windows-universal-dotnet-upload-data-blo.31b77ee73002110228bde622460d7bd3dd8fb29a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-windows-universal-dotnet-upload-data-blo.31b77ee73002110228bde622460d7bd3dd8fb29a.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1660,116 +1370,8 @@
 ##### <a name='20d6f7ee4517b8be2faa0f3c3ab3838d8245169411530'></a> Source: [articles\virtual-machines-creating-oracle-webLogic-server-12c-oracle-database-12c-virtual-machine.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-creating-oracle-webLogic-server-12c-oracle-database-12c-virtual-machine.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [virtual-machines-creating-oracle-webLogic-server-12c-oracle-database-12c-virtual-machine.efa9a393c4140b20f5eade8e584cfb3254759a4a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-creating-oracle-webLogic-server-12c-oracle-database-12c-virtual-machine.efa9a393c4140b20f5eade8e584cfb3254759a4a.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='d5fadd2c05f3a2a6d9f391b8881a2454a6e7642e11531'></a> Source: [articles\virtual-machines-creating-oracle-webLogic-server-12c-virtual-machine.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-creating-oracle-webLogic-server-12c-virtual-machine.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-creating-oracle-webLogic-server-12c-virtual-machine.f7ad766765b1f6a16287c1ca1c0808ce6c1be8b7.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-creating-oracle-webLogic-server-12c-virtual-machine.f7ad766765b1f6a16287c1ca1c0808ce6c1be8b7.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='de9f55a25f88039943bd2915f6de39e5981962a011536'></a> Source: [articles\virtual-machines-docker-registry-on-azure-blob-storage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-docker-registry-on-azure-blob-storage.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-docker-registry-on-azure-blob-storage.502a9555d53c19f50d062103f3c3b837073ceede.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-docker-registry-on-azure-blob-storage.502a9555d53c19f50d062103f3c3b837073ceede.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='8bc9b3add408944757bcd25272406cc77ee1cf4d11540'></a> Source: [articles\virtual-machines-dotnet-create-visual-studio-powershell.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-dotnet-create-visual-studio-powershell.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-dotnet-create-visual-studio-powershell.ea16613bae6936847d7fe8e6b9b4a4729b7da862.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-dotnet-create-visual-studio-powershell.ea16613bae6936847d7fe8e6b9b4a4729b7da862.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='e31b53bf2f5dc76f0fd3f58e60351d9e11f1ec1b11560'></a> Source: [articles\virtual-machines-infrastructure-services-implementation-guidelines.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-infrastructure-services-implementation-guidelines.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-infrastructure-services-implementation-guidelines.1e851db34cbf7cc813cbe943104755d317493e0a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-infrastructure-services-implementation-guidelines.1e851db34cbf7cc813cbe943104755d317493e0a.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='3cf161c7f3bb5bc35a11ab18d920a66e77c5b59c11607'></a> Source: [articles\virtual-machines-linux-use-vmaccess-reset-password-or-ssh.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-linux-use-vmaccess-reset-password-or-ssh.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-linux-use-vmaccess-reset-password-or-ssh.6fab6391f4764cd9dbc290f1cbf81ca794058072.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-linux-use-vmaccess-reset-password-or-ssh.6fab6391f4764cd9dbc290f1cbf81ca794058072.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='4661c4b82ce48b276b6839e8c030bf0294239e0f11616'></a> Source: [articles\virtual-machines-miscellaneous-considerations-oracle-virtual-machine-images.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-miscellaneous-considerations-oracle-virtual-machine-images.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-miscellaneous-considerations-oracle-virtual-machine-images.1fc506e264990b325f3ff26d58740f8b8c71b019.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-miscellaneous-considerations-oracle-virtual-machine-images.1fc506e264990b325f3ff26d58740f8b8c71b019.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='8f930bc1ca3c35f0ccbe2ec3855ebed0682cb6b211636'></a> Source: [articles\virtual-machines-sql-server-alwayson-availability-groups-gui.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-alwayson-availability-groups-gui.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-sql-server-alwayson-availability-groups-gui.f559a825893dbf233d7d8b123558e05b00691586.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-alwayson-availability-groups-gui.f559a825893dbf233d7d8b123558e05b00691586.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='98c98facfab56133481ef498c0d74ec777fc616111637'></a> Source: [articles\virtual-machines-sql-server-alwayson-availability-groups-powershell.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-alwayson-availability-groups-powershell.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-sql-server-alwayson-availability-groups-powershell.84048066db498370fc19212745f8ff99f35e72dd.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-alwayson-availability-groups-powershell.84048066db498370fc19212745f8ff99f35e72dd.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='20dacd435fdad948843b51703afc9af5edd8e74911638'></a> Source: [articles\virtual-machines-sql-server-application-patterns-and-development-strategies.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-application-patterns-and-development-strategies.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-sql-server-application-patterns-and-development-strategies.ee3f0d69cd883b1bf753a37f725f587d10e1983b.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-application-patterns-and-development-strategies.ee3f0d69cd883b1bf753a37f725f587d10e1983b.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [virtual-machines-creating-oracle-webLogic-server-12c-oracle-database-12c-vi.efa9a393c4140b20f5eade8e584cfb3254759a4a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-creating-oracle-webLogic-server-12c-oracle-database-12c-vi.efa9a393c4140b20f5eade8e584cfb3254759a4a.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1780,8 +1382,8 @@
 ##### <a name='cde7825c6b57805949185c7e39c532ec746f2cc211643'></a> Source: [articles\virtual-machines-sql-server-configure-ilb-alwayson-availability-group-listener.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-configure-ilb-alwayson-availability-group-listener.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [virtual-machines-sql-server-configure-ilb-alwayson-availability-group-listener.202f18dac51072cee5a030e4f0a087307f990e46.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-configure-ilb-alwayson-availability-group-listener.202f18dac51072cee5a030e4f0a087307f990e46.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [virtual-machines-sql-server-configure-ilb-alwayson-availability-group-liste.202f18dac51072cee5a030e4f0a087307f990e46.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-configure-ilb-alwayson-availability-group-liste.202f18dac51072cee5a030e4f0a087307f990e46.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1792,32 +1394,8 @@
 ##### <a name='78d9a7c0a1760cb1ec886ca4a17f61edf9fea2b111644'></a> Source: [articles\virtual-machines-sql-server-configure-public-alwayson-availability-group-listener.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-configure-public-alwayson-availability-group-listener.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [virtual-machines-sql-server-configure-public-alwayson-availability-group-listener.74c5436472b225d803889867958ecb082f1483eb.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-configure-public-alwayson-availability-group-listener.74c5436472b225d803889867958ecb082f1483eb.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='750801171c3492b9693364fb8d02fa9eac64d03a11646'></a> Source: [articles\virtual-machines-sql-server-create-native-mode-report-server-powershell.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-create-native-mode-report-server-powershell.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-sql-server-create-native-mode-report-server-powershell.d9a31be6ff07964612e3f8a57c777e3bd43e8192.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-create-native-mode-report-server-powershell.d9a31be6ff07964612e3f8a57c777e3bd43e8192.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='31688f753f5435418ce8cd60eaf391ce4f7c070711648'></a> Source: [articles\virtual-machines-sql-server-extend-on-premises-alwayson-availability-groups.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-extend-on-premises-alwayson-availability-groups.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-sql-server-extend-on-premises-alwayson-availability-groups.457f0de12e806cd3de953692489c0660d19b85d8.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-extend-on-premises-alwayson-availability-groups.457f0de12e806cd3de953692489c0660d19b85d8.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [virtual-machines-sql-server-configure-public-alwayson-availability-group-li.74c5436472b225d803889867958ecb082f1483eb.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-configure-public-alwayson-availability-group-li.74c5436472b225d803889867958ecb082f1483eb.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1828,116 +1406,8 @@
 ##### <a name='9db2dedbc0142bef3d5448da3411d6ac6edfcbe111649'></a> Source: [articles\virtual-machines-sql-server-high-availability-and-disaster-recovery-solutions.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-high-availability-and-disaster-recovery-solutions.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [virtual-machines-sql-server-high-availability-and-disaster-recovery-solutions.08a50e40f833c52094fe370982b19af63c8c216e.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-high-availability-and-disaster-recovery-solutions.08a50e40f833c52094fe370982b19af63c8c216e.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='01e98d28b6cf8b5b7203e09a30ea9427cd7b5a8311651'></a> Source: [articles\virtual-machines-sql-server-performance-best-practices.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-performance-best-practices.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-sql-server-performance-best-practices.b85f6fd4da62a517dba7b17e421496e4fbdbb50c.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-performance-best-practices.b85f6fd4da62a517dba7b17e421496e4fbdbb50c.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='b9ebda79ecca0c9cb60f05430c2dcd7246af094011654'></a> Source: [articles\virtual-machines-sql-server-use-reportviewer-in-a-web-site.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-sql-server-use-reportviewer-in-a-web-site.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-sql-server-use-reportviewer-in-a-web-site.be05dd7a72aabb50be2e2d5e671f530eafd3c376.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-use-reportviewer-in-a-web-site.be05dd7a72aabb50be2e2d5e671f530eafd3c376.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='5dc34703e94e44b5f3bb117244df3ccb1242196811656'></a> Source: [articles\virtual-machines-troubleshoot-remote-desktop-connections.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-machines-troubleshoot-remote-desktop-connections.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-troubleshoot-remote-desktop-connections.0dd9ca11a9d526e20c4fc6d1191e9331101b9f00.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-troubleshoot-remote-desktop-connections.0dd9ca11a9d526e20c4fc6d1191e9331101b9f00.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='2b27780109f26ffcfe9ff12075cb9d8714e09c0f11683'></a> Source: [articles\virtual-networks-install-replica-active-directory-domain-controller.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-install-replica-active-directory-domain-controller.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-networks-install-replica-active-directory-domain-controller.46a2756282849385b33ba68c482ffb8376b26011.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-install-replica-active-directory-domain-controller.46a2756282849385b33ba68c482ffb8376b26011.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='f8989949c61b424e82ea004a9741c077e314d51b11685'></a> Source: [articles\virtual-networks-load-balancer-manage-distribution-mode-source-ip.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-load-balancer-manage-distribution-mode-source-ip.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-networks-load-balancer-manage-distribution-mode-source-ip.d4fbc92c136cbce8f6474f23b31291c0252260db.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-load-balancer-manage-distribution-mode-source-ip.d4fbc92c136cbce8f6474f23b31291c0252260db.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='340afa59ebabf95f3a893c14fa0c5317a11359ea11692'></a> Source: [articles\virtual-networks-name-resolution-for-vms-and-role-instances.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-name-resolution-for-vms-and-role-instances.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-networks-name-resolution-for-vms-and-role-instances.cbedcfed906b577fdd3527aac318a85876dc3ed0.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-name-resolution-for-vms-and-role-instances.cbedcfed906b577fdd3527aac318a85876dc3ed0.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='c855d8f77e5bfee5d2bca45e2397e4647f525a9511701'></a> Source: [articles\virtual-networks-setup-hybrid-cloud-environment-testing.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-setup-hybrid-cloud-environment-testing.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-networks-setup-hybrid-cloud-environment-testing.f5bb8d09db2cf449c9198c8d72639ecefd2b82e6.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-setup-hybrid-cloud-environment-testing.f5bb8d09db2cf449c9198c8d72639ecefd2b82e6.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='e8586deee5f3fb4967f8cbf792334be0dabb334d11703'></a> Source: [articles\virtual-networks-setup-sharepoint-hybrid-cloud-testing.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-setup-sharepoint-hybrid-cloud-testing.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-networks-setup-sharepoint-hybrid-cloud-testing.c9e42572b2690b16e240df0e438a3a14e0e1ce99.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-setup-sharepoint-hybrid-cloud-testing.c9e42572b2690b16e240df0e438a3a14e0e1ce99.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='b2db604190997de61539b89d926650f0aab45d1811704'></a> Source: [articles\virtual-networks-setup-simulated-hybrid-cloud-environment-testing.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-setup-simulated-hybrid-cloud-environment-testing.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-networks-setup-simulated-hybrid-cloud-environment-testing.2f919c23c1554155f75f4253024f42fcc3293276.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-setup-simulated-hybrid-cloud-environment-testing.2f919c23c1554155f75f4253024f42fcc3293276.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [virtual-machines-sql-server-high-availability-and-disaster-recovery-solutio.08a50e40f833c52094fe370982b19af63c8c216e.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-high-availability-and-disaster-recovery-solutio.08a50e40f833c52094fe370982b19af63c8c216e.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1948,8 +1418,8 @@
 ##### <a name='cbe71c9b931c13214e4edbf6223dd453504a6f5b11705'></a> Source: [articles\virtual-networks-specifying-a-dns-settings-in-a-virtual-network-configuration-file.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-specifying-a-dns-settings-in-a-virtual-network-configuration-file.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [virtual-networks-specifying-a-dns-settings-in-a-virtual-network-configuration-file.0d91ed1f87d25570fad28a1f6886e7f8285267c1.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-specifying-a-dns-settings-in-a-virtual-network-configuration-file.0d91ed1f87d25570fad28a1f6886e7f8285267c1.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
+* Handoff File: [virtual-networks-specifying-a-dns-settings-in-a-virtual-network-configurati.0d91ed1f87d25570fad28a1f6886e7f8285267c1.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-specifying-a-dns-settings-in-a-virtual-network-configurati.0d91ed1f87d25570fad28a1f6886e7f8285267c1.en-us.xlf)
+* Handoff Datetime: 2016-03-29 02:16:21
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1957,772 +1427,82 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='298f572c3d306c1bab3482849d47ab47e70fb89411706'></a> Source: [articles\virtual-networks-specifying-dns-settings-in-a-service-configuration-file.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-specifying-dns-settings-in-a-service-configuration-file.md)
+##### <a name='3d3b92f9827684f257f1ee4b51c1743a9978a2bc12021'></a> Source: [includes\media\application-model\application-model-3.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/includes/media/application-model/application-model-3.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [virtual-networks-specifying-dns-settings-in-a-service-configuration-file.6b7fd0df405b610a55f194c2b982631ee4664fdd.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-specifying-dns-settings-in-a-service-configuration-file.6b7fd0df405b610a55f194c2b982631ee4664fdd.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='7f73f038c04501f18e4ad09c8dcb6b67bfcd6eb411713'></a> Source: [articles\virtual-networks-windows-server-active-directory-virtual-machines.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/virtual-networks-windows-server-active-directory-virtual-machines.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-networks-windows-server-active-directory-virtual-machines.61e85ba01097e19d92c8461b2cab945708572aa9.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-windows-server-active-directory-virtual-machines.61e85ba01097e19d92c8461b2cab945708572aa9.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='8383e864244177f8aef44b2bcc5626c693ab71e111752'></a> Source: [articles\web-sites-digital-marketing-application-solution-overview.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/web-sites-digital-marketing-application-solution-overview.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [web-sites-digital-marketing-application-solution-overview.c399f7ddae8a48191530d25315be616d5e33ce1d.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/web-sites-digital-marketing-application-solution-overview.c399f7ddae8a48191530d25315be616d5e33ce1d.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='8536fe30fe572e333bf6d1c24225ddf8a3e1248411753'></a> Source: [articles\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database.c6a2a28ff4cc52e8a6453f2d2b85c2e5fb014d67.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database.c6a2a28ff4cc52e8a6453f2d2b85c2e5fb014d67.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='aed8a97e079df8e3ee0a710e0255c2fc1768120711755'></a> Source: [articles\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/articles/web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database.428d75f00e93bb5c5439ea0f956674871d96807b.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database.428d75f00e93bb5c5439ea0f956674871d96807b.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='6cca8d9a8fc7d2e3e788af253ebad2fa0f14a10a12014'></a> Source: [includes\media-services-selector-manage-live-encoder-enabled-channels.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/media-services-selector-manage-live-encoder-enabled-channels.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [media-services-selector-manage-live-encoder-enabled-channels.8d26556296789c7577346161b87b4abafa8911b1.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/media-services-selector-manage-live-encoder-enabled-channels.8d26556296789c7577346161b87b4abafa8911b1.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='736cef8e9b24428eaa83e94ee22546f651afc9d912917'></a> Source: [includes\mobile-services-android-authenticate-app-refresh-token.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-android-authenticate-app-refresh-token.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-android-authenticate-app-refresh-token.783afd8c0354d0e151b9264262246e8549a65aae.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-android-authenticate-app-refresh-token.783afd8c0354d0e151b9264262246e8549a65aae.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='ff9f7fa535f01f4a6a205945981c482c88e2f91f12916'></a> Source: [includes\mobile-services-android-authenticate-app-refresh-token-EC.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-android-authenticate-app-refresh-token-EC.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-android-authenticate-app-refresh-token-EC.5574cdc937c173718db55381bd1331b2e04e153d.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-android-authenticate-app-refresh-token-EC.5574cdc937c173718db55381bd1331b2e04e153d.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='68507385d99ce957d28ab10ec644b957486f572512918'></a> Source: [includes\mobile-services-android-authenticate-app-with-token-EC.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-android-authenticate-app-with-token-EC.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-android-authenticate-app-with-token-EC.a4e0ddfdf8d25b54eb876b8f4a9ae59f41d3bb3d.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-android-authenticate-app-with-token-EC.a4e0ddfdf8d25b54eb876b8f4a9ae59f41d3bb3d.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='129186b0a0ff288c56abdcf18b895192df25d2eb12931'></a> Source: [includes\mobile-services-android-push-notifications-app-users-EC.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-android-push-notifications-app-users-EC.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-android-push-notifications-app-users-EC.7f1ba795405e8f1fc148a8ee76fdac9b347fba58.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-android-push-notifications-app-users-EC.7f1ba795405e8f1fc148a8ee76fdac9b347fba58.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='76d96dc1eb4df69d3addfe968f0a8ac06f7c55c412958'></a> Source: [includes\mobile-services-dotnet-backend-android-push-update-service.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-android-push-update-service.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-android-push-update-service.73f8882b108f9832e3a799c5793f8c5d6dfda7df.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-android-push-update-service.73f8882b108f9832e3a799c5793f8c5d6dfda7df.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='ac90c5fb004d60c922c463bc70c6ecb34364e43712960'></a> Source: [includes\mobile-services-dotnet-backend-configure-local-push-vs2013.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-configure-local-push-vs2013.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-configure-local-push-vs2013.db7c2c13e7a0a68eca5e9523a0c21e888cbe91e7.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-configure-local-push-vs2013.db7c2c13e7a0a68eca5e9523a0c21e888cbe91e7.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='0cf65b50e325a1508f0a98e26b2d06f6e599d13c12963'></a> Source: [includes\mobile-services-dotnet-backend-create-new-service-vs2013.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-create-new-service-vs2013.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-create-new-service-vs2013.ec473ceda7720b753d5e741a3925cf9eb31a7bdf.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-create-new-service-vs2013.ec473ceda7720b753d5e741a3925cf9eb31a7bdf.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='f1374b5603b3cf7cce21d8f7746e0603f6a81bf912965'></a> Source: [includes\mobile-services-dotnet-backend-notification-hubs-register-windows-store-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-notification-hubs-register-windows-store-app.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-notification-hubs-register-windows-store-app.8c48f610c058bb2151d1587c943860ab698831a5.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-notification-hubs-register-windows-store-app.8c48f610c058bb2151d1587c943860ab698831a5.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='087c12538d0937c605dc331660202120930b3ca712967'></a> Source: [includes\mobile-services-dotnet-backend-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-push-notifications-app-users.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-push-notifications-app-users.67ae876dd71b74e97e6c2f31829272663672f529.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-push-notifications-app-users.67ae876dd71b74e97e6c2f31829272663672f529.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='fd0d75506afce53dc4ff57f764945660cbf8ea9f12968'></a> Source: [includes\mobile-services-dotnet-backend-test-local-service-api-documentation.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-test-local-service-api-documentation.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-test-local-service-api-documentation.7efc240c6729e2a0815511802149bf390f4b6e11.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-test-local-service-api-documentation.7efc240c6729e2a0815511802149bf390f4b6e11.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='047897c7de98aa0d8456163dbfb0a8d8cd86dcdc12969'></a> Source: [includes\mobile-services-dotnet-backend-test-local-service-data.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-test-local-service-data.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-test-local-service-data.32d012aa2bd06b2bc571b0f1ebe9fd4dff6f7807.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-test-local-service-data.32d012aa2bd06b2bc571b0f1ebe9fd4dff6f7807.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='9ec6915bed4aa3c6a8203db1a0822dfe837fb5db12970'></a> Source: [includes\mobile-services-dotnet-backend-test-local-service-dotnet.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-test-local-service-dotnet.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-test-local-service-dotnet.a328e728e5d19bb23ef9a247e2d8f4ea14a0cd34.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-test-local-service-dotnet.a328e728e5d19bb23ef9a247e2d8f4ea14a0cd34.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='482ccf9cb542465b3b9a2809fc560edafcebb32812973'></a> Source: [includes\mobile-services-dotnet-backend-update-server-push-vs2013.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-update-server-push-vs2013.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-update-server-push-vs2013.42293b8ab41a654aa969adfc8d794e7e77a8bcb0.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-update-server-push-vs2013.42293b8ab41a654aa969adfc8d794e7e77a8bcb0.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='b7b2460fc8c608f8aae4621a82fcadf6c8c5bd8212976'></a> Source: [includes\mobile-services-dotnet-backend-windows-universal-test-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-dotnet-backend-windows-universal-test-push.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-dotnet-backend-windows-universal-test-push.9b5d1594c192b2a5d396387e267aca85a1632e8e.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-dotnet-backend-windows-universal-test-push.9b5d1594c192b2a5d396387e267aca85a1632e8e.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='3c7823ddd599edb4083083260353349b5b0eb77712982'></a> Source: [includes\mobile-services-generate-aad-app-registration-access-key.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-generate-aad-app-registration-access-key.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-generate-aad-app-registration-access-key.eb7e7bd1ff1c221664a3effbb65e707cafa6d7be.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-generate-aad-app-registration-access-key.eb7e7bd1ff1c221664a3effbb65e707cafa6d7be.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='e5e0639f358ae6159fc6ab31733f58d9b3539bcc12981'></a> Source: [includes\mobile-services-generate-aad-app-registration-access-key-rbac.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-generate-aad-app-registration-access-key-rbac.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-generate-aad-app-registration-access-key-rbac.f3a7998a376967c5b5860ebdf4d646ccad519b9b.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-generate-aad-app-registration-access-key-rbac.f3a7998a376967c5b5860ebdf4d646ccad519b9b.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='1e5642884870a38e312bf53e7d80dfd08fa7810712990'></a> Source: [includes\mobile-services-ios-push-notifications-app-users-login.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-ios-push-notifications-app-users-login.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-ios-push-notifications-app-users-login.818c389fada54bff2aee00515643208c1147661c.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-ios-push-notifications-app-users-login.818c389fada54bff2aee00515643208c1147661c.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='9b80ff0c9ad72dfa0941c4b0f2c24d7385e873b912991'></a> Source: [includes\mobile-services-ios-push-notifications-app-users-test-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-ios-push-notifications-app-users-test-app.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-ios-push-notifications-app-users-test-app.f5094ed064e902a28db18a916c8244a852d799b8.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-ios-push-notifications-app-users-test-app.f5094ed064e902a28db18a916c8244a852d799b8.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='5741fc5de1c78bac03c1fae2186dd0091fc1a39012993'></a> Source: [includes\mobile-services-javascript-backend-android-push-insert-script.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-javascript-backend-android-push-insert-script.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-javascript-backend-android-push-insert-script.f4dbd80180ce893225ba04d9606bda6445aa4a0b.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-android-push-insert-script.f4dbd80180ce893225ba04d9606bda6445aa4a0b.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='d6c7702faf72b41ebbd1b7b213e9af55a28ac9df12994'></a> Source: [includes\mobile-services-javascript-backend-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-javascript-backend-push-notifications-app-users.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-javascript-backend-push-notifications-app-users.5506e6e2c581fdac96122c1d828976cc5239ce40.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-push-notifications-app-users.5506e6e2c581fdac96122c1d828976cc5239ce40.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='5b01e721fef9b4c06d5bcaf6df1a03ca9d8a0add12995'></a> Source: [includes\mobile-services-javascript-backend-register-windows-store-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-javascript-backend-register-windows-store-app.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-javascript-backend-register-windows-store-app.5ac65da83db636e436eb5d3cf16b08741904a43f.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-register-windows-store-app.5ac65da83db636e436eb5d3cf16b08741904a43f.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='2395863cb1ba911640d88c9a1227ba99d9a6a1cf12998'></a> Source: [includes\mobile-services-javascript-backend-windows-universal-test-push.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-javascript-backend-windows-universal-test-push.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-javascript-backend-windows-universal-test-push.ea423dbd1f59ef944858ba8ddb3514cecaa7681d.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-backend-windows-universal-test-push.ea423dbd1f59ef944858ba8ddb3514cecaa7681d.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='3b7c9e5798f10bd5ff6a931c32cb5ba794a3631613000'></a> Source: [includes\mobile-services-javascript-update-script-notification-hubs.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-javascript-update-script-notification-hubs.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-javascript-update-script-notification-hubs.b08275ec4f953a5aa4ab661ee9e282c963243d17.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-javascript-update-script-notification-hubs.b08275ec4f953a5aa4ab661ee9e282c963243d17.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='90ba9e664d16d9276f3936e87c1893ac2252200b13003'></a> Source: [includes\mobile-services-notification-hubs-register-windows-store-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-notification-hubs-register-windows-store-app.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-notification-hubs-register-windows-store-app.b9d948ef55779e5cefbe9b57cf3d565b01b64ee8.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-notification-hubs-register-windows-store-app.b9d948ef55779e5cefbe9b57cf3d565b01b64ee8.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='f74c62768df4d466345f832d009807518241b9b813009'></a> Source: [includes\mobile-services-restrict-permissions-javascript-backend.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-restrict-permissions-javascript-backend.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-restrict-permissions-javascript-backend.ba8c2c09c490f345475b5e91f9e92c3740d4042a.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-restrict-permissions-javascript-backend.ba8c2c09c490f345475b5e91f9e92c3740d4042a.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [3d3b92f9827684f257f1ee4b51c1743a9978a2bc.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/3d3b92f9827684f257f1ee4b51c1743a9978a2bc.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: includes\application-model.md
 * [Back to Top](#report-top)
 
-##### <a name='cea2776e66b61f6a283536a4cde58f5b3a160c7b13043'></a> Source: [includes\mobile-services-windows-phone-authenticate-app-with-token.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-phone-authenticate-app-with-token.md)
+##### <a name='402c69b7cc351f87545e2a665125e76bc9866bc312022'></a> Source: [includes\media\application-model\application-model-4.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/includes/media/application-model/application-model-4.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mobile-services-windows-phone-authenticate-app-with-token.a7bb14747d437fcd50c3c2d068309fb078099eac.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-phone-authenticate-app-with-token.a7bb14747d437fcd50c3c2d068309fb078099eac.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='d942c32ed9ae3d34f2e77f81dee59f04de0d6d8b13046'></a> Source: [includes\mobile-services-windows-phone-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-phone-push-notifications-app-users.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-phone-push-notifications-app-users.4af81746159fe73391e9938d1b67f479782cad44.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-phone-push-notifications-app-users.4af81746159fe73391e9938d1b67f479782cad44.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='fa3acc20eca743df4efb6c4fc3395fc37ce04a3913048'></a> Source: [includes\mobile-services-windows-store-dotnet-authenticate-app-with-token.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-dotnet-authenticate-app-with-token.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-store-dotnet-authenticate-app-with-token.9c5b59991156f85e374638a7cc821779cc8905ce.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-store-dotnet-authenticate-app-with-token.9c5b59991156f85e374638a7cc821779cc8905ce.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='35518bd4c12c59fd4b0e6672804486a5cbe38c0e13050'></a> Source: [includes\mobile-services-windows-store-dotnet-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-dotnet-push-notifications-app-users.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-store-dotnet-push-notifications-app-users.1c6dcd6bcda789c46ba0781b751feb7054812ffb.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-store-dotnet-push-notifications-app-users.1c6dcd6bcda789c46ba0781b751feb7054812ffb.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='360a86c274205e422d9c91e4c660a3a1c8b66a4313051'></a> Source: [includes\mobile-services-windows-store-dotnet-upload-to-blob-storage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-dotnet-upload-to-blob-storage.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-store-dotnet-upload-to-blob-storage.1fa6db647b1ead0130366cd7f8071bccb6681dfb.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-store-dotnet-upload-to-blob-storage.1fa6db647b1ead0130366cd7f8071bccb6681dfb.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='bc04ab3a1b90e3c88767feaadc978f49ee95d08f13053'></a> Source: [includes\mobile-services-windows-store-javascript-authenticate-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-javascript-authenticate-app.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-store-javascript-authenticate-app.763798aa9806d17671a2249c285d9303c90ee4a1.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-store-javascript-authenticate-app.763798aa9806d17671a2249c285d9303c90ee4a1.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='87b2a6d1b219214f99d58b088e976ed9d45d58ec13052'></a> Source: [includes\mobile-services-windows-store-javascript-authenticate-app-with-token.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-javascript-authenticate-app-with-token.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-store-javascript-authenticate-app-with-token.79b20aa6378e50f8625bb359f968a01df2651c5f.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-store-javascript-authenticate-app-with-token.79b20aa6378e50f8625bb359f968a01df2651c5f.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='b5dc2e7dc986292f175fbda0d94c11454b6e4e5c13054'></a> Source: [includes\mobile-services-windows-store-javascript-call-custom-api.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-javascript-call-custom-api.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-store-javascript-call-custom-api.91619abdb82de27fdb0af171bf2b3718d5d7a8ae.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-store-javascript-call-custom-api.91619abdb82de27fdb0af171bf2b3718d5d7a8ae.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='5f217fb4e8a70b702359652d353154db8a7a7fdc13055'></a> Source: [includes\mobile-services-windows-store-javascript-push-notifications-app-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-store-javascript-push-notifications-app-users.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-store-javascript-push-notifications-app-users.b178e016f3ab6ab32f65e4db84dcb039cfd3bd85.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-store-javascript-push-notifications-app-users.b178e016f3ab6ab32f65e4db84dcb039cfd3bd85.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='6f21d9ca3b995b0d1f84d6461267ce1328966bd513058'></a> Source: [includes\mobile-services-windows-universal-dotnet-authenticate-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-universal-dotnet-authenticate-app.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-universal-dotnet-authenticate-app.f5d6c5043104ae83b3c6a226d5275fa552e6839f.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-universal-dotnet-authenticate-app.f5d6c5043104ae83b3c6a226d5275fa552e6839f.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='9b1d37ba6782c22ce4c90c6ad68733bbfb670b5713059'></a> Source: [includes\mobile-services-windows-universal-dotnet-download-project.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-universal-dotnet-download-project.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-universal-dotnet-download-project.d1b389df020e6d19e6ef6b612a2552bb90fea651.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-universal-dotnet-download-project.d1b389df020e6d19e6ef6b612a2552bb90fea651.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='42e1d90171c539075c4c8c4a3761ccdbb91634f013060'></a> Source: [includes\mobile-services-windows-universal-dotnet-upload-to-blob-storage.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-universal-dotnet-upload-to-blob-storage.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-universal-dotnet-upload-to-blob-storage.a8166de57e57a4c85c4ac55ad5aae7433506b58c.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-universal-dotnet-upload-to-blob-storage.a8166de57e57a4c85c4ac55ad5aae7433506b58c.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='b2741778ae7a7af2254315d13a9a76ed94bb54cb13062'></a> Source: [includes\mobile-services-windows-universal-javascript-authenticate-app.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-universal-javascript-authenticate-app.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-universal-javascript-authenticate-app.0a278ba88da4bf209e52ce0ea0964af1715ab477.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-universal-javascript-authenticate-app.0a278ba88da4bf209e52ce0ea0964af1715ab477.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='3ba60f3faf1f69b8028bd540d9b1fbdee5636d8513063'></a> Source: [includes\mobile-services-windows-universal-javascript-download-project.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-windows-universal-javascript-download-project.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-windows-universal-javascript-download-project.3c1631ad76ff38ce70b58e0c8477695f6acd0330.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-windows-universal-javascript-download-project.3c1631ad76ff38ce70b58e0c8477695f6acd0330.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='e895011bd38eed5c7d8d6a739801cda99a2644ff13066'></a> Source: [includes\mobile-services-xamarin-android-push-configure-project.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/mobile-services-xamarin-android-push-configure-project.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [mobile-services-xamarin-android-push-configure-project.73aae22a4b6777c80cb4b67dd72060fca9bfc819.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/mobile-services-xamarin-android-push-configure-project.73aae22a4b6777c80cb4b67dd72060fca9bfc819.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='f51b9a434034a20fec5f117b1e7ecd8e5824333a13076'></a> Source: [includes\notification-hubs-selector-aspnet-backend-notify-users.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/notification-hubs-selector-aspnet-backend-notify-users.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [notification-hubs-selector-aspnet-backend-notify-users.1fee71feca09ee08384bd6c0095a009fd4665234.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/notification-hubs-selector-aspnet-backend-notify-users.1fee71feca09ee08384bd6c0095a009fd4665234.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='c9234f0597be2566b6a674d79570c40cb89aa2a213080'></a> Source: [includes\notification-hubs-sending-notifications-from-the-portal.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/notification-hubs-sending-notifications-from-the-portal.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [notification-hubs-sending-notifications-from-the-portal.ea6e0d22c55fa4cd9d101243ce8441da67694ac5.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/notification-hubs-sending-notifications-from-the-portal.ea6e0d22c55fa4cd9d101243ce8441da67694ac5.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='63603aff1736a392d78dd7b042372ed90f354eb913081'></a> Source: [includes\notification-hubs-xamarin-enable-apple-push-notifications.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/notification-hubs-xamarin-enable-apple-push-notifications.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [notification-hubs-xamarin-enable-apple-push-notifications.32b1bd96ab05b11a3826d72b50ba6abf3fff4b5e.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/notification-hubs-xamarin-enable-apple-push-notifications.32b1bd96ab05b11a3826d72b50ba6abf3fff4b5e.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='e70b579cb04f08d0ba3be896e6953fa91ea3132613110'></a> Source: [includes\sql-database-develop-includes-prerequisites-php-windows.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-develop-includes-prerequisites-php-windows.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-develop-includes-prerequisites-php-windows.aa28dbdd54d2cf67d97cba4ae498223d4d7d8fbf.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-develop-includes-prerequisites-php-windows.aa28dbdd54d2cf67d97cba4ae498223d4d7d8fbf.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='4efc86675e3c2d7ea55b0c65855329ab92373e4213111'></a> Source: [includes\sql-database-develop-includes-selector-language-platform-depth.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-develop-includes-selector-language-platform-depth.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-develop-includes-selector-language-platform-depth.e29b49a99d9b196a698bd7ed5dedb31f8d733c87.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-develop-includes-selector-language-platform-depth.e29b49a99d9b196a698bd7ed5dedb31f8d733c87.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='a1ca09abe11dfd3958ebe3a110a0c7b386275e9c13115'></a> Source: [includes\sql-database-include-connection-string-details-20-portalshots.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-include-connection-string-details-20-portalshots.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-include-connection-string-details-20-portalshots.eae48c27d07e70f4b8bf8ec5c7caa1a549dbce3c.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-include-connection-string-details-20-portalshots.eae48c27d07e70f4b8bf8ec5c7caa1a549dbce3c.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='2a1bd28ffff8e37a4e4b1733bc2d5701572a0bae13116'></a> Source: [includes\sql-database-include-connection-string-dotnet-20-portalshots.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-include-connection-string-dotnet-20-portalshots.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-include-connection-string-dotnet-20-portalshots.8fb2b44aa7619454fd4329b02ff82e6a1fac9932.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-include-connection-string-dotnet-20-portalshots.8fb2b44aa7619454fd4329b02ff82e6a1fac9932.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='d4e73946c40b2329d76d02246453e5ad6a3a07c913117'></a> Source: [includes\sql-database-include-connection-string-jdbc-20-portalshots.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-include-connection-string-jdbc-20-portalshots.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-include-connection-string-jdbc-20-portalshots.b3e7700330d5c0b895173c49c17dcd1a2c40f5af.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-include-connection-string-jdbc-20-portalshots.b3e7700330d5c0b895173c49c17dcd1a2c40f5af.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='a3cc282050cd170ee6dc6becc80e6774b142f95e13118'></a> Source: [includes\sql-database-include-connection-string-odbc-20-portalshots.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-include-connection-string-odbc-20-portalshots.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-include-connection-string-odbc-20-portalshots.e073be5538d2d6aa6b3abe9982bbd9707231ea8b.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-include-connection-string-odbc-20-portalshots.e073be5538d2d6aa6b3abe9982bbd9707231ea8b.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='a7c4cb208bf09e4bf98ae5a62f4eb02311bd2e2a13119'></a> Source: [includes\sql-database-include-connection-string-php-20-portalshots.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/sql-database-include-connection-string-php-20-portalshots.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-database-include-connection-string-php-20-portalshots.566984c73b38bad589c57fc3732c61bffd676e7c.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/sql-database-include-connection-string-php-20-portalshots.566984c73b38bad589c57fc3732c61bffd676e7c.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='e13284fc2e9b2b3378be8e662c735103a7ad843e13143'></a> Source: [includes\storage-selector-portal-monitoring-diagnosing-troubleshooting.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/storage-selector-portal-monitoring-diagnosing-troubleshooting.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [storage-selector-portal-monitoring-diagnosing-troubleshooting.f9fb7eb79b15bb2bb7136901048a587db638ca4f.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/storage-selector-portal-monitoring-diagnosing-troubleshooting.f9fb7eb79b15bb2bb7136901048a587db638ca4f.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='7c1a188643458b6ef4d1be2a53868754adef39d713172'></a> Source: [includes\virtual-machines-sql-server-connection-steps-classic-tcp-endpoint.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/virtual-machines-sql-server-connection-steps-classic-tcp-endpoint.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-machines-sql-server-connection-steps-classic-tcp-endpoint.ede9db44452364ad2414099a48cf1ae61b5d7c61.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-machines-sql-server-connection-steps-classic-tcp-endpoint.ede9db44452364ad2414099a48cf1ae61b5d7c61.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='5451b99e2f62d9ad04fa8103c679140e1c0328e413178'></a> Source: [includes\virtual-network-deploy-multinic-classic-selectors-include.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/virtual-network-deploy-multinic-classic-selectors-include.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-network-deploy-multinic-classic-selectors-include.47879533747facb6bcd0b25e4ce864b454664f9d.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-network-deploy-multinic-classic-selectors-include.47879533747facb6bcd0b25e4ce864b454664f9d.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='d9f15a387054f6a0b5ab38dee4698adfa8b7572713187'></a> Source: [includes\virtual-networks-create-vnet-classic-netcfg-portal-include.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/virtual-networks-create-vnet-classic-netcfg-portal-include.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [virtual-networks-create-vnet-classic-netcfg-portal-include.f4e284539a073c323b4361b1a5cdc79777158738.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-create-vnet-classic-netcfg-portal-include.f4e284539a073c323b4361b1a5cdc79777158738.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [402c69b7cc351f87545e2a665125e76bc9866bc3.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/402c69b7cc351f87545e2a665125e76bc9866bc3.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: includes\application-model.md
 * [Back to Top](#report-top)
 
-##### <a name='6b08ce6d5e67273309ac813a4c9dd5f48b6bbd3813188'></a> Source: [includes\virtual-networks-create-vnet-classic-netcfg-ps-include.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/virtual-networks-create-vnet-classic-netcfg-ps-include.md)
+##### <a name='cbc2ff4e5aba8c6dc838f4a33362da03ec91bacc12023'></a> Source: [includes\media\application-model\application-model-5.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/includes/media/application-model/application-model-5.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [virtual-networks-create-vnet-classic-netcfg-ps-include.4ad4f496e5107a92b3a887438356273cb81cc2c1.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-create-vnet-classic-netcfg-ps-include.4ad4f496e5107a92b3a887438356273cb81cc2c1.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [cbc2ff4e5aba8c6dc838f4a33362da03ec91bacc.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/cbc2ff4e5aba8c6dc838f4a33362da03ec91bacc.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: includes\application-model.md
 * [Back to Top](#report-top)
 
-##### <a name='624722c63a9c16c8dc7d8a75bc2ca8959e2e177f13193'></a> Source: [includes\virtual-networks-create-vnet-selectors-classic-include.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/virtual-networks-create-vnet-selectors-classic-include.md)
+##### <a name='b7e8f42d850b1e9a33e2a86aab7084969745631012024'></a> Source: [includes\media\application-model\application-model-6.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/includes/media/application-model/application-model-6.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [virtual-networks-create-vnet-selectors-classic-include.e7a533c88a5beb2a521afb89abbbd81323ef34ef.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-create-vnet-selectors-classic-include.e7a533c88a5beb2a521afb89abbbd81323ef34ef.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [b7e8f42d850b1e9a33e2a86aab70849697456310.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/b7e8f42d850b1e9a33e2a86aab70849697456310.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: includes\application-model.md
 * [Back to Top](#report-top)
 
-##### <a name='370c945f06e02b9f3e67a0d4e43064278269ffe813206'></a> Source: [includes\virtual-networks-static-private-ip-selectors-classic-include.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/400a456fba962d4edd9e7b2a7be76b2acd260582/includes/virtual-networks-static-private-ip-selectors-classic-include.md)
+##### <a name='cc9e95a48f409fce013523db736abc0a0107481812025'></a> Source: [includes\media\application-model\application-model-7.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/includes/media/application-model/application-model-7.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [virtual-networks-static-private-ip-selectors-classic-include.867913f4baa866ac92650a06c6288a732fa2fc73.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/virtual-networks-static-private-ip-selectors-classic-include.867913f4baa866ac92650a06c6288a732fa2fc73.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [cc9e95a48f409fce013523db736abc0a01074818.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/cc9e95a48f409fce013523db736abc0a01074818.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: includes\application-model.md
 * [Back to Top](#report-top)
 
-##### <a name='0dd2169ad3038d5b8d762179999794d9e5fdd20613236'></a> Source: [trigger.md](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/2489e0bb1620d37b38cdd0b84efd45fd06e92bf8/trigger.md)
+##### <a name='bf52a36762f0016522196f240c9df4d61900046112026'></a> Source: [includes\media\application-model\application-model-8.jpg](https://github.com/OpenLocalizationTest/azure-content-zhcn-test/blob/d2eb23e9608027b2df5ebb96dc95a5ac248c39c3/includes/media/application-model/application-model-8.jpg)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [trigger.94c8cc229731b03c3f7517a449ea602813b65b48.en-us.xlf](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/ddae4ccbfe2adaba1e256a3c8d63bf068e094b74/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/trigger.94c8cc229731b03c3f7517a449ea602813b65b48.en-us.xlf)
-* Handoff Datetime: 2016-03-23 02:07:46
-* Handoff Reason: Include
+* Handoff File: [bf52a36762f0016522196f240c9df4d619000461.jpg](https://github.com/OpenLocalizationTest/azure-content-mooncake-handoff/blob/104712ea201e02f7ffdd0706ed020153370917e4/ol-handoff/OpenLocalizationTestOrg/azure-content-mooncake-enus-test/master/ht/bf52a36762f0016522196f240c9df4d619000461.jpg)
+* Handoff Datetime: 2016-03-29 02:16:21
+* Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: includes\application-model.md
 * [Back to Top](#report-top)
 
 

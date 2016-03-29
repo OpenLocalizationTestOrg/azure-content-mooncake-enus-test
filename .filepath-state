@@ -467,6 +467,9 @@
   "d99ec7c08f685b1694d7c8a6e2959e0fed3510a0": [
     "articles\\azure-architectures-cpif-foundation-multi-site-data-tier.md"
   ],
+  "84c035b4a0f0c7ac79c70f81c6ed40ce09ee8050": [
+    "articles\\azure-architectures-cpif-foundation-offsite-batch-processing-tier.md"
+  ],
   "3b11676e01aaf1c4a9cf07cd02a500aa3ca281fc": [
     "articles\\azure-architectures-cpif-foundation-offsite-batch-processing-tier.md"
   ],
@@ -8435,7 +8438,8 @@
     "articles\\media\\sql-database-elastic-pool-portal\\star.png"
   ],
   "7c6d46fa862376fe67607758d2b97ab2ce9fd378": [
-    "articles\\media\\sql-database-elastic-query-getting-started\\cmd-prompt.png"
+    "articles\\media\\sql-database-elastic-query-getting-started\\cmd-prompt.png",
+    "articles\\media\\sql-database-elastic-jobs-powershell\\cmd-prompt.png"
   ],
   "8f05e1addaa2b626b366c229925293ebc3897db7": [
     "articles\\media\\sql-database-elastic-query-getting-started\\details.png"
@@ -8444,7 +8448,8 @@
     "articles\\media\\sql-database-elastic-query-getting-started\\exel-sources.png"
   ],
   "526d23aae5172852062b9bbe0a8478db3bd4d91b": [
-    "articles\\media\\sql-database-elastic-query-getting-started\\portal.png"
+    "articles\\media\\sql-database-elastic-query-getting-started\\portal.png",
+    "articles\\media\\sql-database-elastic-jobs-powershell\\portal.png"
   ],
   "405c692c89f11677ff4e4e146b0363a4350b85b7": [
     "articles\\media\\sql-database-elastic-query-getting-started\\tiers.png"
@@ -15581,12 +15586,6 @@
   "d603e9d30bdf4c9639e76d7484ecc481e2246a70": [
     "develop\\ruby\\data.md"
   ],
-  "38da3fe3b06733160d31b5f058bb9cdcba5a4be2": [
-    "documentation.md"
-  ],
-  "8eeba6e64392529b0e60158b9249c45828d69bce": [
-    "downloads.md"
-  ],
   "06575f3e353b4fb91b5af16de237bfa924d10ef8": [
     "downloads\\downloads.md"
   ],
@@ -18542,10 +18541,246 @@
   "93b2bbaf9c2714fa7b2322c94e23f95f5b26c6de": [
     "includes\\xplat-getting-set-up-arm.md"
   ],
-  "0adc0bf82f520ccb59d523aff822f172f022b6ae": [
-    "README.md"
+  "b2217694e4f9a7e78f85517c3cde50d87a74f488": [
+    "articles\\media\\active-directory-passwords-learn-more\\001.jpg"
   ],
-  "0dd2169ad3038d5b8d762179999794d9e5fdd206": [
-    "trigger.md"
+  "f7dc2a11e09b31a145b237483018e15811aa6d5f": [
+    "articles\\media\\active-directory-passwords-learn-more\\002.jpg"
+  ],
+  "465a5075033240cdbbc20d0af08ad84d8eb8fed7": [
+    "articles\\media\\active-directory-passwords-troubleshoot\\001.jpg"
+  ],
+  "bdbce8832f10fee8598933e6e43c69b50eb12cea": [
+    "articles\\media\\active-directory-passwords-troubleshoot\\002.jpg"
+  ],
+  "64d2267aa3815d36ffc5d9876ccbe7ad49434abd": [
+    "articles\\media\\active-directory-passwords-troubleshoot\\003.jpg"
+  ],
+  "72274c059a7ab40b0d0f4ac541cb068f2cd4189a": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\001.jpg"
+  ],
+  "8a9328dcca0fed373b1ac2b2ae8597f111208e81": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\002.jpg"
+  ],
+  "4c25c01d3f8e5f9db12b9d2c533d57fb1edbfd80": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\003.jpg"
+  ],
+  "6ec1acd5572a40c37d7bd1524eba30cb4217d6cb": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\004.jpg"
+  ],
+  "8c08100fe57b5fee2d1b1c7891bc51d0bd749a33": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\005.jpg"
+  ],
+  "345e865c005a9024fcc2e45d2dc3347ebd6cba3d": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\006.jpg"
+  ],
+  "b1474e2864b90068fc0349851d31e437b1f19f78": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\007.jpg"
+  ],
+  "071606d23993ec2344d3625dc32b653d05ead2c5": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\008.jpg"
+  ],
+  "589f02cfd593f1f49566ac7c21f80135f980480b": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\009.jpg"
+  ],
+  "6a122924b3ea0eb76c6462ec8470e8328610273b": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\010.jpg"
+  ],
+  "9fe774ef379b362925cfa4e1ac11384d2c8f3eb4": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\011.jpg"
+  ],
+  "73de65d24f887c351a81d54d363a1a37a3e17071": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\012.jpg"
+  ],
+  "2b579f24e5445b3e71f8cc993ef1f200302f88df": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\013.jpg"
+  ],
+  "4c734fabd7a5407b87f870e8979c4317e3737ba4": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\014.jpg"
+  ],
+  "e3ea39791c05f09cf37058cc84ce2602381e49f4": [
+    "articles\\media\\active-directory-passwords-update-your-own-password\\015.jpg"
+  ],
+  "f2df84ca21083d49c8e1da979b16f882fc60c236": [
+    "articles\\media\\data-management-azure-sql-database-and-sql-server-iaas\\SQLIAAS_SQL_Server_Cloud_Continuum.png"
+  ],
+  "26bcbc79d608e34a063520caa0266140f6f007ec": [
+    "articles\\media\\hdinsight-hadoop-customize-cluster-v1\\HDI.CustomProvision.Page6.png"
+  ],
+  "74793ffc7dc7228740ca94191e1dd1295e52078d": [
+    "articles\\media\\hdinsight-hadoop-customize-cluster-v1\\HDI-Cluster-state.png"
+  ],
+  "3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e": [
+    "articles\\media\\hdinsight-hadoop-giraph-install-v1\\giraph-graph.png"
+  ],
+  "46683c560067cda67e1a31b1f9bec686ad6c1465": [
+    "articles\\media\\hdinsight-hadoop-giraph-install-v1\\giraph-graph-out.png"
+  ],
+  "c22d658875fe50589ce983f5aeeb947354328181": [
+    "articles\\media\\hdinsight-hadoop-giraph-install-v1\\hdi-script-action-giraph.png"
+  ],
+  "748854d97a3e9cef42b58ec9f0da32e8dc186a71": [
+    "articles\\media\\hdinsight-hadoop-r-scripts\\hdi-r-script-action.png"
+  ],
+  "23662328b7402264e270b22d447de099d9ca2e8b": [
+    "articles\\media\\hdinsight-hadoop-solr-install-v1\\hdi-script-action-solr.png"
+  ],
+  "27ecb7c701ed6bd0bddb7701de222160e7fcb0cd": [
+    "articles\\media\\hdinsight-hadoop-solr-install-v1\\hdi-solr-dashboard-query.png"
+  ],
+  "84b665da0f740ebe688b8c71ed6bd10dff102271": [
+    "articles\\media\\multi-factor-authentication-end-user-first-time\\first.png"
+  ],
+  "a20df7082ab0fb675ed24e99571b6bc909771660": [
+    "articles\\media\\sql-database-elastic-jobs-service-installation\\credentials.png"
+  ],
+  "8e892907412ae316946bfdab5348fcda3aae8f09": [
+    "articles\\media\\sql-database-elastic-jobs-service-installation\\start-board.png"
+  ],
+  "86c4e83ebfe076d85eb5fce4f73ded11ac666716": [
+    "articles\\media\\sql-database-elastic-scale-configure-deploy-split-and-merge\\allowed-services.png"
+  ],
+  "c10aa6f1f2e5b66d3ddcede921e55fee1d9a62f1": [
+    "articles\\media\\sql-database-elastic-scale-configure-deploy-split-and-merge\\staging.png"
+  ],
+  "20e50793f2ce19dba85a4351f60f2a3b920aa710": [
+    "articles\\media\\sql-database-elastic-scale-configure-deploy-split-and-merge\\upload.png"
+  ],
+  "0dca11997bc8b9c72767f74098b5f421025797f5": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE01.png"
+  ],
+  "c96396eebd4b653cbfde3ef1972b1ea5d803e874": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE02.png"
+  ],
+  "a57d8ed84e4b32e14bc711f79c744478762dd769": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE03.png"
+  ],
+  "a5f243c57a54941d4cf606db230eb9891c68fbcc": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE04.png"
+  ],
+  "411ce74e23e1a81a3c78c3df7607c088738218d1": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE05.png"
+  ],
+  "579d211a95b3b7552d265def4e081dc5f9918614": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE06.png",
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE09.png",
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE18.png"
+  ],
+  "002fc2b11a82cf35bf7f09e4389cdc1a6fc26d2c": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE07.png"
+  ],
+  "296da6cb663ef42db1df9581600b81e2d1021114": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE08.png"
+  ],
+  "6bd96f95daac2190b82321c6aa8d79acc406b027": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE10.png"
+  ],
+  "06069d027a71949e571b6aa99211094441469b18": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE11.png"
+  ],
+  "0115879dec6f1419389f218ff035b07b52a011ef": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE12.png"
+  ],
+  "3e843e4092bfaa9e9e7c7454355c94a30fc5e1d9": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE13.png"
+  ],
+  "4428ed7401db7f55d03b3bec418323da92771a69": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE14.png"
+  ],
+  "0ed88900597be76eeb3b46c89d130f04d1da3be5": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE15.png"
+  ],
+  "45106cd83e21c0aca91279ad37e8461cca723503": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE16.png"
+  ],
+  "071e2e453a0ce2ad6f8adfd23a8110fda3e0559e": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE17.png"
+  ],
+  "8aaf69ba289ca26fb73873f2e0ee42fcc7a22dcd": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE19.png"
+  ],
+  "2fea4dbfaa93cf24dcb977242780a28deebcc8e6": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE20.png"
+  ],
+  "ec4f073d5f1653acc9a707b149a6eae718092483": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE21.png"
+  ],
+  "85a9d21fa7433a841740ffcf8bec6ca51ce7c701": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE22.png"
+  ],
+  "365dfb242856fe1b4c2ee486d2f402939cfea90d": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE23.png"
+  ],
+  "8f3c79ddc102cc09e16a82861437109db84d4ea2": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE24.png"
+  ],
+  "4d8ffaafabcea78c1f0c73abcb7f57b7b55bfd3e": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE25.png"
+  ],
+  "0668aeaaaf7482a5b71dc912eec99462d0a3dcd7": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE26.png"
+  ],
+  "0ece566413601b3ced00a69c81dec7b3f2a93a9c": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE27.png"
+  ],
+  "6ddf3257d807639b07d241b1de7b1be1df27b3ec": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE28.png"
+  ],
+  "5779d78e5592acd06817cab38c1e2c2390dfa6c7": [
+    "articles\\media\\storage-table-design-guide\\storage-table-design-IMAGE29.png"
+  ],
+  "74b98f627373f64060783454c6fa039e2caf95d6": [
+    "articles\\media\\stream-analytics-scale-jobs\\perf.png"
+  ],
+  "37e2f6af27c2509d31562bac2438c4eb27fe02ee": [
+    "articles\\media\\stream-analytics-scale-jobs\\StreamAnalytics.job.monitor.png"
+  ],
+  "e220b4f0f5d796d9664377df8a75cd77ec16a7ff": [
+    "articles\\media\\stream-analytics-scale-jobs\\StreamAnalyticsStreamingUnitsExample.jpg"
+  ],
+  "3ef4e6ff7747a0065d67c28e4a9aec57832c7651": [
+    "articles\\media\\virtual-machines-linux-nodejs-running-cassandra\\cassandra-linux1.png"
+  ],
+  "19468068506d337d3ebcc7eeb3f067606a0d3c31": [
+    "articles\\media\\virtual-machines-linux-nodejs-running-cassandra\\cassandra-linux2.png"
+  ],
+  "042e381c007b523aaafde75fbc062fdcde19fcd9": [
+    "articles\\media\\virtual-machines-python-ipython-notebook\\anaconda-install.png"
+  ],
+  "249b93e499cc74245b93549a7ef06d08cd2ff484": [
+    "articles\\media\\virtual-machines-python-ipython-notebook\\ipy-azure-linux-005.png"
+  ],
+  "d937f03b7b725b7bc34efe95f8aafa77d9b02f2c": [
+    "articles\\media\\virtual-machines-python-ipython-notebook\\ipy-azure-linux-006.png"
+  ],
+  "a4275b3479fffe069b8025588e5627d9219271c1": [
+    "articles\\media\\virtual-machines-python-ipython-notebook\\ipy-notebook-spectral.png"
+  ],
+  "59e14695f6c71b3bd213bdc252d9bfe6ddf06dc2": [
+    "articles\\media\\virtual-machines-python-ipython-notebook\\jupyter-editing-experience.png"
+  ],
+  "cf2b978f2fec646abaddfd9cbc9aa99f6cf23628": [
+    "articles\\media\\virtual-machines-python-ipython-notebook\\jupyter-tree-view.png"
+  ],
+  "9b16b34540c842eae27a8ad252b6632c574677bf": [
+    "articles\\media\\virtual-machines-python-ipython-notebook\\jupyter-untitled-notebook.png"
+  ],
+  "3d3b92f9827684f257f1ee4b51c1743a9978a2bc": [
+    "includes\\media\\application-model\\application-model-3.jpg"
+  ],
+  "402c69b7cc351f87545e2a665125e76bc9866bc3": [
+    "includes\\media\\application-model\\application-model-4.jpg"
+  ],
+  "cbc2ff4e5aba8c6dc838f4a33362da03ec91bacc": [
+    "includes\\media\\application-model\\application-model-5.jpg"
+  ],
+  "b7e8f42d850b1e9a33e2a86aab70849697456310": [
+    "includes\\media\\application-model\\application-model-6.jpg"
+  ],
+  "cc9e95a48f409fce013523db736abc0a01074818": [
+    "includes\\media\\application-model\\application-model-7.jpg"
+  ],
+  "bf52a36762f0016522196f240c9df4d619000461": [
+    "includes\\media\\application-model\\application-model-8.jpg"
   ]
 }
