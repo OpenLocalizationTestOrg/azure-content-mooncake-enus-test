@@ -3139,9 +3139,6 @@
   "22eaabf05811d4b7f0fd446304d0747df6600f81": [
     "articles\\media\\backup-azure-vms\\select-workload.png"
   ],
-  "4feecbb58e1aa2134a1f33ddc06fb1513c5aa205": [
-    "articles\\media\\backup-azure-vms-automation\\object-hierarchy.png"
-  ],
   "3d1dde05a3cfecb1725c02f3d9c8206be69701e4": [
     "articles\\media\\backup-azure-vms-encryption\\how-it-works.png"
   ],
@@ -3258,9 +3255,6 @@
   ],
   "16e9ce9834162bb1533b48873eb9fe29de195cd9": [
     "articles\\media\\best-practices-monitoring\\Consolidation.png"
-  ],
-  "b36de2985114820fce9da55b8bbde0e4231227a8": [
-    "articles\\media\\best-practices-monitoring\\DataStorage_new.png"
   ],
   "df638e275bcbca6888efdb4f6117e80e20a517c4": [
     "articles\\media\\best-practices-monitoring\\Pipeline.png"
@@ -3657,17 +3651,11 @@
   "223719086171e8fecf529ffda6e78f17c742e649": [
     "articles\\media\\choose-web-site-cloud-service-vm\\Websites_CloudServices_VMs_3.png"
   ],
-  "cfd813230e2b3745b1289f7cfd6e9b6e50f9cac2": [
-    "articles\\media\\cloud-services-configure-ssl-certificate\\click-cert.png"
-  ],
   "ca9ee4ed54f75e4be70a40b830e9c6b9038b4873": [
     "articles\\media\\cloud-services-configure-ssl-certificate\\CopyURL.png"
   ],
   "4979e1de910f0f3439ba8019176faae6cb2345a0": [
     "articles\\media\\cloud-services-configure-ssl-certificate\\SSLCloudService.png"
-  ],
-  "c3699006b4c25772cdfbc979eb147afd4637a902": [
-    "articles\\media\\cloud-services-configure-ssl-certificate\\upload-button.png"
   ],
   "83ccf8a0a44d16b239836a6263ab6162dbd69205": [
     "articles\\media\\cloud-services-custom-domain-name\\csurl.png"
@@ -3693,18 +3681,6 @@
   "11cd72bdc4d3ac97b8f44c22617f47714d119174": [
     "articles\\media\\cloud-services-dotnet-continuous-delivery\\tfs-02.png"
   ],
-  "246e294071d59fa3c1f5d40f32e4625bd3af97c4": [
-    "articles\\media\\cloud-services-dotnet-diagnostics\\AddXmlFile.png"
-  ],
-  "54e3f79f19ef85cf53f8a567abd96e1445fda4dc": [
-    "articles\\media\\cloud-services-dotnet-diagnostics\\NewProject.png"
-  ],
-  "754e496693983c41d6d281569d9fb10865d11f5e": [
-    "articles\\media\\cloud-services-dotnet-diagnostics\\WadExampleTables.png"
-  ],
-  "77e6aa682a201978741686b081dc9ea6cd26cd57": [
-    "articles\\media\\cloud-services-dotnet-diagnostics\\WadExampleVMTables.png"
-  ],
   "2012af8836eea59d058bec818a1365700c739158": [
     "articles\\media\\cloud-services-dotnet-diagnostics-applicationinsights\\metrics-explorer-custom-metrics.png"
   ],
@@ -3722,92 +3698,6 @@
   ],
   "1d490b718c0175e6a7970d672306a6fd378361f4": [
     "articles\\media\\cloud-services-dotnet-diagnostics-applicationinsights\\solution-explorer-properties.png"
-  ],
-  "772efbcfa6659d71dd11867b0414bcd0a3b4758a": [
-    "articles\\media\\cloud-services-dotnet-get-started\\adtable.png"
-  ],
-  "7a0ba846e6a4dccdb6a4fb44830db52f93f68431": [
-    "articles\\media\\cloud-services-dotnet-get-started\\apparchitecture.png"
-  ],
-  "faa9c13af39112cc7867191d9b00d6555d34fff5": [
-    "articles\\media\\cloud-services-dotnet-get-started\\chgauth.png"
-  ],
-  "778844f11ffc8bd83cc56dcf6404b1500e1a08c9": [
-    "articles\\media\\cloud-services-dotnet-get-started\\connstrings.png"
-  ],
-  "18d3437dae76f7c30015ce4fe60fe4b13b999289": [
-    "articles\\media\\cloud-services-dotnet-get-started\\create.png",
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\create.png"
-  ],
-  "7ab310f03365abecde44dd327a967ec4408c2983": [
-    "articles\\media\\cloud-services-dotnet-get-started\\createstoragecs.png"
-  ],
-  "546ed486e7ed5f4515bf45539c8cc686ce8a1e54": [
-    "articles\\media\\cloud-services-dotnet-get-started\\details.png",
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\details.png"
-  ],
-  "54949a1e80a44b389f2e840d043cb156d5f87019": [
-    "articles\\media\\cloud-services-dotnet-get-started\\home.png",
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\home.png"
-  ],
-  "daf8e055b137160605207806c775ae9ce641251e": [
-    "articles\\media\\cloud-services-dotnet-get-started\\list.png",
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\list.png"
-  ],
-  "d247876609666851d09b3c7b0d3718b862447f23": [
-    "articles\\media\\cloud-services-dotnet-get-started\\newcs.png"
-  ],
-  "c831c18ce94ea66a08c54b8f2deeabe981921f87": [
-    "articles\\media\\cloud-services-dotnet-get-started\\newcsproj.png"
-  ],
-  "e56273b7919ec264a72bdc52cbf2837f9dca8ac0": [
-    "articles\\media\\cloud-services-dotnet-get-started\\newdb.png"
-  ],
-  "4471702cf93d44b69a5c73af760bafec0dd0af6f": [
-    "articles\\media\\cloud-services-dotnet-get-started\\newproject.png"
-  ],
-  "ea5ae28260190ea40a71502c5b8fb6eb29514f85": [
-    "articles\\media\\cloud-services-dotnet-get-started\\newstorage.png"
-  ],
-  "b0fc07a6b4777aa853a0d086527981c9b0df6a8d": [
-    "articles\\media\\cloud-services-dotnet-get-started\\noauth.png",
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\noauth.png"
-  ],
-  "174c1c5582fffdae8b02cae3717ad066db2598ff": [
-    "articles\\media\\cloud-services-dotnet-get-started\\opencscreate.png"
-  ],
-  "ad2b59d32bbaf1e128d6e4834fa9bb26a14c1bae": [
-    "articles\\media\\cloud-services-dotnet-get-started\\pubmenu.png"
-  ],
-  "e28d9a89519737b9878f6eeea29a99c28e0e439f": [
-    "articles\\media\\cloud-services-dotnet-get-started\\pubsettings.png"
-  ],
-  "24ff0426a1b14a87d2c6b6b2ace08e1d2a2debac": [
-    "articles\\media\\cloud-services-dotnet-get-started\\pubsignin.png"
-  ],
-  "d9d99ecb2abbac1c0acb216788b8e3b494f30910": [
-    "articles\\media\\cloud-services-dotnet-get-started\\pubsummary.png"
-  ],
-  "2c0dc203b1a00f9163a003619eae48f13c10f745": [
-    "articles\\media\\cloud-services-dotnet-get-started\\roleproperties.png"
-  ],
-  "cac9b5f41b80f79386484f76b499043fee83c9da": [
-    "articles\\media\\cloud-services-dotnet-get-started\\rolepropertiesworker.png"
-  ],
-  "2c046cff8544ee1fe422ae25c0ff12238651efed": [
-    "articles\\media\\cloud-services-dotnet-get-started\\scall.png"
-  ],
-  "a698f825de2428c3ffbdb30f34e7e669a9ba3314": [
-    "articles\\media\\cloud-services-dotnet-get-started\\sccloud.png"
-  ],
-  "06eb7e537d4e35d13430a647fdda220c106f133d": [
-    "articles\\media\\cloud-services-dotnet-get-started\\showcs.png"
-  ],
-  "8b8e18ddf71735222aac9cd730c24d6846691c99": [
-    "articles\\media\\cloud-services-dotnet-get-started\\waal.png"
-  ],
-  "df8599c7ae3616484bbe3d963dc359cb69c6ef0d": [
-    "articles\\media\\cloud-services-dotnet-get-started\\workerdbcs.png"
   ],
   "4364de1317fb911f25ad10b9ae5b277b073c59a8": [
     "articles\\media\\cloud-services-dotnet-install-dotnet\\rolecontentwithallfiles.png"
@@ -3948,11 +3838,7 @@
     "articles\\media\\cloud-services-how-to-scale\\CloudServices_TargetMessageNumber.png"
   ],
   "0c00f0d27b7c8058517c03c095426ed54147378b": [
-    "articles\\media\\cloud-services-nodejs-chat-app-socketio\\azure-powershell-start.png",
-    "articles\\media\\cloud-services-nodejs-develop-deploy-express-app\\azure-powershell-start.png"
-  ],
-  "eb96f7dce0f6b6c16f2066466116ea1b3579229c": [
-    "articles\\media\\cloud-services-nodejs-chat-app-socketio\\socketio-1.png"
+    "articles\\media\\cloud-services-nodejs-chat-app-socketio\\azure-powershell-start.png"
   ],
   "bdb072a0be3799b53fe603fe166bbcff8b732dc0": [
     "articles\\media\\cloud-services-nodejs-chat-app-socketio\\socketio-10.png"
@@ -3966,44 +3852,11 @@
   "b74c0ee371d92849b3b6c8d4acacac07d8847018": [
     "articles\\media\\cloud-services-nodejs-chat-app-socketio\\socketio-7.png"
   ],
-  "39e904dc337389d812448c9fb44243d3b9637b29": [
-    "articles\\media\\cloud-services-nodejs-chat-app-socketio\\socketio-8.png"
-  ],
-  "64e49d72f84692e59b5d67f8822d7475f60f9153": [
-    "articles\\media\\cloud-services-nodejs-develop-deploy-app\\node11.png"
-  ],
-  "11c588da5ab4604546be4b78ecd52c4aa4081c00": [
-    "articles\\media\\cloud-services-nodejs-develop-deploy-app\\node14.png"
-  ],
-  "658640f97014a74fa62a1e10216ed7fbe38aaf12": [
-    "articles\\media\\cloud-services-nodejs-develop-deploy-app\\node19.png"
-  ],
-  "34572abc17ef156fb3347e3f57c8a30dc2335b75": [
-    "articles\\media\\cloud-services-nodejs-develop-deploy-app\\node21.png"
-  ],
   "82f25de5ab41606ee889406d381526a40c6f61f8": [
     "articles\\media\\cloud-services-nodejs-develop-deploy-app\\node48.png"
   ],
   "6c4b16d1df90565e1cda0861cd9706df22d31c07": [
     "articles\\media\\cloud-services-nodejs-develop-deploy-app\\node49.png"
-  ],
-  "c419f977d9b1f85bcb81221839f09950bc0363e2": [
-    "articles\\media\\cloud-services-nodejs-develop-deploy-app\\node9.png"
-  ],
-  "afb2cc0ec74437a11b3e42ca21d208ebc1b3669a": [
-    "articles\\media\\cloud-services-nodejs-develop-deploy-express-app\\express-g.png"
-  ],
-  "028961bea11c7a970e0cecc3f538e4559682944d": [
-    "articles\\media\\cloud-services-nodejs-develop-deploy-express-app\\getting-started-19.png"
-  ],
-  "3c33778cb1b6d3ca73f9dcd9c8a52ffe3436930d": [
-    "articles\\media\\cloud-services-nodejs-develop-deploy-express-app\\node23.png"
-  ],
-  "496a92baa21216ac11fb1d32be5aa88df423f535": [
-    "articles\\media\\cloud-services-nodejs-develop-deploy-express-app\\node26.png"
-  ],
-  "6b7a3dfb447c7ac9c006f13c3581af0de145c3e0": [
-    "articles\\media\\cloud-services-nodejs-develop-deploy-express-app\\node28.png"
   ],
   "37149a77f855eec69a2174337c656a5e863b2bec": [
     "articles\\media\\cloud-services-nodejs-develop-deploy-express-app\\node31.png"
@@ -4088,36 +3941,6 @@
   ],
   "534c38a1659494fbc42f81ea2cfa856cbc526919": [
     "articles\\media\\cloud-services-performance-testing-visual-studio-profiler\\ProfilingLocally10.png"
-  ],
-  "d69259ea80fec72810e58138c593cf81e0f19082": [
-    "articles\\media\\cloud-services-python-ptvs\\add-new-or-existing-role.png"
-  ],
-  "23f0196d7addff39b85e7709ed79e69e1b912bdb": [
-    "articles\\media\\cloud-services-python-ptvs\\new-project-cloud-service.png"
-  ],
-  "ac4d25b9d5d7657b9602cb3ffe91029644d3a374": [
-    "articles\\media\\cloud-services-python-ptvs\\new-service-wizard.png"
-  ],
-  "44c5356d6b8de1b2fffef7662de08cf5db492f82": [
-    "articles\\media\\cloud-services-python-ptvs\\publish-activity-log.png"
-  ],
-  "928025e42858172c4a47b8f2be8ad0f626bf6fbc": [
-    "articles\\media\\cloud-services-python-ptvs\\publish-create-cloud-service.png"
-  ],
-  "9dbabd189157325db5c24910a8575f0ed494d63c": [
-    "articles\\media\\cloud-services-python-ptvs\\publish-remote-desktop-configuration.png"
-  ],
-  "8ec138f53be8dab70e20c2f7e3e926ed1f8c1ad2": [
-    "articles\\media\\cloud-services-python-ptvs\\publish-settings.png"
-  ],
-  "424359d18150a020cda27797ac98907a2810a205": [
-    "articles\\media\\cloud-services-python-ptvs\\publish-sign-in.png"
-  ],
-  "9c9b03d88fbac130f25beaaf846b44b2de5d3f46": [
-    "articles\\media\\cloud-services-python-ptvs\\startup.png"
-  ],
-  "58a0c8d24bbd68ae3799ee2dbb33c6f90ea23a54": [
-    "articles\\media\\cloud-services-python-ptvs\\worker.png"
   ],
   "4ea78c642a8718210ea6a06428ca4fecb92389b5": [
     "articles\\media\\cloud-services-role-enable-remote-desktop\\CloudServices_Remote.png"
@@ -4432,9 +4255,6 @@
   "99efca02d0401f70f2037c084e28f5f28a5b28ae": [
     "articles\\media\\hdinsight-administer-use-management-portal-v1\\HDI.HadoopCommandLine.PNG"
   ],
-  "8c133370f9d08de9772dec4a78bc721291cf9432": [
-    "articles\\media\\hdinsight-administer-use-management-portal-v1\\hdinsight.portal.scale.cluster.storm.rebalance.png"
-  ],
   "f89a53678b5138b5a52e9b38cb0da07abb83e1ed": [
     "articles\\media\\hdinsight-analyze-flight-delay-data\\HDI.FlightDelays.AvgDelays.DataSet.png"
   ],
@@ -4449,9 +4269,6 @@
   ],
   "bd85f17e63a08e80f2c9dc16516dcd565167f375": [
     "articles\\media\\hdinsight-apache-storm-tutorial-get-started\\dashboard-link.png"
-  ],
-  "d5a8250f1e31aa0047eeb7c047c654063a55dd22": [
-    "articles\\media\\hdinsight-apache-storm-tutorial-get-started\\HDI.StorageAccount.QuickCreate.png"
   ],
   "7b7ee7f8aa9aa4381b57c28e93785405b130663c": [
     "articles\\media\\hdinsight-apache-storm-tutorial-get-started\\quickcreate.png"
@@ -4493,32 +4310,20 @@
     "articles\\media\\hdinsight-develop-deploy-java-mapreduce\\HDI-Emulator-Run-Java-MapReduce.png"
   ],
   "0be335562de6c9fe941f52bb4a57ebe1d92c65cd": [
-    "articles\\media\\hdinsight-extend-hadoop-virtual-network\\cloud-only.png",
-    "articles\\media\\hdinsight-provision-clusters-v1\\hdinsight-vnet-cloud-only.png"
+    "articles\\media\\hdinsight-extend-hadoop-virtual-network\\cloud-only.png"
   ],
   "02e451193f73e8b45829d4d53d368a5b9012570e": [
-    "articles\\media\\hdinsight-extend-hadoop-virtual-network\\point-to-site.png",
-    "articles\\media\\hdinsight-provision-clusters-v1\\hdinsight-vnet-point-to-site.png"
+    "articles\\media\\hdinsight-extend-hadoop-virtual-network\\point-to-site.png"
   ],
   "52d59dea9960cdaa6ac2b74d937cd05bc42d1cd6": [
-    "articles\\media\\hdinsight-extend-hadoop-virtual-network\\site-to-site.png",
-    "articles\\media\\hdinsight-provision-clusters-v1\\hdinsight-vnet-site-to-site.png"
+    "articles\\media\\hdinsight-extend-hadoop-virtual-network\\site-to-site.png"
   ],
   "09f51b9389aae2bc359aa5a852e3daf003d9f200": [
     "articles\\media\\hdinsight-hadoop-develop-deploy-streaming-jobs\\HDI.WordCountDiagram.gif",
     "articles\\media\\hdinsight-use-mapreduce\\HDI.WordCountDiagram.gif"
   ],
-  "6e5633c99b044b7a3f331c02176749e6edc74d4a": [
-    "articles\\media\\hdinsight-hadoop-emulator-get-started\\hdi.emulator.connect.vs.dialog.png"
-  ],
-  "3952182959cb06cf14cebdac3deda34c2704af51": [
-    "articles\\media\\hdinsight-hadoop-emulator-get-started\\hdi.emulator.connect.vs.png"
-  ],
   "ace9657e0f7235169eae5621751a48938948858f": [
     "articles\\media\\hdinsight-hadoop-emulator-get-started\\HDI.Emulator.Services.png"
-  ],
-  "3132c3bebf1aeb7a937ec85234cdbacda88d1550": [
-    "articles\\media\\hdinsight-hadoop-emulator-get-started\\hdi.emulator.vs.connected.png"
   ],
   "499631b2440728fa934e81218baf957728e400a1": [
     "articles\\media\\hdinsight-hadoop-hive-out-of-memory-error-oom\\hive-out-of-memory-error-oom-tez-container-memory.png"
@@ -4583,14 +4388,8 @@
   "ced062f892c560286f1a09bcf9f2eb7d5e3d3be1": [
     "articles\\media\\hdinsight-hadoop-use-blob-storage\\HDI.QuickCreateCluster.png"
   ],
-  "323f157800e29717e960fb8a34e28e4eb9f04a2d": [
-    "articles\\media\\hdinsight-hadoop-use-blob-storage\\HDI.WASB.Arch.png"
-  ],
   "6adab6c76979b1af9ba4e6301f4fb0518976ef41": [
     "articles\\media\\hdinsight-hadoop-use-hive-query-console\\queryconsole.png"
-  ],
-  "da0cdbc724cdb6a730bf5fe7d71c08671ca38f40": [
-    "articles\\media\\hdinsight-hadoop-visual-studio-tools-get-started\\hdinsight.hive.tez.performance.graph.png"
   ],
   "cabff0d7d1e9f08873a5399dbbfe7b26764b9c8a": [
     "articles\\media\\hdinsight-hadoop-visual-studio-tools-get-started\\hdinsight.visual.studio.tools.create.hive.table.png"
@@ -4662,15 +4461,6 @@
   "e656f579a45acf00a371cc1d0ee4657b3dd461fa": [
     "articles\\media\\hdinsight-hbase-provision-vnet-v1\\hbasewizard1.png"
   ],
-  "ed92b3dbcff980a109adbebd281dad60c36701b4": [
-    "articles\\media\\hdinsight-hbase-provision-vnet-v1\\hbasewizard2.png"
-  ],
-  "ac12fb39f5631e085aa3ad93961c827244f2d93d": [
-    "articles\\media\\hdinsight-hbase-provision-vnet-v1\\hbasewizard3.png"
-  ],
-  "ee5fbc8c99a5c64fc163874c3fbd8655c2601317": [
-    "articles\\media\\hdinsight-hbase-provision-vnet-v1\\hbasewizard4.png"
-  ],
   "728fd69aa0a086369533333bdd372c70d444b406": [
     "articles\\media\\hdinsight-hbase-provision-vnet-v1\\hbasewizard5.png"
   ],
@@ -4716,30 +4506,6 @@
   "83d7a9b79cb1ef296f6aca50f95b66334ead01d9": [
     "articles\\media\\hdinsight-mahout\\hadoopcli.png"
   ],
-  "cd12af355567a408c10a031f6a8830ddecd8b5c4": [
-    "articles\\media\\hdinsight-provision-clusters-v1\\Azure.blob.storage.jpg"
-  ],
-  "2d7b834e96e0c86f2a9a232d347bb95f7ccc7320": [
-    "articles\\media\\hdinsight-provision-clusters-v1\\Azure.regions.png"
-  ],
-  "21530a7e401148be1999f0656c486d24920b5376": [
-    "articles\\media\\hdinsight-provision-clusters-v1\\hdinsight.clusters.png"
-  ],
-  "227c174f1a6541a64ea30a72addada4bcd903ce3": [
-    "articles\\media\\hdinsight-provision-clusters-v1\\HDInsight.Hadoop.roles.png"
-  ],
-  "1a0ba0bffc59ec080cea0b518aab98c3f5b43464": [
-    "articles\\media\\hdinsight-provision-clusters-v1\\HDInsight.HBase.roles.png"
-  ],
-  "b312c609d601f8e7b02874751d7ff58ae20c3ba8": [
-    "articles\\media\\hdinsight-provision-clusters-v1\\hdinsight.node.sizes.png"
-  ],
-  "7316851bae73ca863a7e10085ff49a10229dec1b": [
-    "articles\\media\\hdinsight-provision-clusters-v1\\HDInsight.storage.png"
-  ],
-  "d81f60d3f74a96077a780c1f251e5cbff8388391": [
-    "articles\\media\\hdinsight-provision-clusters-v1\\HDInsight.Storm.roles.png"
-  ],
   "fb9cb877adc30c2118e893620746bfdf686f48cb": [
     "articles\\media\\hdinsight-storm-correlation-topology\\correlationtopology.png"
   ],
@@ -4762,8 +4528,7 @@
     "articles\\media\\hdinsight-storm-deploy-monitor-topology\\storm-ui-summary.png"
   ],
   "2c1fefbe4ee9016d259fb0a88a6d8ba650ca6c96": [
-    "articles\\media\\hdinsight-storm-deploy-monitor-topology\\submit.png",
-    "articles\\media\\hdinsight-storm-overview\\dashboard.png"
+    "articles\\media\\hdinsight-storm-deploy-monitor-topology\\submit.png"
   ],
   "ef304995b8b8d4d564a2d7a5b054a6ff2e494fd4": [
     "articles\\media\\hdinsight-storm-deploy-monitor-topology\\vsmonitor.png"
@@ -4817,15 +4582,6 @@
   "bb9980b0c40b4f4a2ea6e3e0b60535e78cd078bf": [
     "articles\\media\\hdinsight-storm-iot-eventhub-documentdb\\iottopology.png"
   ],
-  "8c20df40f4f920c98df1723d228634cf0c56fb5d": [
-    "articles\\media\\hdinsight-storm-overview\\createproject.png"
-  ],
-  "3122c89ea0fd24e26107a28956a5e8434778c5e9": [
-    "articles\\media\\hdinsight-storm-overview\\nimbus.png"
-  ],
-  "8c4da04ac4ac207bd76dec28289714a64ae379d2": [
-    "articles\\media\\hdinsight-storm-overview\\stormview.png"
-  ],
   "36e221d15a5c048ec114811f553a7f7996e95c88": [
     "articles\\media\\hdinsight-storm-power-bi-topology\\dashboard.png"
   ],
@@ -4856,14 +4612,8 @@
   "05759f38661abf3a8af5628ea948193d978b8c72": [
     "articles\\media\\hdinsight-storm-sensor-data-analysis\\sensoranalysis.png"
   ],
-  "410a2fa2575a9de37e57665a8073f7c7f249e56f": [
-    "articles\\media\\hdinsight-upload-data\\fileupload.png"
-  ],
   "b8e9c60c22a1329b85bfa1a0bf2730269690c2cb": [
     "articles\\media\\hdinsight-upload-data\\HDI.AzureStorageExplorer.png"
-  ],
-  "18e6686263a8ef25685f5faef87f24561abf5bed": [
-    "articles\\media\\hdinsight-upload-data\\toolbar.png"
   ],
   "de1a472a6755175f7bdced82b66f84654bc224f5": [
     "articles\\media\\hdinsight-use-oozie\\HDI.UseOozie.Preparation.Output1.png",
@@ -4974,7 +4724,6 @@
   ],
   "70bd425c67e3ec15410709a5f511fdf144e72ed0": [
     "articles\\media\\media-services-dotnet-get-started\\media-services-origin-scale.png",
-    "articles\\media\\media-services-portal-get-started\\media-services-origin-scale.png",
     "articles\\media\\media-services-portal-get-started-with-live\\media-services-origin-scale.png"
   ],
   "adeeecdc607ce6f60e2fb0080de9cab45372770b": [
@@ -5129,10 +4878,6 @@
   "e5dcd58a1414de5d54d1bcb8812bce378a9b9ce3": [
     "articles\\media\\media-services-manage-content\\UploadContent.png"
   ],
-  "df456a27a46dd03b627431b4f557ab840224908e": [
-    "articles\\media\\media-services-manage-origins\\media-services-origin-scale.png",
-    "articles\\media\\media-services-portal-creating-live-encoder-enabled-channel\\media-services-origin-scale.png"
-  ],
   "fb78ce4a79525ffdebf189fe4e52dbc0ed14a204": [
     "articles\\media\\media-services-manage-origins\\media-services-origins-configure.png"
   ],
@@ -5211,12 +4956,6 @@
   "ceef8c7eec225526b0f099415014daefb32d381d": [
     "articles\\media\\media-services-portal-get-started\\UploadContent.png"
   ],
-  "57ae1b3501000f5b7f52b996059d10d1a14de901": [
-    "articles\\media\\media-services-portal-get-started\\wams-mediaservices-page.png"
-  ],
-  "35a696c3d1b1cf44c2a808f1f6d74671fb36b7e9": [
-    "articles\\media\\media-services-portal-get-started\\wams-QuickCreate.png"
-  ],
   "a1e6e1eb67b880042b95006800c83e451d20659a": [
     "articles\\media\\media-services-portal-get-started-with-live\\media-services-channel-play.png"
   ],
@@ -5290,9 +5029,6 @@
   "4998db3d28a2b9aac993cfe384face1c7a38991f": [
     "articles\\media\\mobile-services-android-get-started-data\\mobile-todoitem-data-browse.png",
     "articles\\media\\mobile-services-windows-phone-get-started-data\\mobile-todoitem-data-browse.png"
-  ],
-  "8b36eaa45a9f10d26254ad428ac65030e284a77a": [
-    "articles\\media\\mobile-services-dotnet-backend-android-get-started\\mobile-quickstart-completed-android.png"
   ],
   "c2d9a8e0ac2677e74522859a1772a07e9d1528e9": [
     "articles\\media\\mobile-services-dotnet-backend-android-get-started\\mobile-quickstart-steps-android-AS.png",
@@ -5375,9 +5111,6 @@
   ],
   "14bec5d8551753bd08bd07e832a49b0e09162671": [
     "articles\\media\\mobile-services-dotnet-backend-windows-store-dotnet-aad-rbac\\add-authorize-aad-role-class.png"
-  ],
-  "1e398bdf1faa5a2a950e3aaf2c0282331abcdf10": [
-    "articles\\media\\mobile-services-dotnet-backend-windows-store-dotnet-get-started\\mobile-quickstart-steps.png"
   ],
   "60d12e5eeee871dfd120f43b822954a82bd1eb8b": [
     "articles\\media\\mobile-services-dotnet-backend-windows-store-dotnet-leaderboard\\01leaderboard.png"
@@ -5562,8 +5295,7 @@
   ],
   "38d730e14cabbdd11b37ee81b5f2e182148a5642": [
     "articles\\media\\mobile-services-javascript-backend-windows-phone-get-started-push\\mobile-app-enable-push-wp8.png",
-    "articles\\media\\notification-hubs-windows-phone-get-started\\mobile-app-enable-push-wp8.png",
-    "articles\\media\\partner-xamarin-mobile-services-xamarin-forms-get-started-push\\mobile-app-enable-push-wp8.png"
+    "articles\\media\\notification-hubs-windows-phone-get-started\\mobile-app-enable-push-wp8.png"
   ],
   "21527eb93887049aec390df9f44cde51ca9ca5e7": [
     "articles\\media\\mobile-services-javascript-backend-windows-phone-get-started-push\\mobile-quickstart-push3-wp8.png"
@@ -5571,9 +5303,6 @@
   "770cae0888ae45ccfe0d0f44e72d55cbd6b392fb": [
     "articles\\media\\mobile-services-javascript-backend-windows-phone-get-started-push\\mobile-quickstart-push5-wp8.png",
     "articles\\media\\partner-xamarin-mobile-services-xamarin-forms-get-started-push\\mobile-quickstart-push5-wp8.png"
-  ],
-  "5ea122edc0665f26a1bba632072d9e065275879e": [
-    "articles\\media\\mobile-services-javascript-backend-windows-store-dotnet-get-started\\mobile-quickstart-steps.png"
   ],
   "ba964acf9471debc2489ef9e3d217195852287bc": [
     "articles\\media\\mobile-services-sql-scale-guidance\\1.png"
@@ -6225,9 +5954,6 @@
   "0a1c7773d81f79260e5661ae388c039599d55ad7": [
     "articles\\media\\notification-hubs-ios-aspnet-register-user-push-notifications\\notification-hub-user-aspnet-ios2.png"
   ],
-  "c4c5d1049bea4a55a9d5774a18d221f7e8426623": [
-    "articles\\media\\notification-hubs-ios-get-started\\notification-hubs-configure-ios.png"
-  ],
   "a83ba9491081956f3be5f239e0d93b4f99bfb1e6": [
     "articles\\media\\notification-hubs-ios-get-started\\notification-hubs-create-ios-app.png"
   ],
@@ -6254,9 +5980,6 @@
   ],
   "50d9ad2f6b941ea304722c3a7518483d103d9a27": [
     "articles\\media\\notification-hubs-ios-get-started\\notification-hubs-test3.png"
-  ],
-  "bdc2fb6f11ee8e067e6742aaadfc00ed53f72261": [
-    "articles\\media\\notification-hubs-ios-get-started\\notification-hubs-upload-cert.png"
   ],
   "cef2afa785391ca418f5ac4b7a146ca35f5fd303": [
     "articles\\media\\notification-hubs-ios-get-started\\notification-hubs-xcode-product-name.png"
@@ -6357,9 +6080,6 @@
   "34c4881dcc867f70b2fa594eb281eb35e366224e": [
     "articles\\media\\notification-hubs-windows-phone-get-started\\notification-hub-create-wp-silverlight-app.png"
   ],
-  "6a67fe6f96f60d7434741dad9417a38c8e132672": [
-    "articles\\media\\notification-hubs-windows-phone-get-started\\notification-hub-pushauth.png"
-  ],
   "383f0532f12d06e4d14390db561e3b1f8f5169f7": [
     "articles\\media\\notification-hubs-windows-phone-get-started\\notification-hub-windows-universal-app-install-package.png",
     "articles\\media\\notification-hubs-windows-store-dotnet-get-started\\notification-hub-windows-universal-app-install-package.png"
@@ -6386,14 +6106,8 @@
   "1563fecdadc9f0ecbc7e5c363165f337e759ae9f": [
     "articles\\media\\notification-hubs-windows-store-dotnet-get-started\\notification-hub-associate-win8-app.png"
   ],
-  "7b53d6391b195824ad01face5e4409d8696d7d90": [
-    "articles\\media\\notification-hubs-windows-store-dotnet-get-started\\notification-hub-configure-wns.png"
-  ],
   "c523f4800a3770f2b370339dc5fa7e656c3a9380": [
     "articles\\media\\notification-hubs-windows-store-dotnet-get-started\\notification-hub-create-windows-universal-app.png"
-  ],
-  "d060531b0128ae77a6b15e4de601225029452790": [
-    "articles\\media\\notification-hubs-windows-store-dotnet-get-started\\notification-hub-debug.png"
   ],
   "16fb5085d0a4d29b6380171b0017c487b098dd91": [
     "articles\\media\\notification-hubs-windows-store-dotnet-get-started\\notification-hub-package-manager.png"
@@ -6633,21 +6347,6 @@
   "1d462c774e84be8f0e96c53ae2b030ffe660039b": [
     "articles\\media\\partner-xamarin-notification-hubs-ios-get-started\\notification-hub-scheduler2.png"
   ],
-  "fa418eb89027f21d610601b0e5045102e7787983": [
-    "articles\\media\\python-how-to-install\\how-to-install-python-ptvs.png"
-  ],
-  "1ded6ed2eacf0f54aa1cff98630024e68fa0b39c": [
-    "articles\\media\\python-how-to-install\\how-to-install-python-webpi-27-1.png"
-  ],
-  "2d0b077c0e39e47dd9572c955df9f120a7cc3378": [
-    "articles\\media\\python-how-to-install\\how-to-install-python-webpi-34-1.png"
-  ],
-  "acac51267c4c1f372502ef6e9386d53cffe7222b": [
-    "articles\\media\\python-how-to-install\\how-to-install-python-win-run-27.png"
-  ],
-  "e766fbc31547ff8435ff6aaa36a98ad8ffe39dbd": [
-    "articles\\media\\python-how-to-install\\how-to-install-python-win-run-34.png"
-  ],
   "c94e7bdf421d121c95c7ba73b1b3c3a749030141": [
     "articles\\media\\resource-group-authenticate-service-principal\\arm-get-credential.png"
   ],
@@ -6858,25 +6557,11 @@
   ],
   "e9a1fc8b5ff240fcae922c7a9a75343fae55b743": [
     "articles\\media\\service-bus-dotnet-how-to-use-queues\\getting-started-multi-tier-13.png",
-    "articles\\media\\service-bus-dotnet-how-to-use-relay\\getting-started-multi-tier-13.png",
     "articles\\media\\service-bus-dotnet-how-to-use-topics-subscriptions\\getting-started-multi-tier-13.png",
     "articles\\media\\service-bus-dotnet-multi-tier-app-using-service-bus-queues\\getting-started-multi-tier-13.png"
   ],
-  "08bf0689f7dd7dffa88397c29496212fce69d9f4": [
-    "articles\\media\\service-bus-dotnet-how-to-use-relay\\getting-started-multi-tier-27.png"
-  ],
-  "416e8d229e6da00c5003fc28103b6336c5f496bd": [
-    "articles\\media\\service-bus-dotnet-how-to-use-relay\\sb-queues-04.png"
-  ],
   "697ffd3b58ac1b7a1d2b51e75a9ce104b73b47fe": [
-    "articles\\media\\service-bus-dotnet-how-to-use-relay\\sb-queues-09.png",
     "articles\\media\\service-bus-dotnet-hybrid-app-using-service-bus-relay\\sb-queues-09.png"
-  ],
-  "079bc0952057705fc58ed0b7470e1eb29bc0112d": [
-    "articles\\media\\service-bus-dotnet-how-to-use-relay\\sb-queues-13.png"
-  ],
-  "d4262f0b3595617320b7dde49b1cc0ca2f59a12a": [
-    "articles\\media\\service-bus-dotnet-how-to-use-relay\\sb-relay-01.png"
   ],
   "df4fea76c2d9b5ab502394551a9bc857496615ba": [
     "articles\\media\\service-bus-dotnet-hybrid-app-using-service-bus-relay\\App1.png"
@@ -7073,10 +6758,6 @@
     "articles\\media\\service-bus-java-amqp-overview\\Example1.png",
     "includes\\media\\service-bus-amqp-overview\\Example1.png"
   ],
-  "a02f7b76f69ad8a924da6af80b54b53e7f24f469": [
-    "articles\\media\\service-bus-java-how-to-use-queues\\eclipselibs.png",
-    "articles\\media\\service-bus-java-how-to-use-topics-subscriptions\\eclipselibs.png"
-  ],
   "62c9e3d6ce27ec667856fa8fc8c37d72bbd2b810": [
     "articles\\media\\service-bus-paired-namespaces\\IC673405.png"
   ],
@@ -7093,21 +6774,10 @@
     "articles\\media\\service-bus-ruby-how-to-use-queues\\defaultkey.png"
   ],
   "fc49cf1e74391cca1c8a8eb3be0bfeba9a095793": [
-    "articles\\media\\service-bus-ruby-how-to-use-queues\\sb-queues-08.png",
-    "includes\\media\\howto-service-bus-queues\\sb-queues-08.png",
-    "includes\\media\\service-bus-java-how-to-create-queue\\sb-queues-08.png"
+    "articles\\media\\service-bus-ruby-how-to-use-queues\\sb-queues-08.png"
   ],
   "0e05192d2af74752cd499007cbcdf1b7c32c8016": [
-    "articles\\media\\service-bus-ruby-how-to-use-queues\\showcmdcreate.png",
-    "articles\\media\\service-bus-ruby-how-to-use-topics-subscriptions\\showcmdcreate.png"
-  ],
-  "8c082de169c09771825a59b6871b3fdb004488be": [
-    "articles\\media\\service-bus-ruby-how-to-use-topics-subscriptions\\sb-topics-01.png",
-    "includes\\media\\howto-service-bus-topics\\sb-topics-01.png",
-    "includes\\media\\service-bus-java-how-to-create-topic\\sb-topics-01.png"
-  ],
-  "fefb064ce98531cc296562a652570b49efd58fae": [
-    "articles\\media\\service-bus-shared-access-signature-authentication\\IC676272.gif"
+    "articles\\media\\service-bus-ruby-how-to-use-queues\\showcmdcreate.png"
   ],
   "8179fa670f078f47c996c29ba7f564404a1df8d6": [
     "articles\\media\\site-recovery-active-directory\\azure-network.png"
@@ -7723,7 +7393,6 @@
   ],
   "2e0109c99571a71ff8d6903934d5ffd4914ead40": [
     "articles\\media\\site-recovery-vmware-to-azure\\ASRVMWare_CreateVault.png",
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\quick-start-create-vault.png",
     "articles\\media\\site-recovery-vmware-to-azure-classic-legacy\\quick-start-create-vault.png"
   ],
   "71a0c73b38eb979ed072970cc9e1d8b5bf070f72": [
@@ -7882,51 +7551,6 @@
   "a8b708d662d7274bfbef63000478b67b085d148c": [
     "articles\\media\\site-recovery-vmware-to-azure-classic\\add-ps2.png"
   ],
-  "11a4f582176d44dbdb9b41950e404cc3febc8c6b": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\add-vcenter1.png"
-  ],
-  "fa2c778fd3a167760949e2163ebee3b252fb897c": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\add-vcenter2.png"
-  ],
-  "700a00392167e1f43e4b4c97a11a0f3850c4d7e2": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\add-vcenter3.png"
-  ],
-  "bbf33518e3739d63389f4df955a073c79a1c56bc": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\architecture.png"
-  ],
-  "586d0fa1f7dc60098027f61476f72041912a6354": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\combined-wiz1.png"
-  ],
-  "7d3e23b40b1f777d6801654cb213c76fc694b41d": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\combined-wiz2.png"
-  ],
-  "0cc37e23e9a3b20ea91040cf3a086599413ed3e7": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\combined-wiz3.png"
-  ],
-  "d0b519da2d18c54f407a89b3401d26c6d798fe7a": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\combined-wiz4.png"
-  ],
-  "62d5fe0c02befa70dbd092687cda32fb2f388129": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\combined-wiz5.png"
-  ],
-  "2a51512a9f47e6ea72eeafcaeb3b4cd7f055a286": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\combined-wiz6.png"
-  ],
-  "fcbfebb4fe8b6a895cd886a41d9ea407d923df9c": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\combined-wiz7.png"
-  ],
-  "eda9116ccabaa80f2e8f6e98ab6949c863475c35": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\combined-wiz8.png"
-  ],
-  "931105b6a2645621634d331a2fc8d9ed2a4ecef8": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\combined-wiz9.png"
-  ],
-  "bba6baff04e099b39a8804d452d3f870760b4eb4": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\credentials1.png"
-  ],
-  "02fd2516ec6bfff451dcc8c326768695c7b750bd": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\credentials2.png"
-  ],
   "cf57eeeb6f5cc97ca2ca8c4df653638a6fb45aba": [
     "articles\\media\\site-recovery-vmware-to-azure-classic\\enable-protection1.png"
   ],
@@ -7948,29 +7572,7 @@
   "a6b050a8228b951a58377f4dced030d8301aa6d9": [
     "articles\\media\\site-recovery-vmware-to-azure-classic\\host-config.png"
   ],
-  "749e34eae6302a7bf55df3128e05d46a4d014c09": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\mobility1.png"
-  ],
-  "f33f46ffdfea5574be0478e7df1db8261eddb580": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\mobility2.png"
-  ],
-  "9f845227ceefdb3a5c3768832168031753d61bae": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\mobility3.png"
-  ],
-  "b0d2bd21e9a360b68518e373f9bcd7269e6b3076": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\mobility6.png"
-  ],
-  "266ec438259b0623b833e4bcf856571bd58ad192": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\protection-groups1.png"
-  ],
-  "2b5944a0e79cda90543f7f8d118e22850717cafc": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\protection-groups2.png"
-  ],
-  "e6a4db7bf38cf24bf6d87166d28050d0e6548d0b": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\protection-groups3.png"
-  ],
   "c68616657ce70f9090c18b010859174b759dad21": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\quick-start-icon.png",
     "articles\\media\\site-recovery-vmware-to-azure-classic-legacy\\quick-start-icon.png"
   ],
   "c5937d6d8bcb3dd5b087e30656980e83f97630b4": [
@@ -7987,12 +7589,6 @@
   ],
   "7efb2e0bc39d7aa91c0256d9e3b18544ac628058": [
     "articles\\media\\site-recovery-vmware-to-azure-classic\\test-failover3.png"
-  ],
-  "ded4de9aef1c48a9876ce0b134a703212c7a6b83": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\throttle1.png"
-  ],
-  "7576370f1bd6daec66ac207af92734153d97f848": [
-    "articles\\media\\site-recovery-vmware-to-azure-classic\\throttle2.png"
   ],
   "8f076df75c88bab5756914905a6325f51c45a335": [
     "articles\\media\\site-recovery-vmware-to-azure-classic\\unplanned-failover1.png"
@@ -8144,9 +7740,6 @@
   "10d69319f29cd2387d68db6828fbb39fef37911e": [
     "articles\\media\\sql-database-always-encrypted\\master-key-configuration.png"
   ],
-  "a333b1020f270b763529c17e312f6027f5bd6e83": [
-    "articles\\media\\sql-database-always-encrypted\\ssms-connect.png"
-  ],
   "31ce1aa9f921e0b62758702f3650221070d1369b": [
     "articles\\media\\sql-database-always-encrypted\\ssms-connection-parameter.png"
   ],
@@ -8278,9 +7871,6 @@
   ],
   "fe738632734a99e525470b95d72e652926ba3b70": [
     "articles\\media\\sql-database-cloud-migrate\\TestForCompatibilityUsingSSMS05.png"
-  ],
-  "2d9afb3b17e56fa704f251e0a9d5c8f8cb1ead05": [
-    "articles\\media\\sql-database-connect-excel\\excel_data_source.png"
   ],
   "f667a5df293da3972604605b1e52a1b0e0774b2c": [
     "articles\\media\\sql-database-connect-excel\\import-data.png"
@@ -8567,21 +8157,6 @@
   "8f240ebe869b2fc7dcc00ce1cb75d23a2c66f13a": [
     "articles\\media\\sql-database-index-advisor\\recommended-indexes.png"
   ],
-  "e879d3e42838922db7e48cb395ecc408fc02aed7": [
-    "articles\\media\\sql-database-manage-portal\\sqldatabase_actions.png"
-  ],
-  "382656ffa4bbd760788c97883bc64903f9f02b04": [
-    "articles\\media\\sql-database-manage-portal\\sqldatabase_annotated.png"
-  ],
-  "86943cd789c7de01c3d559bed530f6e47c8c1992": [
-    "articles\\media\\sql-database-manage-portal\\sqldatabase_georeplication.png"
-  ],
-  "1064edbb0d16508f3e9f9af043d381fb8c79a73b": [
-    "articles\\media\\sql-database-manage-portal\\sqldatabase_monitoring.png"
-  ],
-  "860f2929a68dff03377756f27f0e36d9f21e694e": [
-    "articles\\media\\sql-database-manage-portal\\sqldatabase_security.png"
-  ],
   "14581a1e8811d326766f1a34088f59e4db994ff4": [
     "articles\\media\\sql-database-performance-guidance\\query_plan_corrected_indexes.png"
   ],
@@ -8639,17 +8214,11 @@
   "d0b5d4c17eaf094716bfa5ad5d8cee7228c795ae": [
     "articles\\media\\sql-database-threat-detection-get-started\\9_td_excel_parameters.png"
   ],
-  "ec45bae39de75fe2e24af11828b83ee0419bd735": [
-    "articles\\media\\sql-database-upgrade-new-service-tiers\\DTU_usage.png"
-  ],
   "f9c925bd165f73e90b5a3dff1d310c76fec57bef": [
     "articles\\media\\sql-database-upgrade-new-service-tiers\\portal-dtus.JPG"
   ],
   "8a84c89963db2635bf1e05ef5eb98651c5aa9c9b": [
     "articles\\media\\sql-database-upgrade-new-service-tiers\\resource_consumption.png"
-  ],
-  "e0e141c0a41498e6dafa67f5650afb7a7d3d8d41": [
-    "articles\\media\\sql-database-upgrade-new-service-tiers\\sample_result.png"
   ],
   "5c0d892794d2871f06c1c575067b459efd46d21d": [
     "articles\\media\\sql-database-upgrade-new-service-tiers\\web-business-noisy-neighbor.png"
@@ -9149,9 +8718,6 @@
   "1946e6c4a8f591915abce014fc5320bf8d712283": [
     "articles\\media\\stream-analytics-get-started\\stream-ananlytics-query-editor-rerun.png"
   ],
-  "be0e358502cb2a2d61db79fd666694b4d41aa958": [
-    "articles\\media\\stream-analytics-get-started\\stream-ananlytics-shared-access-policies.png"
-  ],
   "45b4cfb6b0306645594f4c1dba0af9ce437cbbea": [
     "articles\\media\\stream-analytics-get-started\\stream-ananlytics-view-real-time-fraudent-events.png"
   ],
@@ -9471,14 +9037,7 @@
     "articles\\media\\virtual-machines-capture-image-windows-server\\SysprepGeneral.png"
   ],
   "0811cbde4b02b7b47a98144a6d30f01631766e08": [
-    "articles\\media\\virtual-machines-capture-image-windows-server\\VMCapturedImageAvailable.png",
-    "articles\\media\\virtual-machines-linux-capture-image\\VMCapturedImageAvailable.png"
-  ],
-  "1e1f0447f3138ef0473f108415304a0537bc4576": [
-    "articles\\media\\virtual-machines-command-line-tools\\architecturediagram.jpg"
-  ],
-  "6670328be4a1574e72b32378a3595cdb50452ef6": [
-    "articles\\media\\virtual-machines-command-line-tools\\networkdiagram.jpg"
+    "articles\\media\\virtual-machines-capture-image-windows-server\\VMCapturedImageAvailable.png"
   ],
   "1910ad20c11c787b0a7e1d33fd66d5c2fb63a3ce": [
     "articles\\media\\virtual-machines-create-multi-vm-deployment-xplat-cli\\multi-vm-xplat-cli.png"
@@ -9932,32 +9491,26 @@
     "articles\\media\\virtual-machines-linux-diagnostic-extension\\no1.png"
   ],
   "1007ff370c5e031c3b349f0743f057fe353fbe3f": [
-    "articles\\media\\virtual-machines-linux-how-to-attach-disk\\DiskCylinder.png",
     "includes\\media\\CreateVirtualMachineLinuxTutorial\\diskcylinder.png",
     "includes\\media\\virtual-machines-Linux-tutorial-log-on-attach-disk\\diskcylinder.png"
   ],
   "540bc367aa21100bcedd5e92a7468519883c1a38": [
-    "articles\\media\\virtual-machines-linux-how-to-attach-disk\\DiskFileSystem.png",
     "includes\\media\\CreateVirtualMachineLinuxTutorial\\diskfilesystem.png",
     "includes\\media\\virtual-machines-Linux-tutorial-log-on-attach-disk\\diskfilesystem.png"
   ],
   "e56ec8ffed64e043396c4b9afc0529bbc869ec78": [
-    "articles\\media\\virtual-machines-linux-how-to-attach-disk\\DiskInfo.png",
     "includes\\media\\CreateVirtualMachineLinuxTutorial\\diskinfo.png",
     "includes\\media\\virtual-machines-Linux-tutorial-log-on-attach-disk\\diskinfo.png"
   ],
   "7953c271c7c034ef664c8785463cb2ee07226e86": [
-    "articles\\media\\virtual-machines-linux-how-to-attach-disk\\DiskMessages.png",
     "includes\\media\\CreateVirtualMachineLinuxTutorial\\diskmessages.png",
     "includes\\media\\virtual-machines-Linux-tutorial-log-on-attach-disk\\diskmessages.png"
   ],
   "cf850015240933f9ef522e7b57626188c5d6ee82": [
-    "articles\\media\\virtual-machines-linux-how-to-attach-disk\\DiskPartition.png",
     "includes\\media\\CreateVirtualMachineLinuxTutorial\\diskpartition.png",
     "includes\\media\\virtual-machines-Linux-tutorial-log-on-attach-disk\\diskpartition.png"
   ],
   "afd82c52f5ea6ba02ef503a3216421b1e32e1fb3": [
-    "articles\\media\\virtual-machines-linux-how-to-attach-disk\\DiskWrite.png",
     "includes\\media\\CreateVirtualMachineLinuxTutorial\\diskwrite.png",
     "includes\\media\\virtual-machines-Linux-tutorial-log-on-attach-disk\\diskwrite.png"
   ],
@@ -10145,9 +9698,6 @@
   "1808c2e8c626d84d72bf105bfe80583706628cde": [
     "articles\\media\\virtual-machines-manage-availability\\application-tiers.png"
   ],
-  "76ea208afa5e0103a948cf08ef1ce7332c1dd153": [
-    "articles\\media\\virtual-machines-manage-availability\\ud-fd-configuration.png"
-  ],
   "c9df51149bcd34c867b5db32679909482c1498a8": [
     "articles\\media\\virtual-machines-mariadb-cluster\\Capture.png"
   ],
@@ -10250,14 +9800,8 @@
   "d0104ce14e971ced65c4ff877e413d7a23245310": [
     "articles\\media\\virtual-machines-python-django-web-app-linux\\mac-linux-django-helloworld-port80.png"
   ],
-  "3791ad264a4ad9d6f4107e53d3d07fc3e16f16d6": [
-    "articles\\media\\virtual-machines-python-django-web-app-windows-server\\django-helloworld-addendpoint.png"
-  ],
   "7c8586ceab9950d37098b51a978e1301fbe1cf08": [
     "articles\\media\\virtual-machines-python-django-web-app-windows-server\\django-helloworld-browser-azure.png"
-  ],
-  "9a53834c1a6840da0cf872ae890f550a930f4e50": [
-    "articles\\media\\virtual-machines-python-django-web-app-windows-server\\django-helloworld-cmd-new-azure-service.png"
   ],
   "0d0cc0c995379f014d2e67ac7de0fd967b70f37e": [
     "articles\\media\\virtual-machines-python-django-web-app-windows-server\\django-helloworld-port80.png"
@@ -10436,61 +9980,11 @@
   "dd5efc4953ce717c4e59ce0154e5abb56ba38ab2": [
     "articles\\media\\virtual-machines-sql-server-application-patterns-and-development-strategies\\IC728016.png"
   ],
-  "72f97c59fe372af324d3441eb81555964692d70d": [
-    "articles\\media\\virtual-machines-sql-server-business-intelligence\\IC650107.gif"
-  ],
-  "78eb349f7fbb13a4193f58180c178b3e12ad6212": [
-    "articles\\media\\virtual-machines-sql-server-business-intelligence\\IC650108.gif"
-  ],
-  "56717460a602acd919945a2696a6dac65cb48c41": [
-    "articles\\media\\virtual-machines-sql-server-business-intelligence\\IC650109.gif"
-  ],
-  "9e22e907d99a42eee65977e24338ebd890be4f90": [
-    "articles\\media\\virtual-machines-sql-server-business-intelligence\\IC650110.gif"
-  ],
-  "1204da5bd286d0b8c6cac0f051231ff4cf559dee": [
-    "articles\\media\\virtual-machines-sql-server-business-intelligence\\IC650112.gif",
-    "articles\\media\\virtual-machines-sql-server-create-native-mode-report-server-powershell\\IC650112.gif"
-  ],
-  "565d6b1d26bb366cbff5e414032051eb95a23537": [
-    "articles\\media\\virtual-machines-sql-server-business-intelligence\\IC650113.gif"
-  ],
   "01c1bc0b6bf10211c15a77bead7c6a782bc7c919": [
-    "articles\\media\\virtual-machines-sql-server-business-intelligence\\IC650114.gif",
     "articles\\media\\virtual-machines-sql-server-create-native-mode-report-server-powershell\\IC650114.gif"
-  ],
-  "afe3baf976abaec2975602e7ee8f31d013424d5a": [
-    "articles\\media\\virtual-machines-sql-server-business-intelligence\\IC654384.gif"
-  ],
-  "de0ef02296132a3a75a1fb39ee3ab69cd067fc91": [
-    "articles\\media\\virtual-machines-sql-server-business-intelligence\\IC654385.gif"
-  ],
-  "fafc5a7e542c3ad7a4f1bd21f08de870c8b804fe": [
-    "articles\\media\\virtual-machines-sql-server-business-intelligence\\IC660119.gif"
-  ],
-  "87d36d3ae55f6354a81e907788eb4e749984d971": [
-    "articles\\media\\virtual-machines-sql-server-business-intelligence\\IC741367.png"
   ],
   "37d2e8806c3098f769aa99a72ae24b00665733c1": [
     "articles\\media\\virtual-machines-sql-server-connection-steps\\SQLServerinVMConnectionMap.png"
-  ],
-  "3309bad7967bf177585b7ab7bfb69771f272c2ec": [
-    "articles\\media\\virtual-machines-sql-server-create-native-mode-report-server-powershell\\IC660122.gif"
-  ],
-  "3590abf56ecec45263341319be3c477a27c37fb1": [
-    "articles\\media\\virtual-machines-sql-server-create-native-mode-report-server-powershell\\IC660124.gif"
-  ],
-  "93c26a84c51627d0d6207aece8959bf7ed183151": [
-    "articles\\media\\virtual-machines-sql-server-create-native-mode-report-server-powershell\\IC692019.gif"
-  ],
-  "84ad4f6e9479181b4ef8e28873160596a33405a9": [
-    "articles\\media\\virtual-machines-sql-server-create-native-mode-report-server-powershell\\IC692020.gif"
-  ],
-  "b63499f5ec5fcd4121e6cf4440b173e735c01b89": [
-    "articles\\media\\virtual-machines-sql-server-create-native-mode-report-server-powershell\\IC692021.gif"
-  ],
-  "20eb201fbbf2eedf2eb173f3b5f6dec15461c3a4": [
-    "articles\\media\\virtual-machines-sql-server-create-native-mode-report-server-powershell\\IC764111.png"
   ],
   "2b1a1d2516d2bcdfc8bf129b07f4462124d61b4c": [
     "articles\\media\\virtual-machines-sql-server-extend-on-premises-alwayson-availability-groups\\IC742861.png"
@@ -10653,12 +10147,6 @@
   ],
   "903ae2a029cba60c86a52cf905c7f95b0f230bfe": [
     "articles\\media\\virtual-network-nsg-overview\\figure1.png"
-  ],
-  "992de7664209602a9c9e0496220c0bc5f272d91b": [
-    "articles\\media\\virtual-network-nsg-overview\\figure2.png"
-  ],
-  "233ae6f87cedc3e8dddeaff5f3f5cc4e5bedd468": [
-    "articles\\media\\virtual-network-nsg-overview\\figure3.png"
   ],
   "ff2e8af5cfbaefe75773e986aae85e6a13546cd5": [
     "articles\\media\\virtual-network-nsg-overview\\green.png"
@@ -10912,30 +10400,6 @@
   "79034ea7998cf24908b6b0f55a99eecfda13f875": [
     "articles\\media\\web-sites-business-application-solution-overview\\web-app-notitle.svg"
   ],
-  "905e2585290f61c6493ebdc16551df4f07bada1d": [
-    "articles\\media\\web-sites-connect-to-redis-using-memcache-protocol\\10-wordpress-plugin.png"
-  ],
-  "aa07b77e7247ea506f4bb7d34f129c1de21d80f7": [
-    "articles\\media\\web-sites-connect-to-redis-using-memcache-protocol\\11-wordpress-add-new-plugin.png"
-  ],
-  "ec0d92195dbe71cb2a663f501b4751e847fd857e": [
-    "articles\\media\\web-sites-connect-to-redis-using-memcache-protocol\\12-wordpress-install-memcache-plugin.png"
-  ],
-  "d8060d89efc508e5bb3d8c0e39eea9ac22b2bc32": [
-    "articles\\media\\web-sites-connect-to-redis-using-memcache-protocol\\13-locate-memcache-object-cache-plugin.png"
-  ],
-  "288b8fc0952b72c1bb86ec490c3cbe28958a8bb4": [
-    "articles\\media\\web-sites-connect-to-redis-using-memcache-protocol\\14-enable-memcache-object-cache-plugin.png"
-  ],
-  "a77075c325ee105b93a704ca535171a29f58d4b5": [
-    "articles\\media\\web-sites-connect-to-redis-using-memcache-protocol\\19-redis-cli-terminal.png"
-  ],
-  "05f93935c6635465c8ba71a8cca36ac11dc69acb": [
-    "articles\\media\\web-sites-connect-to-redis-using-memcache-protocol\\7-php-pecl-website.png"
-  ],
-  "57a65abae24daa48f760f76b0154b54511b305f8": [
-    "articles\\media\\web-sites-connect-to-redis-using-memcache-protocol\\8-php-pecl-memcache-package.png"
-  ],
   "341d695b825bdfed46e2bef027c06b8898d35662": [
     "articles\\media\\web-sites-create-web-app-using-vscode\\00b-dnvm-list.png"
   ],
@@ -11056,35 +10520,14 @@
     "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\dntutmobile-migrations-package-manager-console.png",
     "articles\\media\\web-sites-dotnet-rest-service-aspnet-api-sql-database\\dntutmobile-migrations-package-manager-console.png"
   ],
-  "677d43bae235e3cfddd277a1bda99d9d4a59b8d2": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\gs13newproj.png"
-  ],
-  "e2899b243db16325e34d2b07ebcf3947eb439677": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\GS13newprojdb.png"
-  ],
   "bf1948020c9d4908027cf8ede48285d5527de7eb": [
     "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\GS13publish.png"
-  ],
-  "5e4aed4633318b938d097e047e8fa79e451f7c07": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\rr2.png"
-  ],
-  "304b49f2300c4d8ed40b34f1e97591c531c2a32b": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\rr3.png"
-  ],
-  "3c0f4fb7710faa21344c27f36b1b620b6f3a72d1": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\rr5.png"
-  ],
-  "f7c128dcaac4b9547bb44a023331f52188f156a2": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\rr6.png"
   ],
   "97b6b5284f2b9c57fa1ff0c69f9dd890ff1c5599": [
     "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\rrc2.png"
   ],
   "3352f437b407d0347890e88df11d7a051e402189": [
     "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\rrc3.png"
-  ],
-  "10cccbc208bb6ae6a94ad8748615ab4b11f2e83d": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\rrr1.png"
   ],
   "414d26b260d8ba1201a266df8750e83fd5fcc53b": [
     "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\rrr12.png"
@@ -11110,15 +10553,6 @@
   "de503d3237e7a96a9960d5f15cf3e299ab37a517": [
     "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\s2.png"
   ],
-  "e1773ad173437710045ce3444a104ae583dbf21f": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\ss12.PNG"
-  ],
-  "cdeb9d9a3a8978bc3b41a8ac1ae9378f68adc177": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\ss13.png"
-  ],
-  "7b15090dd61fecc02295134747e8771c8b5ccd70": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\ss14.PNG"
-  ],
   "d0a1763170141f192f7bb7ddba02c5f454b1482f": [
     "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\ss15.png"
   ],
@@ -11127,30 +10561,6 @@
   ],
   "2422b42f6133723648132e63322ef1abcadeb6ba": [
     "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\ss17.PNG"
-  ],
-  "6716847ca5d80f0d78a4a6c0e167f2e745b8ec38": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\ss24.PNG"
-  ],
-  "e21332a61e59fe0c6b4042ae6539494b9fda3561": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\ss26.PNG"
-  ],
-  "23cb0bddc6e090e6af278a9ce1df7012efc50aad": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\ss27.PNG"
-  ],
-  "3c1c3f9ad32108a468419e9ee5b50ad81bd8796f": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\ss28.PNG"
-  ],
-  "cd8c8fa9505504c9e214585c7cd032dd4acec3ef": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\ss30.PNG"
-  ],
-  "40862ad8e0baa7e4c403a4de3a23ebcaf5b274b2": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\ss4.PNG"
-  ],
-  "54095aff94292821484dbce552b4cb75323ca927": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\ss5.PNG"
-  ],
-  "6a5fbf6e39b4ffd9846a75799971a133fc1cfb0a": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\SS6.png"
   ],
   "9c00da78abccbb6106c058b647d8c6fd9369bbb0": [
     "articles\\media\\web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database\\stopweb.png"
@@ -11232,57 +10642,6 @@
   ],
   "8c19f00c9bdd18e7fefad329ce8ac896010aef6b": [
     "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\ExtensionsAndUpdatesDB.png"
-  ],
-  "8807c65d535f85be52a4288d1067c8456384cc7d": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\Intro-SecureWebForms-01.png"
-  ],
-  "661d86484fdd254abaae470b422c2cf025e96cc1": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\Intro-SecureWebForms-02.png"
-  ],
-  "734db21124e685d27d3692e5205a701ce2da860b": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\Intro-SecureWebForms-03.png"
-  ],
-  "4fb33277215ee535a44a8f7a0d64d104ef8bb618": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\Intro-SecureWebForms-04.png"
-  ],
-  "fefd61f7e8bc216f3462be5bd1f6f44ee4072b00": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\Intro-SecureWebForms-05.png"
-  ],
-  "38ca0ade94a9b1dd7a099edbacc8ef2c0f24fce0": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\SecureWebForms00.png"
-  ],
-  "596202cad3c6c3680929150c3f99ce1c88f45516": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\SecureWebForms01.png"
-  ],
-  "ae42a892384ac265f9b7b337c56795cb20e2b593": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\SecureWebForms02.png"
-  ],
-  "515e6333d5eb8d437df1ed0c7020f9860f8b526e": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\SecureWebForms03.png"
-  ],
-  "e68b0c9a80501a2f543a1c4f5b8cac972640c0ec": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\SecureWebForms04.png"
-  ],
-  "200f2f29820eb1b2ff94c33709100eaa2233777f": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\SecureWebForms05.png"
-  ],
-  "6550e884f5d1979b79e58564a285cc5174686818": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\SecureWebForms08.png"
-  ],
-  "665b01e2fccb76de4126c445204a02f2a39135a3": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\SecureWebForms09.png"
-  ],
-  "a525eeb1e06338a50ebc6eb1f7f24fbc8564f634": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\SecureWebForms10.png"
-  ],
-  "e2ed487b812258b943eec06f80f14aed00d7eda3": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\SecureWebForms11.png"
-  ],
-  "fc7a31f1dda97ff2c967f68df5c434bcb6e0bc2f": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\SecureWebForms12.png"
-  ],
-  "f9bcca05ec6763514293acc095833c8ed9b72652": [
-    "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\SecureWebForms13.png"
   ],
   "bd9b54664c50830192664d8446f87ece12a9e242": [
     "articles\\media\\web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database\\SecureWebForms13a.png"
@@ -11569,30 +10928,6 @@
   "89b5beb95ff0303cec09f84782aa83f057e2f74c": [
     "articles\\media\\web-sites-dotnet-rest-service-aspnet-api-sql-database\\PublishVSSolution.png"
   ],
-  "de389ef967a0f0c594ebb5f6fde62473f2b0bc37": [
-    "articles\\media\\web-sites-dotnet-rest-service-aspnet-api-sql-database\\pw.png"
-  ],
-  "36ab239514b44ec7ec7bbab5535d5c5d0cd67954": [
-    "articles\\media\\web-sites-dotnet-rest-service-aspnet-api-sql-database\\rr4.png"
-  ],
-  "d9855722e32de6692f8050d26d55f65e7f9b9cf3": [
-    "articles\\media\\web-sites-dotnet-rest-service-aspnet-api-sql-database\\rr5.png"
-  ],
-  "4d9f3b5c908ab270208ee70ce483baa26eb75833": [
-    "articles\\media\\web-sites-dotnet-rest-service-aspnet-api-sql-database\\rr9.png"
-  ],
-  "173a175d506bd22ec4ba6329e07e0aad2a142534": [
-    "articles\\media\\web-sites-dotnet-rest-service-aspnet-api-sql-database\\rrAC.png"
-  ],
-  "2e12277b896d5f8ee6cba83741d49cec3ca2300b": [
-    "articles\\media\\web-sites-dotnet-rest-service-aspnet-api-sql-database\\rt1.png"
-  ],
-  "f0f6c1e25ae4e81f890f32729063de74b6824f26": [
-    "articles\\media\\web-sites-dotnet-rest-service-aspnet-api-sql-database\\rt3.png"
-  ],
-  "25020b84acfa8fd0cbe85b6dbbac4a251e48f3d4": [
-    "articles\\media\\web-sites-dotnet-rest-service-aspnet-api-sql-database\\rt5.png"
-  ],
   "63a8f7749b37e84f8b86ae87b885962cc418c787": [
     "articles\\media\\web-sites-dotnet-rest-service-aspnet-api-sql-database\\rxFFchrome.png"
   ],
@@ -11644,38 +10979,14 @@
   "7b7264030e150886c8bbb262483f0ba4649caf7a": [
     "articles\\media\\web-sites-dotnet-store-data-mongodb-vm\\VS2013ManageNuGetPackages.png"
   ],
-  "159c40e494b7a48633808f70cf894b2fc48d8abc": [
-    "articles\\media\\web-sites-dotnet-store-data-mongodb-vm\\VSPublishWeb.png"
-  ],
   "3f844da0fb0c8cc100d747e3173ddd2bd63c938c": [
     "articles\\media\\web-sites-dotnet-store-data-mongodb-vm\\WAWSCreateWebSite.png"
   ],
   "a928bf44c62bbfd3a67fefe7f1f798a4a2a4d5f3": [
     "articles\\media\\web-sites-dotnet-store-data-mongodb-vm\\WAWSDashboardMyTaskListApp.png"
   ],
-  "ff36a9ea99f81f14fbac675d97d16aaaea381e42": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\blobinfo.png"
-  ],
-  "6c10176d01259ba6d6f5e2f55242ad2c6cb448bd": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\clickcaw.png"
-  ],
   "ccdb24491654c2dc7b91f3a9531c9fc0c61ca36c": [
     "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\createstor.png"
-  ],
-  "bb7ff99d7fdd1556d5e9000c411b9ad6a849b079": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\detailederror.png"
-  ],
-  "794fa8c9b7633936c1882059434a301f15bc6ede": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\funcdetails.png"
-  ],
-  "5e27c1edab9c3a4246003e6cea6899bd4f40d487": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\genericerror.png"
-  ],
-  "19f927297f31ec3b8b339750f3971e12e859851d": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\genericerror1.png"
-  ],
-  "01db8c2aa49a1e584a4f6f1eb45084dccbb72725": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\genericerror2.png"
   ],
   "08b90e2948499cff9f31f1c7c3e20545374ef5be": [
     "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\newstorage.png"
@@ -11686,26 +10997,14 @@
   "6dd84dc291f39df9fc9f176218c277ef1a8abd98": [
     "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-applogverbose.png"
   ],
-  "ea819ba1b4ef60440459084c25061f7902b68f71": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-attachdebugger.png"
-  ],
   "3988b7221966b6f13bf274ee37830c368a3b74db": [
     "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-choosestorageacct.png"
   ],
   "ee35e26b1be4c00bbc9565107edc15a970c4a4fa": [
     "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-configlogging.png"
   ],
-  "3d456a528f8e2e5429e9d28531c459ccc1679de2": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-configtab.png"
-  ],
-  "ca6951ec80522e44d4c4187670de5ef8aabc1335": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-debugchangeinwa.png"
-  ],
   "ed1f0ec968b739f0a7fda09733f0f9da621252b5": [
     "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-debugtracing.png"
-  ],
-  "aa9b1c1c11bea4843f795408588fc0d5a175a79f": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-debugviewinwa.png"
   ],
   "1f475dd1f591cb4b315312766cd14420ccce49a1": [
     "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-detailederrorlog.png"
@@ -11752,9 +11051,6 @@
   "2997b6e475903821d0532859aa695e3180f01018": [
     "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-nologsyet.png"
   ],
-  "b02d53571038a6ffb21e92ff902b95df94f22e24": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-publishdebug.png"
-  ],
   "2bfe9c6758448d8a44e3bbbf4914668318b7666f": [
     "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-refreshstorage.png"
   ],
@@ -11788,9 +11084,6 @@
   "434d46d82f02162b75f3f48083b95f8f0feaeec0": [
     "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-viewlogsmenu.png"
   ],
-  "940d0f37413de133ee41f6a2dfa5f05b9031deb6": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-viewsettings.png"
-  ],
   "38f2d25765ce9817688d3eed4fa3ffd15560608c": [
     "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-w3svcfolder.png"
   ],
@@ -11802,78 +11095,6 @@
   ],
   "3312e507f0fa455d9a7748753d732c8ff6a27f49": [
     "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\tws-wslogs.png"
-  ],
-  "15e15bb34428ddcb769af0968b8f382dd4c73133": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\webconfig.png"
-  ],
-  "07224a9b244999db95410f71d59d0bf2e51e1e00": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\webconfigedit.png"
-  ],
-  "6c940ad8b18d7cd97f2da629daa77c6e9751bc62": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\wjattach.png"
-  ],
-  "57cbabbab130cf9dc77d6c82f3cb992984169721": [
-    "articles\\media\\web-sites-dotnet-troubleshoot-visual-studio\\wjbreakpoint.png"
-  ],
-  "6ac4a391ad6a926685c7c011276a01e1e66e3f12": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\adtable.png"
-  ],
-  "d8aa714b3a437f7e4052c80781e957ab63a35172": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\apparchitecture.png"
-  ],
-  "c7ece6756d388fc71dfeb172270d78b349eb29b1": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\azconnstr.png"
-  ],
-  "c2d49e523f540c7ca183761c50b60fecb4842a58": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\backendlogs.png"
-  ],
-  "eb46b68d3b4e105701a0df4a7375b1fdb9e7d1f2": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\backendrunning.png"
-  ],
-  "aea4a1e3d905118ceb2b313a63fd77344d34e1b5": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\chgauth.png"
-  ],
-  "76e47c3c43f006d77ff8437bf8ac2b6495fad809": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\connaz.png"
-  ],
-  "8064ef21c688fe33cc52bad3e657aa047161ffb9": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\connstep.png"
-  ],
-  "7ad7dfd01fc4a57817c08536bd9bc03f7dd02fd9": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\cpak.png"
-  ],
-  "626d2bac929aa0031069e45b72b6198fb0c0f37a": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\createstor.png"
-  ],
-  "e8cf139b4d1f941c2527b14173c1761a3f723ea4": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\newawjp.png"
-  ],
-  "12aea87c31f206fb47c4045636b43c566d58187b": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\newproject.png"
-  ],
-  "8f4bf94faca1388ef36b1c88e101f05bedb3c3da": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\newstorage.png"
-  ],
-  "96c545f3869cbfe4bd68a4d15a5986b5b818cb47": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\previewstep.png"
-  ],
-  "1667e5047f5f5c5b9860e8a9b6309807f35a23e9": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\previewwjfiles.png"
-  ],
-  "060cdcc8ecc9e60772ffb29b7eee1de4af6aff97": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\settingsstep.png"
-  ],
-  "a343f0ac85ceb4e5e6daf48d052684bef88b3e69": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\storppty.png"
-  ],
-  "3b7c2ad55070df2b15bfeab46c3765917549fce3": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\wjdashboardhome.png"
-  ],
-  "41c5be84a88745825d07eb55e8090264fbf9c686": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\wjfunctiondetails.png"
-  ],
-  "3ddef7acfbc664065e2ae5e9db0e8bd8d9c7cb87": [
-    "articles\\media\\websites-dotnet-webjobs-sdk-get-started\\wjtab.png"
   ],
   "06d51d929fd57a92820941948d168fe80ee868a1": [
     "articles\\media\\web-sites-enable-diagnostic-log\\tws-failedrequestinbrowser.png"
@@ -11895,9 +11116,6 @@
   ],
   "80b5a17d68b1da9f9b440b85a150ab4bbf21d5ac": [
     "articles\\media\\web-sites-java-custom-upload\\maven.png"
-  ],
-  "02f11c4c8f2901eb34cc4afad825ae7a9fed782b": [
-    "articles\\media\\web-sites-nodejs-chat-app-socketio\\websockets.png"
   ],
   "331479d3175409087258bd47036ba3d2d69ff06f": [
     "articles\\media\\web-sites-nodejs-develop-deploy-mac\\create-quick-website.png"
@@ -11977,9 +11195,6 @@
   "1c93940a85ae5673f0d43d944f5b7a211ef792ac": [
     "articles\\media\\web-sites-php-convert-wordpress-multisite\\wordpress-network-setup.png"
   ],
-  "0a531a9bf1cb0924f703911e00a21b7597d66512": [
-    "articles\\media\\web-sites-php-create-web-sites\\select-quickcreate-Website.png"
-  ],
   "e0195e88f8c285ee77f6619ac10f726159140cda": [
     "articles\\media\\web-sites-php-enterprise-wordpress\\basic-diagram.png"
   ],
@@ -12008,8 +11223,7 @@
   ],
   "ebbd36e77b542bec971d5308b848d2013d822328": [
     "articles\\media\\web-sites-php-mysql-deploy-use-git\\custom_create.png",
-    "articles\\media\\web-sites-php-sql-database-deploy-use-git\\custom_create.png",
-    "includes\\media\\create-mysql-db\\custom_create.png"
+    "articles\\media\\web-sites-php-sql-database-deploy-use-git\\custom_create.png"
   ],
   "e6612323314af356a9e547031541e4aadfead79a": [
     "articles\\media\\web-sites-php-mysql-deploy-use-git\\php-git-change-push.png"
@@ -12036,9 +11250,6 @@
   "4f7440ef754490a46e204d52f002cffff227bff0": [
     "articles\\media\\web-sites-php-sql-database-deploy-use-git\\linked_resources.jpg"
   ],
-  "be38b1db905ee5c26064fefbc39d6c2351665cfe": [
-    "articles\\media\\web-sites-php-sql-database-deploy-use-git\\running_app_3.png"
-  ],
   "57427416a0ce37ef550c5a68d5eb0e6f756f7b7c": [
     "articles\\media\\web-sites-php-sql-database-deploy-use-git\\setupdb.png"
   ],
@@ -12050,9 +11261,6 @@
   ],
   "83f454ba9eb8cb34c61eb86919c9456f9595a3ee": [
     "articles\\media\\web-sites-php-web-site-mysql-deploy-use-ftp\\reset-deployment-credentials.png"
-  ],
-  "bcbd1d3378d007951661a03aa504c860a57b8ef0": [
-    "articles\\media\\web-sites-python-configure\\configure-python-create-website.png"
   ],
   "f18ba37f2c323b44cd7bbb3353a0b1d8c37b2cc8": [
     "articles\\media\\web-sites-python-create-deploy-bottle-app\\mac-browser-bottle.png"
@@ -12096,36 +11304,6 @@
   "861c193b15e5109920fc447c09aa2900cb3a0faa": [
     "articles\\media\\web-sites-python-create-deploy-django-app\\django-ws-006.png"
   ],
-  "7502b1eb01f6ad6e968f5051173d22ee2edb808e": [
-    "articles\\media\\web-sites-python-create-deploy-django-app\\mac-browser-django.png"
-  ],
-  "4ba0af648e6e1c1f85e0ed2bd0f9c3d4fc4284c3": [
-    "articles\\media\\web-sites-python-create-deploy-django-app\\mac-run-local-django.png"
-  ],
-  "747784dc9cf48ff8120cca82a05b05d23b4fdcfc": [
-    "articles\\media\\web-sites-python-create-deploy-django-app\\ptvs-add-virtual-env-27.png"
-  ],
-  "434ee7e81338b6e4dc11f066646145a14ea70bdc": [
-    "articles\\media\\web-sites-python-create-deploy-django-app\\ptvs-commit-django.png"
-  ],
-  "6cbf5beaa69b70343c3b124b278aa1c8aaa4f764": [
-    "articles\\media\\web-sites-python-create-deploy-django-app\\ptvs-git-clone.png"
-  ],
-  "f18f29105e6af4c07d27ccf6203d2d81ac6680a3": [
-    "articles\\media\\web-sites-python-create-deploy-django-app\\ptvs-git-push.png"
-  ],
-  "a4c60485e1501663579b395240d7c496b73eeb56": [
-    "articles\\media\\web-sites-python-create-deploy-django-app\\ptvs-install-package-dialog.png"
-  ],
-  "8671c865b6474d94af1851f765af8164c50781d1": [
-    "articles\\media\\web-sites-python-create-deploy-django-app\\ptvs-solution-django.png"
-  ],
-  "a55082b7b34347568a065ea7b0e33f65848651f2": [
-    "articles\\media\\web-sites-python-create-deploy-django-app\\windows-browser-django.png"
-  ],
-  "38e239844d2f14604b9208a126ec07d94b4bd308": [
-    "articles\\media\\web-sites-python-create-deploy-django-app\\windows-run-local-django.png"
-  ],
   "40eff1ac51e07a1e274e56afa8e32e11e80354d5": [
     "articles\\media\\web-sites-python-create-deploy-flask-app\\mac-browser-flask.png"
   ],
@@ -12165,8 +11343,7 @@
   "4abc78713737964ed2bd1546a3159a1f7f0e95d9": [
     "articles\\media\\web-sites-python-ptvs-bottle-table-storage\\PollsCommonAddVirtualEnv.png",
     "articles\\media\\web-sites-python-ptvs-django-mysql\\PollsCommonAddVirtualEnv.png",
-    "articles\\media\\web-sites-python-ptvs-django-sql\\PollsCommonAddVirtualEnv.png",
-    "articles\\media\\web-sites-python-ptvs-flask-table-storage\\PollsCommonAddVirtualEnv.png"
+    "articles\\media\\web-sites-python-ptvs-django-sql\\PollsCommonAddVirtualEnv.png"
   ],
   "19826c7cceca04493bab1a8fd2d5ba2ee1e67b24": [
     "articles\\media\\web-sites-python-ptvs-bottle-table-storage\\PollsCommonAzureStorageCreate.png"
@@ -12231,15 +11408,6 @@
   ],
   "521a036c84473f4065327bc875ca7ce1429bc7e0": [
     "articles\\media\\web-sites-python-ptvs-flask-table-storage\\PollsFlaskAzureTableStorageProjectDebugSettings.png"
-  ],
-  "79332b17156b2b82a5a9cafeaa9e08a19d78be1a": [
-    "articles\\media\\web-sites-python-ptvs-flask-table-storage\\PollsFlaskExternalPackages.png"
-  ],
-  "7ae34bffb0fbda4ff798291f41612695109c883b": [
-    "articles\\media\\web-sites-python-ptvs-flask-table-storage\\PollsFlaskInMemoryBrowser.png"
-  ],
-  "0e4b31abfcc2af4b91e76efa8b348445522393b3": [
-    "articles\\media\\web-sites-python-ptvs-flask-table-storage\\PollsFlaskNewProject.png"
   ],
   "240f06bf454d417b0b8ed19dded1a4d46ccd8f1a": [
     "articles\\media\\web-sites-restore\\01ChooseBackupSource.png"
@@ -16262,41 +15430,7 @@
     "includes\\media\\create-mongolab-mongodb\\select-mongo-db.png"
   ],
   "2c88ac8a828d7e4a6302555365e7a47a9b0af033": [
-    "includes\\media\\create-mongolab-mongodb\\select-store.png",
-    "includes\\media\\create-mysql-db\\select-store.png"
-  ],
-  "5468ed9522c36d91253f707a5417c5778b1e1d7d": [
-    "includes\\media\\create-mysql-db\\complete-mysql-purchase.png"
-  ],
-  "a814fdf76d2a8514f623c0fdf65e509197fac5fb": [
-    "includes\\media\\create-mysql-db\\go-to-configure-tab.png"
-  ],
-  "96e6c84ac01571bac2dc04dd2fc1e739be3ad600": [
-    "includes\\media\\create-mysql-db\\go-to-website-dashboard.png"
-  ],
-  "2f2f8e48842ced631863185787323a5a20b883d4": [
-    "includes\\media\\create-mysql-db\\manage-mysql-add-on.png"
-  ],
-  "1b14d8f8f3f507b89f60e5f8777d924c4e775a18": [
-    "includes\\media\\create-mysql-db\\mysql-conn-info.png"
-  ],
-  "8553e612030e54ea56add54d56e61e07d4cd13e3": [
-    "includes\\media\\create-mysql-db\\provide-mysql-details.png"
-  ],
-  "a7b974f1c7a05cf1fbdd8d4b8937ee0a01ce94bd": [
-    "includes\\media\\create-mysql-db\\provide-website-details.png"
-  ],
-  "30ac0cb9ba84be6a36fb75b29a382742f22ae093": [
-    "includes\\media\\create-mysql-db\\purchase-mysql.png"
-  ],
-  "8c4527ba0e42c416ccf06695ec9abdb31743e564": [
-    "includes\\media\\create-mysql-db\\select-cleardb-mysql.png"
-  ],
-  "158a5b6d587901e3ffa7c0af095738b5502c29fe": [
-    "includes\\media\\create-mysql-db\\show-conn-string.png"
-  ],
-  "952bb77be6073ccc59b4e1e7fc836cc353013782": [
-    "includes\\media\\create-mysql-db\\shown-conn-string.png"
+    "includes\\media\\create-mongolab-mongodb\\select-store.png"
   ],
   "e30778cd7b9f68e7786ce69b8681afbd258b7886": [
     "includes\\media\\CreateVirtualMachineLinuxTutorial\\attachemptysuccess.png",
@@ -16366,9 +15500,6 @@
   "af33bb3ea91af2f3db2848e19a0175e81ebf0602": [
     "includes\\media\\CreateVirtualMachineWindowsTutorial\\yesinitialize.png"
   ],
-  "7ccf00e3be6e4cfb3ba15575e0eb651ed4838dec": [
-    "includes\\media\\crossplat-cmd-tools\\freetrial.png"
-  ],
   "6b53ee1c10d6f8e8086136270d1f91ff71b3cb64": [
     "includes\\media\\custom-dns-web-site\\dncmntask-cname-1.png"
   ],
@@ -16396,12 +15527,6 @@
   ],
   "e87cf2a1d046d03b07579ccc7145f1b06c3a9d83": [
     "includes\\media\\download-android-sample-code\\mobile-services-android-studio-project.png"
-  ],
-  "c733064355babd8d3eec974bba58fdaab468f15e": [
-    "includes\\media\\download-android-sample-code\\mobile-services-import-android-project.png"
-  ],
-  "371b5bf2470f2da0424c3cd2c192c7a52a679b21": [
-    "includes\\media\\download-android-sample-code\\mobile-services-import-android-workspace.png"
   ],
   "02c32d3820fbae768ccf82a872970460222a4c20": [
     "includes\\media\\howto-access-mongolab-ui\\button-addons.png",
@@ -16610,65 +15735,8 @@
   "6bdf1c1fe864cf5a4751e30c61b7894529792f78": [
     "includes\\media\\install-sdk-2012-only\\WebPI46-2012.png"
   ],
-  "60e3ad4cdbc8e3d5746b883230886c8043e286ca": [
-    "includes\\media\\intro-to-azure\\AzureBackupIntroNew.png"
-  ],
-  "45a5190aed33d9974f02b2e0a3d549ba589666bb": [
-    "includes\\media\\intro-to-azure\\AzureComponentsIntroNew780.png"
-  ],
-  "118dd339273029c9dc79306c2ad01648399af07b": [
-    "includes\\media\\intro-to-azure\\AzureWebsitesIntroNew.png"
-  ],
-  "9f4a7534f2f6c766863402db0c3cd1029b2fc71d": [
-    "includes\\media\\intro-to-azure\\CDNIntroNew.png"
-  ],
-  "cdea0ae012ccd3c27c7bbe01bddb17d81c4ecd20": [
-    "includes\\media\\intro-to-azure\\CloudServicesIntroNew.png"
-  ],
   "37ddc41fc78c89c9cd69340e93684e498e7673c3": [
     "includes\\media\\intro-to-azure\\CommerceIntroNew.png"
-  ],
-  "c27e2855fcebf96cf438edd7f5fab06adb38d362": [
-    "includes\\media\\intro-to-azure\\HDInsightIntroNew.png"
-  ],
-  "8d1dc4c0c3e39abbdb1b3b51a0982958f0e3fc9d": [
-    "includes\\media\\intro-to-azure\\MediaServicesIntroNew.png"
-  ],
-  "bab6b39a3fbeb272b96bd94241be4acd6cb602fc": [
-    "includes\\media\\intro-to-azure\\MobileServicesIntroNew.png"
-  ],
-  "575abb39c1ecf8f51e8c469e5547cfd120d363c8": [
-    "includes\\media\\intro-to-azure\\NotificationHubsIntroNew.png"
-  ],
-  "23e96d9ad9748d6c3afbad9918b191f722fa6d13": [
-    "includes\\media\\intro-to-azure\\QueuesIntroNew.png"
-  ],
-  "51de669c16b1be1c86147d57760c0b0aeeb22bf0": [
-    "includes\\media\\intro-to-azure\\SchedulerIntroNew.png"
-  ],
-  "b5e09ee12f8a1056c4dea375d16a73df5740522c": [
-    "includes\\media\\intro-to-azure\\ServiceBusRelayIntroNew.png"
-  ],
-  "43d5a783f32de13d6f34fb1dd2bd70cac388cace": [
-    "includes\\media\\intro-to-azure\\ServiceBusTopicsSubsIntroNew.png"
-  ],
-  "0e216a10e0d607165675c02aa1692d610ffae745": [
-    "includes\\media\\intro-to-azure\\StorageAzureSQLDatabaseIntroNew.png"
-  ],
-  "94d2dee74d88acc8c76ff95d1373edc1459aa0c2": [
-    "includes\\media\\intro-to-azure\\StorageBlobsIntroNew.png"
-  ],
-  "1f39b7997909ee23eb30113b6db255a1eac9d8cd": [
-    "includes\\media\\intro-to-azure\\StorageTablesIntroNew.png"
-  ],
-  "afde54dbd9a448339605eafadbde7b1f2f8ab0aa": [
-    "includes\\media\\intro-to-azure\\TrafficManagerIntroNew.png"
-  ],
-  "2b1c4d407a06e8285fb2a351b6c4450bb8c5c070": [
-    "includes\\media\\intro-to-azure\\VirtualMachinesIntroNew.png"
-  ],
-  "7c239cce5156f4082acf317e8c0f448811923b2a": [
-    "includes\\media\\intro-to-azure\\VirtualNetworkIntroNew.png"
   ],
   "a3873fb2d189b2a66645cb1264d11600055c45e8": [
     "includes\\media\\load-balancing-vms\\LoadBalancing.png"
@@ -17125,9 +16193,6 @@
   "25ce2309ddc818639998dc269552c92475935977": [
     "includes\\media\\notification-hubs-xamarin-enable-apple-push-notifications\\notification-hubs-select-appid-for-provisioning.png"
   ],
-  "77d6c6e548da9ca0aa4cfbe0923480894d0e1c10": [
-    "includes\\media\\publishing-with-git\\git_credentials.png"
-  ],
   "003a476f6ac88d05833f4df77e4364c5235c146f": [
     "includes\\media\\publishing-with-git\\git-DisconnectFromGitHub.png"
   ],
@@ -17575,7 +16640,6 @@
     "includes\\mobile-services-aad-rbac-test-app.md"
   ],
   "ce174eab77bc6912bb94f74965bc362817f83d87": [
-    "includes\\mobile-services-add-google-play-services.md",
     "includes\\mobile-services-add-Google-play-services.md"
   ],
   "e5ff788ce25854136f225f8ecfa2b38366909128": [
@@ -17768,7 +16832,6 @@
     "includes\\mobile-services-download-service-locally.md"
   ],
   "841a9628d36d1a6a07030bf23b4783e774af204a": [
-    "includes\\mobile-services-enable-google-cloud-messaging.md",
     "includes\\mobile-services-enable-Google-cloud-messaging.md"
   ],
   "306893ff1698d7b3032cafa037ba1a8eb5f6d735": [
@@ -18333,11 +17396,9 @@
     "includes\\virtual-machines-create-article-switchers.md"
   ],
   "c1d993877750e5a86e61af8e6031dd9f1f6cf29a": [
-    "includes\\virtual-machines-create-linuxvm.md",
     "includes\\virtual-machines-create-LinuxVM.md"
   ],
   "71f3f439d4851235786a9da8f486fad9baaba7ee": [
-    "includes\\virtual-machines-create-windowsvm.md",
     "includes\\virtual-machines-create-WindowsVM.md"
   ],
   "1b4beaa0c02f64071a7dc0915e2e4b8cb25f40d4": [
@@ -18604,29 +17665,8 @@
   "f2df84ca21083d49c8e1da979b16f882fc60c236": [
     "articles\\media\\data-management-azure-sql-database-and-sql-server-iaas\\SQLIAAS_SQL_Server_Cloud_Continuum.png"
   ],
-  "26bcbc79d608e34a063520caa0266140f6f007ec": [
-    "articles\\media\\hdinsight-hadoop-customize-cluster-v1\\HDI.CustomProvision.Page6.png"
-  ],
   "74793ffc7dc7228740ca94191e1dd1295e52078d": [
     "articles\\media\\hdinsight-hadoop-customize-cluster-v1\\HDI-Cluster-state.png"
-  ],
-  "3bee1ce39e7f62d13bb3570f0a4e0f417ff1159e": [
-    "articles\\media\\hdinsight-hadoop-giraph-install-v1\\giraph-graph.png"
-  ],
-  "46683c560067cda67e1a31b1f9bec686ad6c1465": [
-    "articles\\media\\hdinsight-hadoop-giraph-install-v1\\giraph-graph-out.png"
-  ],
-  "c22d658875fe50589ce983f5aeeb947354328181": [
-    "articles\\media\\hdinsight-hadoop-giraph-install-v1\\hdi-script-action-giraph.png"
-  ],
-  "748854d97a3e9cef42b58ec9f0da32e8dc186a71": [
-    "articles\\media\\hdinsight-hadoop-r-scripts\\hdi-r-script-action.png"
-  ],
-  "23662328b7402264e270b22d447de099d9ca2e8b": [
-    "articles\\media\\hdinsight-hadoop-solr-install-v1\\hdi-script-action-solr.png"
-  ],
-  "27ecb7c701ed6bd0bddb7701de222160e7fcb0cd": [
-    "articles\\media\\hdinsight-hadoop-solr-install-v1\\hdi-solr-dashboard-query.png"
   ],
   "84b665da0f740ebe688b8c71ed6bd10dff102271": [
     "articles\\media\\multi-factor-authentication-end-user-first-time\\first.png"
@@ -18743,27 +17783,6 @@
   ],
   "19468068506d337d3ebcc7eeb3f067606a0d3c31": [
     "articles\\media\\virtual-machines-linux-nodejs-running-cassandra\\cassandra-linux2.png"
-  ],
-  "042e381c007b523aaafde75fbc062fdcde19fcd9": [
-    "articles\\media\\virtual-machines-python-ipython-notebook\\anaconda-install.png"
-  ],
-  "249b93e499cc74245b93549a7ef06d08cd2ff484": [
-    "articles\\media\\virtual-machines-python-ipython-notebook\\ipy-azure-linux-005.png"
-  ],
-  "d937f03b7b725b7bc34efe95f8aafa77d9b02f2c": [
-    "articles\\media\\virtual-machines-python-ipython-notebook\\ipy-azure-linux-006.png"
-  ],
-  "a4275b3479fffe069b8025588e5627d9219271c1": [
-    "articles\\media\\virtual-machines-python-ipython-notebook\\ipy-notebook-spectral.png"
-  ],
-  "59e14695f6c71b3bd213bdc252d9bfe6ddf06dc2": [
-    "articles\\media\\virtual-machines-python-ipython-notebook\\jupyter-editing-experience.png"
-  ],
-  "cf2b978f2fec646abaddfd9cbc9aa99f6cf23628": [
-    "articles\\media\\virtual-machines-python-ipython-notebook\\jupyter-tree-view.png"
-  ],
-  "9b16b34540c842eae27a8ad252b6632c574677bf": [
-    "articles\\media\\virtual-machines-python-ipython-notebook\\jupyter-untitled-notebook.png"
   ],
   "3d3b92f9827684f257f1ee4b51c1743a9978a2bc": [
     "includes\\media\\application-model\\application-model-3.jpg"
