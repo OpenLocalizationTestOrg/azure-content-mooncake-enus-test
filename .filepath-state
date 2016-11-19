@@ -5233,8 +5233,7 @@
   "ba2ce4d4c703a6f8a106f05f60c6a0deed00655b": [
     "articles\\media\\mobile-services-html-get-started\\mobile-data-browse.png",
     "articles\\media\\partner-xamarin-mobile-services-ios-get-started\\mobile-data-browse.png",
-    "includes\\media\\mobile-services-android-get-started\\mobile-data-browse.png",
-    "includes\\media\\mobile-services-javascript-backend-run-app\\mobile-data-browse.png"
+    "includes\\media\\mobile-services-android-get-started\\mobile-data-browse.png"
   ],
   "7181c3347b682046e418b40fb967c5b809804436": [
     "articles\\media\\mobile-services-html-get-started\\mobile-data-tab.png"
@@ -15945,9 +15944,6 @@
   "814fa6806d0cd96d0abc6b325265de7de3198062": [
     "includes\\media\\mobile-services-dotnet-backend-view-sql-data\\sql-azure-query.png"
   ],
-  "f5649a44d9190d3785087391c957f208d893815a": [
-    "includes\\media\\mobile-services-enable-google-cloud-messaging\\mobile-services-google-create-server-key.png"
-  ],
   "69b25e7c2645e9d5db3195ed3351de0c0ef06f60": [
     "includes\\media\\mobile-services-enable-google-cloud-messaging\\mobile-services-google-new-project.png"
   ],
@@ -15965,26 +15961,10 @@
     "includes\\media\\mobile-services-generate-aad-app-registration-access-key-rbac\\app-perms.png"
   ],
   "7b4407206c322a8e2645456319777d6514a53b91": [
-    "includes\\media\\mobile-services-generate-aad-app-registration-access-key\\client-id-and-key.png",
     "includes\\media\\mobile-services-generate-aad-app-registration-access-key-rbac\\client-id-and-key.png"
   ],
   "9ff2905a9ba93aa451aa152b0f1f5a062f11b821": [
     "includes\\media\\mobile-services-generate-aad-app-registration-access-key-rbac\\aad-app-settings.png"
-  ],
-  "f5ce858409f400180560222bb7338a5e24baf973": [
-    "includes\\media\\mobile-services-how-to-configure-iis-express\\iis-express-tray-stop-site.png"
-  ],
-  "665c4951cdedfcda5f69809dfe2fe19e031d7d45": [
-    "includes\\media\\mobile-services-how-to-configure-iis-express\\ipconfig.png"
-  ],
-  "53ebb83bb648ab93e5ca4eebb476ecd53feca410": [
-    "includes\\media\\mobile-services-ios-download-service-locally\\download-publish-profile.png"
-  ],
-  "718a1fb75ae4398edc98560f81ad8bee8a8d5eb2": [
-    "includes\\media\\mobile-services-ios-download-service-locally\\download-service-project.png"
-  ],
-  "8191a8686975df4bac6413d7e04c1458617ae1b0": [
-    "includes\\media\\mobile-services-ios-download-service-locally\\mobile-portal-quickstart-ios.png"
   ],
   "f4dba4ec4a70c53a32d90a3bb87c2d8f7aaeb08c": [
     "includes\\media\\mobile-services-ios-run-app\\mobile-quickstart-startup-ios.png"
