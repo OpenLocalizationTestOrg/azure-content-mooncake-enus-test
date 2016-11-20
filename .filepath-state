@@ -2855,6 +2855,9 @@
   "8041b7cf1cbcec9b25543b3b08fe965ce7b01126": [
     "articles\\media\\backup-azure-backup-sql\\pg-consistent.png"
   ],
+  "6cc64a29931c86249af50f0103b17adf7ae1f19f": [
+    "articles\\media\\backup-azure-backup-sql\\pg-databases.png"
+  ],
   "4944d81a94c77cd6db60f0127a5b3dca280fb83e": [
     "articles\\media\\backup-azure-backup-sql\\pg-manual.png"
   ],
