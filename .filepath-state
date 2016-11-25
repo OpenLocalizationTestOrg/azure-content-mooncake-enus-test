@@ -3217,6 +3217,15 @@
   "87d7039602e1979dcfadce16381724deaf2fe60d": [
     "articles\\media\\batch-technical-overview\\work_item_workflow.png"
   ],
+  "06b470948e91d3bfb20023004b79355d2b6fb18b": [
+    "articles\\media\\best-practices-caching\\Caching3.png"
+  ],
+  "3fdc00d63a845e06f33b83cbb497ee67a81f660c": [
+    "articles\\media\\best-practices-caching\\Figure1.png"
+  ],
+  "f67f73f0c0735268e5a3811201eea9dd661fa933": [
+    "articles\\media\\best-practices-caching\\Figure2.png"
+  ],
   "43199a7168f7211815102d2bf5671e3913b6b78c": [
     "articles\\media\\best-practices-data-partitioning\\DataPartitioning01.png"
   ],
@@ -3843,6 +3852,12 @@
   "b74c0ee371d92849b3b6c8d4acacac07d8847018": [
     "articles\\media\\cloud-services-nodejs-chat-app-socketio\\socketio-7.png"
   ],
+  "82f25de5ab41606ee889406d381526a40c6f61f8": [
+    "articles\\media\\cloud-services-nodejs-develop-deploy-app\\node48.png"
+  ],
+  "6c4b16d1df90565e1cda0861cd9706df22d31c07": [
+    "articles\\media\\cloud-services-nodejs-develop-deploy-app\\node49.png"
+  ],
   "37149a77f855eec69a2174337c656a5e863b2bec": [
     "articles\\media\\cloud-services-nodejs-develop-deploy-express-app\\node31.png"
   ],
@@ -3851,6 +3866,9 @@
   ],
   "4361294f54e414cdfc777721af76d28dcb156f96": [
     "articles\\media\\cloud-services-nodejs-develop-deploy-express-app\\node36.png"
+  ],
+  "fdcb27c380644409e72541c4726a93bf40b35d6a": [
+    "articles\\media\\cloud-services-nodejs-enable-remote-desktop\\cloud-service-instance.png"
   ],
   "40ad7a78a2d4bc8bbdcdbfadeda6dec9d191e5be": [
     "articles\\media\\cloud-services-nodejs-enable-remote-desktop\\cloud-services-remote.png"
