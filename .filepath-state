@@ -2912,6 +2912,9 @@
   "4d20c0e0abe2482e759b7e5dbe265e08134c149e": [
     "articles\\media\\backup-azure-backup-sql\\sqlbackup-restorepoint.png"
   ],
+  "4018b042e6e5a3e33f7783fabc25ac53523ac5e7": [
+    "articles\\media\\backup-azure-backup-windows-server\\backupnow.png"
+  ],
   "38390798b9a1f4f86de815edccc283918016f73d": [
     "articles\\media\\backup-azure-backup-windows-server\\initialbackup.png"
   ],
