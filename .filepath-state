@@ -1352,6 +1352,9 @@
   "02a488cb665b1c57ec2a0b7d04ec5e874c0920ec": [
     "articles\\media\\active-directory-aadconnect-dirsync-upgrade-get-started\\advancedsettings.png"
   ],
+  "d4cbbd0decacdf3541ab898bad102a7b0a784e08": [
+    "articles\\media\\active-directory-aadconnect-dirsync-upgrade-get-started\\AnalysisReady.png"
+  ],
   "053a6fe40705e0bc93f8f41d339ef3caadd6e4ae": [
     "articles\\media\\active-directory-aadconnect-dirsync-upgrade-get-started\\AnalysisReadyFullSQL.png"
   ],
