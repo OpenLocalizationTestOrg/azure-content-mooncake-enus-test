@@ -3256,6 +3256,9 @@
   "16e9ce9834162bb1533b48873eb9fe29de195cd9": [
     "articles\\media\\best-practices-monitoring\\Consolidation.png"
   ],
+  "b36de2985114820fce9da55b8bbde0e4231227a8": [
+    "articles\\media\\best-practices-monitoring\\DataStorage_new.PNG"
+  ],
   "df638e275bcbca6888efdb4f6117e80e20a517c4": [
     "articles\\media\\best-practices-monitoring\\Pipeline.png"
   ],
@@ -3658,10 +3661,12 @@
     "articles\\media\\cloud-services-configure-ssl-certificate\\SSLCloudService.png"
   ],
   "83ccf8a0a44d16b239836a6263ab6162dbd69205": [
-    "articles\\media\\cloud-services-custom-domain-name\\csurl.png"
+    "articles\\media\\cloud-services-custom-domain-name\\csurl.png",
+    "includes\\media\\custom-dns\\csurl.png"
   ],
   "1226597914c4e7d0d733d972f874f743376f16ff": [
-    "articles\\media\\cloud-services-custom-domain-name\\csvip.png"
+    "articles\\media\\cloud-services-custom-domain-name\\csvip.png",
+    "includes\\media\\custom-dns\\csvip.png"
   ],
   "f77b49f3bfdb5d0597263ca2d8d68b8cba23da28": [
     "articles\\media\\cloud-services-dotnet-continuous-delivery\\common-task-tfs-03.png"
@@ -7024,7 +7029,9 @@
     "articles\\media\\site-recovery-hyper-v-site-to-azure\\VMProperties.png"
   ],
   "ca6979b733b4ff4a68ec615ec47943a8f3878f96": [
-    "articles\\media\\site-recovery-manage-registration-and-protection\\RegistrationProtection_RemoveVM.png"
+    "articles\\media\\site-recovery-manage-registration-and-protection\\RegistrationProtection_RemoveVM.png",
+    "articles\\media\\site-recovery-vmware-to-azure\\ASRVMWare_RemoveVM.png",
+    "articles\\media\\site-recovery-vmware-to-azure-classic-legacy\\remove-vm.png"
   ],
   "afba2ff103f5ae7c890b341221df6e31fa5efcba": [
     "articles\\media\\site-recovery-migrate-aws-to-azure\\ASR_AWSMigration1.png"
@@ -8580,7 +8587,8 @@
     "articles\\media\\web-sites-nodejs-develop-deploy-mac\\plus-new.png",
     "includes\\media\\create-storage-account\\plus-new.png",
     "includes\\media\\mobile-services-create-new-service-data\\plus-new.png",
-    "includes\\media\\storage-create-account-include\\plus-new.png"
+    "includes\\media\\storage-create-account-include\\plus-new.png",
+    "articles\\media\\web-sites-python-ptvs-django-sql\\PollsCommonAzurePlusNew.png"
   ],
   "88861750434d05e6919637fe017ed57e81b26573": [
     "articles\\media\\storage-nodejs-use-table-storage-web-site\\quick-storage.png"
@@ -11195,6 +11203,9 @@
   "1c93940a85ae5673f0d43d944f5b7a211ef792ac": [
     "articles\\media\\web-sites-php-convert-wordpress-multisite\\wordpress-network-setup.png"
   ],
+  "0a531a9bf1cb0924f703911e00a21b7597d66512": [
+    "articles\\media\\web-sites-php-create-web-sites\\select-quickcreate-website.png"
+  ],
   "e0195e88f8c285ee77f6619ac10f726159140cda": [
     "articles\\media\\web-sites-php-enterprise-wordpress\\basic-diagram.png"
   ],
@@ -11350,7 +11361,9 @@
   ],
   "60af5c1dbf3c9bcc6098435b9d76bc276a5ada54": [
     "articles\\media\\web-sites-python-ptvs-django-mysql\\PollsCommonPublishWebSiteDialog.png",
-    "articles\\media\\web-sites-python-ptvs-flask-table-storage\\PollsCommonPublishWebSiteDialog.png"
+    "articles\\media\\web-sites-python-ptvs-flask-table-storage\\PollsCommonPublishWebSiteDialog.png",
+    "articles\\media\\web-sites-python-ptvs-bottle-table-storage\\PollsCommonPublishWebSiteDialog.png",
+    "articles\\media\\web-sites-python-ptvs-django-sql\\PollsCommonPublishWebSiteDialog.png"
   ],
   "1bc9b24cbbae7be61376110b1a5fa135733a5505": [
     "articles\\media\\web-sites-python-ptvs-django-mysql\\PollsDjangoAzureBrowser.png",
@@ -15500,6 +15513,9 @@
   "af33bb3ea91af2f3db2848e19a0175e81ebf0602": [
     "includes\\media\\CreateVirtualMachineWindowsTutorial\\yesinitialize.png"
   ],
+  "7ccf00e3be6e4cfb3ba15575e0eb651ed4838dec": [
+    "includes\\media\\crossplat-cmd-tools\\freetrial.PNG"
+  ],
   "6b53ee1c10d6f8e8086136270d1f91ff71b3cb64": [
     "includes\\media\\custom-dns-web-site\\dncmntask-cname-1.png"
   ],
@@ -16505,7 +16521,8 @@
     "includes\\media\\virtual-networks-create-vnet-classic-portal-include\\vnet-create-portal-figure4.png"
   ],
   "edc01196d6e0d0e50200a10260b2f828a29242ba": [
-    "includes\\media\\virtual-networks-create-vnet-classic-portal-include\\vnet-create-portal-figure5.png"
+    "includes\\media\\virtual-networks-create-vnet-classic-portal-include\\vnet-create-portal-figure5.png",
+    "includes\\media\\virtual-networks-create-vnet-classic-portal-xml-include\\vnet-create-portal-netcfg-figure6.png"
   ],
   "a247434627d318bf3013faf8e00fecb501fe7385": [
     "includes\\media\\virtual-networks-create-vnet-classic-portal-xml-include\\vnet-create-portal-netcfg-figure1.gif"
@@ -17801,5 +17818,104 @@
   ],
   "bf52a36762f0016522196f240c9df4d619000461": [
     "includes\\media\\application-model\\application-model-8.jpg"
+  ],
+  "61683a12d2404b627c43977748259974dfd035db": [
+    "articles\\media\\active-directory-developers-guide\\android.png"
+  ],
+  "11bbf88689d9c44bdb11b6607c1d7f4a11924c62": [
+    "articles\\media\\active-directory-developers-guide\\cordova.png"
+  ],
+  "c3c85017ea97093b0bc0eeadf867f2c1a4270945": [
+    "articles\\media\\active-directory-developers-guide\\graph.png"
+  ],
+  "7705f5d2b97bae30ced61eacf8df70b5f611f21e": [
+    "articles\\media\\active-directory-developers-guide\\ios.png"
+  ],
+  "0e6fbc322f6f30c2666d3a627663d81dfc6dc4eb": [
+    "articles\\media\\active-directory-developers-guide\\javascript.png"
+  ],
+  "6ffae2e090636c4470e2180536fd6a8501464955": [
+    "articles\\media\\active-directory-developers-guide\\net.png"
+  ],
+  "7755fb3f2afb7445bdfea9ba77620780248a1b0a": [
+    "articles\\media\\active-directory-developers-guide\\nodejs.png"
+  ],
+  "ef0047407bd816284d0f69d1d449ed1c6a6cd5e3": [
+    "articles\\media\\active-directory-developers-guide\\windows.png"
+  ],
+  "764a0e99548b002056014537a17413ca276392a5": [
+    "articles\\media\\active-directory-developers-guide\\xamarin.png"
+  ],
+  "e33e9e249c1eae3aa7de431d809620ea6ccd971c": [
+    "articles\\media\\active-directory-passwords-troubleshoot\\004.jpg"
+  ],
+  "28fb4bc77a6e466614aea7f3959e3ca1b4324dbb": [
+    "articles\\media\\fundamentals-application-models\\ExecModels_07_CombineTechnologies.png"
+  ],
+  "595f201c8dbc265d3fabd5189abbf9407558611d": [
+    "articles\\media\\hdinsight-hbase-provision-vnet-v1\\PrimaryDNSSuffix.png"
+  ],
+  "038e8ae1ce9955cff5372e5e717b5208e81a1436": [
+    "articles\\media\\hdinsight-using-json-in-hive\\addjar.png"
+  ],
+  "1deda38aa507f343853cbc2ca63ff3b9bbc06752": [
+    "articles\\media\\resource-manager-deployment-model\\azure-portal.png"
+  ],
+  "df8e51ec4b1a20b83f579e4f4d4c51f022e384f4": [
+    "articles\\media\\service-bus-dotnet-hybrid-app-using-service-bus-relay\\getting-started-multi-tier-13.png"
+  ],
+  "8e7a2607ceebe3dd4095bbdb8f4b2132749affa3": [
+    "articles\\media\\service-bus-dotnet-hybrid-app-using-service-bus-relay\\hy-con-4.png"
+  ],
+  "f5c3ba93fa7072be970f38925814859820c30983": [
+    "articles\\media\\site-recovery-failback-azure-to-vmware\\image20.png"
+  ],
+  "832160415462cf3a7899e02ad1757bfc3544522e": [
+    "articles\\media\\storage-nodejs-use-table-storage-web-site\\azure-account-download-cli.png"
+  ],
+  "f6bea12a204c03d7fd6d6e5b3f950a7a5ddb6c6c": [
+    "articles\\media\\web-sites-python-ptvs-bottle-table-storage\\PollsCommonCreateWebSite.png",
+    "articles\\media\\web-sites-python-ptvs-django-sql\\PollsCommonCreateWebSite.png"
+  ],
+  "ec647741328c6955b6855fe699ba9946865b19d1": [
+    "articles\\media\\web-sites-python-ptvs-bottle-table-storage\\PollsCommonServerExplorer.png",
+    "articles\\media\\web-sites-python-ptvs-flask-table-storage\\PollsCommonServerExplorer.png"
+  ],
+  "68a40c032c8a3489a9eee00d75a391216405073b": [
+    "articles\\media\\web-sites-python-ptvs-bottle-table-storage\\PollsCommonServerExplorerTable.png",
+    "articles\\media\\web-sites-python-ptvs-flask-table-storage\\PollsCommonServerExplorerTable.png"
+  ],
+  "d7752b3646b85cc03379328f7f36686b4a42f271": [
+    "articles\\media\\web-sites-python-ptvs-bottle-table-storage\\PollsCommonWebSiteConfigureBottomMenu.png",
+    "articles\\media\\web-sites-python-ptvs-flask-table-storage\\PollsCommonWebSiteConfigureBottomMenu.png"
+  ],
+  "b31d771f0e1b2e741d84daad87925a3f17f7a128": [
+    "articles\\media\\web-sites-python-ptvs-bottle-table-storage\\PollsCommonWebSiteConfigureSettingsTableStorage.png",
+    "articles\\media\\web-sites-python-ptvs-flask-table-storage\\PollsCommonWebSiteConfigureSettingsTableStorage.png"
+  ],
+  "09c4973b5200de3bc939224f964706a13b69e0d3": [
+    "articles\\media\\web-sites-python-ptvs-bottle-table-storage\\PollsCommonWebSiteTopMenu.png",
+    "articles\\media\\web-sites-python-ptvs-flask-table-storage\\PollsCommonWebSiteTopMenu.png"
+  ],
+  "fec981ad495e72decc38ccf9fdf76232f9b203a9": [
+    "articles\\media\\web-sites-python-ptvs-django-sql\\PollsDjangoSqlCreate.png"
+  ],
+  "19a3cac8891b27f907dbb485d76a1d299a8b093b": [
+    "articles\\media\\web-sites-scale\\12EditScaleSettingsForSchedule.png"
+  ],
+  "0cb0c43306b8f195e0a332197c91c9bc9846801d": [
+    "articles\\media\\web-sites-scale\\13ScaleByMetric.png"
+  ],
+  "605b834e2e85d63d42b6b2e979954462b7b984b7": [
+    "includes\\media\\cloud-storage\\Data_04_SQLDataSync.png"
+  ],
+  "72fb016a3d1eca0dd1c902daf0736db0f712deb3": [
+    "includes\\media\\custom-dns-web-site\\dncmntask-cname-4.png"
+  ],
+  "826acc5bcf14f1e812a0dc366660c01564f83ca2": [
+    "includes\\media\\virtual-networks-create-vnet-classic-portal-xml-include\\vnet-create-portal-netcfg-figure4.png"
+  ],
+  "9c8363fcb5c23ed486c4b46bf22709a988b5ae2e": [
+    "includes\\media\\virtual-networks-create-vnet-classic-portal-xml-include\\vnet-create-portal-netcfg-figure5.png"
   ]
 }
