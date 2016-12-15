@@ -6578,7 +6578,8 @@
     "articles\\media\\service-bus-dotnet-hybrid-app-using-service-bus-relay\\getting-started-3.png"
   ],
   "807fca5872803044e3aa116fefc518ef3218c092": [
-    "articles\\media\\service-bus-dotnet-hybrid-app-using-service-bus-relay\\getting-started-41.png"
+    "articles\\media\\service-bus-dotnet-hybrid-app-using-service-bus-relay\\getting-started-41.png",
+    "articles\\media\\service-bus-dotnet-multi-tier-app-using-service-bus-queues\\getting-started-41.png"
   ],
   "21019d44b5f322d7367d8542b6d99c945fe61656": [
     "articles\\media\\service-bus-dotnet-hybrid-app-using-service-bus-relay\\getting-started-42-webpi.png"
