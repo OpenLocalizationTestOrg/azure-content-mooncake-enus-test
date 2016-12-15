@@ -2158,6 +2158,9 @@
   "b3347735fd104dcd0ab89cfaa7649aec345d8cf5": [
     "articles\\media\\active-directory-saml-claims-customization\\claimscustomization4.png"
   ],
+  "5398d287735a920a76b07852355649fbb23d4257": [
+    "articles\\media\\active-directory-saml-debugging\\fiddler.png"
+  ],
   "24b10b376a59d70934437df884478c31273fcb41": [
     "articles\\media\\active-directory-scim-provisioning\\scim-figure-1.PNG"
   ],
@@ -2184,6 +2187,9 @@
   ],
   "fe1e85c733bf2aedbb53969363e098da5cb5dbf0": [
     "articles\\media\\active-directory-sso-certs\\config-sso.png"
+  ],
+  "ef64be6c31c8ecad6b9d4ca14652b50025a39947": [
+    "articles\\media\\active-directory-sso-certs\\fed-sso.PNG"
   ],
   "63961947522a28221d2e110e98d2275beae98e29": [
     "articles\\media\\active-directory-sso-certs\\new-app-config-app.PNG"
@@ -2330,6 +2336,9 @@
   "71c2ef916f8f6e0fcf75ac4f59c108ab560470f6": [
     "articles\\media\\aog-virtual-machine-add-vm-to-availability-group\\open-vm-config.png"
   ],
+  "0637236372628c16c553ee82baaf88991b27634e": [
+    "articles\\media\\aog-virtual-machine-add-vm-to-availability-group\\show-result.jpg"
+  ],
   "6d122e259365617540f8e229e5658978643ef206": [
     "articles\\media\\aog-virtual-machine-how-to-reset-vm-size\\reset-vm-size.png"
   ],
@@ -2351,11 +2360,26 @@
   "3be758df3e0752daf5e1a2a7405cb5c3f73f5fb6": [
     "articles\\media\\aog-virtual-machines-ps-add-endpoint\\batch-add-endpoint-result.PNG"
   ],
+  "e0ee3f3d7b9291b9777e3d3d25f66b03c496fd5d": [
+    "articles\\media\\aog-virtual-machines-ps-add-endpoint\\excel-input.PNG"
+  ],
+  "80f36035c340c720be51c24f5edfeb85d75074a9": [
+    "articles\\media\\aog-virtual-machines-ps-add-endpoint\\get-endpoint-info.PNG"
+  ],
   "ada2720e8e4522a5303d9b23cfe5236288d3a78d": [
     "articles\\media\\aog-virtual-network-add-endpoint-and-acl\\acl-list.jpg"
   ],
   "279724938c55ac789f2c0d46402005709a09a3f6": [
     "articles\\media\\aog-virtual-network-add-endpoint-and-acl\\add-acl.jpg"
+  ],
+  "6ca34a69d2e758af907f56b293edbbcf471863db": [
+    "articles\\media\\aog-virtual-network-add-endpoint-and-acl\\add-endpoint.jpg"
+  ],
+  "d6ef153e9f3b00fb82796811f4b4866486916b02": [
+    "articles\\media\\aog-virtual-network-add-endpoint-and-acl\\endpoint-detail.jpg"
+  ],
+  "cf73b12d9c44a259b3e7e158836d058bee269efe": [
+    "articles\\media\\aog-virtual-network-add-endpoint-and-acl\\endpoint-list.jpg"
   ],
   "ea4a4c7a5af361ad871b81387dd6c1ae5b3f5bff": [
     "articles\\media\\aog-virtual-network-add-endpoint-and-acl\\endpoint-result-list.jpg"
@@ -2470,6 +2494,18 @@
   ],
   "60b0bcaec96a11dbe431a01f08e6d00e25676107": [
     "articles\\media\\architecture-overview\\PnPPatternPosterThumb.jpg"
+  ],
+  "dac469605d277c85c9e001e7fb517ae41ff18277": [
+    "articles\\media\\automation-create-runbook-from-samples\\automation_01_CreateAccount.png"
+  ],
+  "bde6eb89ebcaaac482a0cc48f06331ce6790d333": [
+    "articles\\media\\automation-create-runbook-from-samples\\automation_02_addnewautoacct.png"
+  ],
+  "b541b721e4b12fb0789baaa362804210417997dd": [
+    "articles\\media\\automation-create-runbook-from-samples\\automation_03_NewAutoAcct.png"
+  ],
+  "a7bad12379033ae71ef049ebb9bad12db26aab95": [
+    "articles\\media\\automation-create-runbook-from-samples\\automation_04_RunbooksTab.png"
   ],
   "bb0e8ca426502155376fc640f8856e0506f710ca": [
     "articles\\media\\automation-create-runbook-from-samples\\automation_05_ImportGallery.png"
