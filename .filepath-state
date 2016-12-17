@@ -2342,6 +2342,9 @@
   "6d122e259365617540f8e229e5658978643ef206": [
     "articles\\media\\aog-virtual-machine-how-to-reset-vm-size\\reset-vm-size.png"
   ],
+  "82628a6bdb3e019333a30374bd89bf3f52eb4a3c": [
+    "articles\\media\\aog-virtual-machine-how-to-turn-off-vm-automatically\\powershell-add-parameter.png"
+  ],
   "c6f01a405902417eb8505c7d8ad1db8d31e9efb5": [
     "articles\\media\\aog-virtual-machine-how-to-turn-off-vm-automatically\\powershell-add-task-to-system.png"
   ],
@@ -2437,6 +2440,12 @@
   ],
   "fbedee4f1d2bf650c92acc3c32940f751604fbf2": [
     "articles\\media\\app-service-agile-software-development\\production-2-app-in-browser.png"
+  ],
+  "5183414bed705f848a2c2d297beae59cad41af52": [
+    "articles\\media\\app-service-agile-software-development\\production-4-swap.png"
+  ],
+  "c911e28000fc585c33463b4fbb64aaf9bffe3b1e": [
+    "articles\\media\\app-service-agile-software-development\\test-1-github-view.png"
   ],
   "4c15a698a3f0291cfc35df0cde043c48dae8a4b7": [
     "articles\\media\\app-service-agile-software-development\\what-1-architecture.png"
@@ -2552,6 +2561,9 @@
   "6afa6bb105e717d2da30555d66c06787300a6a17": [
     "articles\\media\\azure-api-management-certs\\certificates-tab.png"
   ],
+  "dca991946479a971593e8e0370e2921f54b30d9c": [
+    "articles\\media\\azure-api-management-certs\\settings.png"
+  ],
   "df4b0a7c4e12063a4cb28726823ea767e2320508": [
     "articles\\media\\azure-api-management-certs\\upload.png"
   ],
@@ -2594,6 +2606,9 @@
   "ecd7ca30891e80356c748d4a55b25d21cbfd3017": [
     "articles\\media\\azure-security-audit-log-management\\sec-event-viewer.png"
   ],
+  "c3393d2d06e9bcc27a13b3e30c30167c4238ff86": [
+    "articles\\media\\azure-security-audit-log-management\\sec-hdinsight-analysis.png"
+  ],
   "5450a0cd69de8296fccda08799b9f1246076c6ee": [
     "articles\\media\\azure-security-audit-log-management\\sec-process-creation-event.png"
   ],
@@ -2611,6 +2626,9 @@
   ],
   "39cdfbb71f2db5cdd2c1c63b8d2c045c73e9fb5b": [
     "articles\\media\\azure-security-audit-log-management\\sec-storage-table-security-log.PNG"
+  ],
+  "5be51a34c6bcaa738bf4c30f75a7bf357cf07b0f": [
+    "articles\\media\\azure-security-audit-log-management\\sec-view-blob-container.png"
   ],
   "391892b8779ad6cab53c6e33949c5efd3d4853b1": [
     "articles\\media\\azure-security-audit-log-management\\sec-w3c-format.png"
@@ -2722,6 +2740,9 @@
   ],
   "ff50517de8bf5288e7bbe80f13bbf53a6b9da93c": [
     "articles\\media\\backup-azure-backup-cloud-as-tape\\weeklybackupschedule.png"
+  ],
+  "37dbf5db9464e99ca08de25ffaa32123e1d84c75": [
+    "articles\\media\\backup-azure-backup-exchange-server\\choose-online-replication.png"
   ],
   "4c0513a9bff58021448469e7090a13723031cf00": [
     "articles\\media\\backup-azure-backup-exchange-server\\eseutil-error.png"
@@ -3273,6 +3294,27 @@
   "6dc1b450917fa6e61215faf59d680ec1597a06be": [
     "articles\\media\\cdn-doc\\004.png"
   ],
+  "039bdb84c63f253491ac4ae59c27b489184459d6": [
+    "articles\\media\\cdn-doc\\007.png"
+  ],
+  "174cb363c01200a19d5dab4e78d62683d4c0ba9a": [
+    "articles\\media\\cdn-doc\\008.png"
+  ],
+  "5d145fa475d27eecddca5f14306ea472a9b2ede7": [
+    "articles\\media\\cdn-doc\\009.png"
+  ],
+  "6effe89cc12a553397c3f82b0102e039c63d2629": [
+    "articles\\media\\cdn-doc\\010.png"
+  ],
+  "3e13820b43afa061470e5a91b2d6f7513fef35c6": [
+    "articles\\media\\cdn-doc\\011.png"
+  ],
+  "76afe183c6a3b56d0b79f2c5e4c94b41690b6e3b": [
+    "articles\\media\\cdn-doc\\012.png"
+  ],
+  "f972be3af2a5b5cdc72b28dca836d6450c2190d6": [
+    "articles\\media\\cdn-doc\\013.png"
+  ],
   "5121157ef569da6896371a42f5de1d0668e1e727": [
     "articles\\media\\cdn-doc\\014.png"
   ],
@@ -3767,8 +3809,14 @@
   "b5baa194e9674313328eca765513c83d5abe5bc1": [
     "articles\\media\\cloud-services-how-to-scale\\CloudServices_QueueRange.png"
   ],
+  "1841017190365c8f63ea0788ea268bcda68e9565": [
+    "articles\\media\\cloud-services-how-to-scale\\CloudServices_QueueScale.png"
+  ],
   "d01bebdcd16eef9ec65712d7ceb72a9b892b4adc": [
     "articles\\media\\cloud-services-how-to-scale\\CloudServices_ScaleDownBy.png"
+  ],
+  "daecb3435070f28afc68f312b5e629f9d2241350": [
+    "articles\\media\\cloud-services-how-to-scale\\CloudServices_ScaleDownWaitTime.png"
   ],
   "ba7b4969ef9eab478775d67ca636c45573b291c0": [
     "articles\\media\\cloud-services-how-to-scale\\CloudServices_ScaleLinkedResources.png"
@@ -3808,6 +3856,15 @@
   ],
   "b74c0ee371d92849b3b6c8d4acacac07d8847018": [
     "articles\\media\\cloud-services-nodejs-chat-app-socketio\\socketio-7.png"
+  ],
+  "82f25de5ab41606ee889406d381526a40c6f61f8": [
+    "articles\\media\\cloud-services-nodejs-develop-deploy-app\\node48.png"
+  ],
+  "6c4b16d1df90565e1cda0861cd9706df22d31c07": [
+    "articles\\media\\cloud-services-nodejs-develop-deploy-app\\node49.png"
+  ],
+  "37149a77f855eec69a2174337c656a5e863b2bec": [
+    "articles\\media\\cloud-services-nodejs-develop-deploy-express-app\\node31.png"
   ],
   "471968d57db6346d9da499159b77881b2fcd6da2": [
     "articles\\media\\cloud-services-nodejs-develop-deploy-express-app\\node32.png"
@@ -3890,6 +3947,12 @@
   "534c38a1659494fbc42f81ea2cfa856cbc526919": [
     "articles\\media\\cloud-services-performance-testing-visual-studio-profiler\\ProfilingLocally10.png"
   ],
+  "4ea78c642a8718210ea6a06428ca4fecb92389b5": [
+    "articles\\media\\cloud-services-role-enable-remote-desktop\\CloudServices_Remote.png"
+  ],
+  "e05ac235594407c9d893a884b67da0db0d87d134": [
+    "articles\\media\\cloud-services-role-enable-remote-desktop\\ServerExplorer_RemoteDesktop.png"
+  ],
   "c1dca6727f250f3d166c4170ed7a0fac8cd9fb64": [
     "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\add_node1.png"
   ],
@@ -3944,8 +4007,29 @@
   "1421ed3c5cfb4ff2f646c84bc1d32587570be3f9": [
     "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\createstorage1.png"
   ],
+  "7ee7e660667a5c3c239491be9c41a74d770e7270": [
+    "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\hybrid_cluster_overview.png"
+  ],
+  "23e0319f35c698afe023f172c3876a25960dd2bf": [
+    "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\install_hpc1.png"
+  ],
   "8e96c875d3057f1d799321579f63d4e6eb1e0e01": [
     "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\install_hpc10.png"
+  ],
+  "c499327ba22be9e0412e683909a1d677ee3201be": [
+    "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\install_hpc2.png"
+  ],
+  "7e3724caa37d796176e7958c69efc26bbb943fdd": [
+    "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\install_hpc3.png"
+  ],
+  "9b465efca95704b433157ecce4245bcfd10953ed": [
+    "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\install_hpc4.png"
+  ],
+  "132241b0ffd62a126fe8e4019cd80475e027c0cd": [
+    "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\install_hpc6.png"
+  ],
+  "e684b07582f481a3e11dc792a644290121945eae": [
+    "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\install_hpc7.png"
   ],
   "f2a0085cbc3ce19ab34d7cab27fb4361ab26cda7": [
     "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\param_sweep1.png"
@@ -3962,6 +4046,9 @@
   "0bc4e075e990b2fe8218b2a2222f8e92f0041c27": [
     "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\test_job1.png"
   ],
+  "c1d34fc738519378d3003b00431fcc507f35a8a5": [
+    "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\upload_cert1.png"
+  ],
   "44d29cab1f73386558cb0afc38c399743f37ac2d": [
     "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\view_instances1.png"
   ],
@@ -3973,6 +4060,12 @@
   ],
   "bf8c1842cac1344a4c7641d96617c53e61b23139": [
     "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\view_job362.png"
+  ],
+  "005f7170654edc1c3e3e33126a15e163341326f8": [
+    "articles\\media\\cloud-services-troubleshoot-roles-that-fail-start\\ic503388.png"
+  ],
+  "ba1e5be3575775dcdbec3acfe2e8783bd67466aa": [
+    "articles\\media\\cloud-services-troubleshoot-roles-that-fail-start\\ic503389.png"
   ],
   "2d763ed160cd0526bfe36a161ae0fe1f77b86ca6": [
     "articles\\media\\cloud-services-troubleshoot-roles-that-fail-start\\ic503390.png"
