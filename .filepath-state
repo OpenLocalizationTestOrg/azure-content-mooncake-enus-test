@@ -2998,6 +2998,9 @@
   "0145d2e633090a5861092afebd8f2be4892db30f": [
     "articles\\media\\backup-azure-manage-vms\\reprotected-status.png"
   ],
+  "6e22ed9dbfd9828fe9bda47864d616c78a8de1d6": [
+    "articles\\media\\backup-azure-manage-vms\\stop-protection.png"
+  ],
   "77eca1929b0432fd2bf85f006de4a64180c9a0c9": [
     "articles\\media\\backup-azure-manage-vms\\stop-protect-success.png"
   ],
