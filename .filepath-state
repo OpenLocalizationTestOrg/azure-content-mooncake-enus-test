@@ -1849,6 +1849,9 @@
   "1bbba27b3931119909ac9e524ad0f5533d7021f8": [
     "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acsConfigAcsNamespace.png"
   ],
+  "b85e519f803fe3a09203a53f629dcf7cf6cfd2a6": [
+    "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acsConfigAcsNamespace2.png"
+  ],
   "d5c6003c4a89a9287adac7d5ae3a2853143e4391": [
     "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acsCreateNamespace.png"
   ],
