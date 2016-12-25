@@ -1548,9 +1548,6 @@
   "e587ae14869bef531da34f961b2e8b77467f433b": [
     "articles\\media\\active-directory-aadconnectsync-best-practices-changing-default-configuration\\badextensionattribute.png"
   ],
-  "f540a19467fd399c025c241db477f88506edeb84": [
-    "articles\\media\\active-directory-aadconnectsync-best-practices-changing-default-configuration\\clonedrule.png"
-  ],
   "bc5f5d7733aeb1a5a244b4e59546e6f0891191ac": [
     "articles\\media\\active-directory-aadconnectsync-best-practices-changing-default-configuration\\deletetobeexported.png"
   ],
@@ -1637,9 +1634,6 @@
   ],
   "63872b4b86abf99d85d94e210ec3d504514b9b7a": [
     "articles\\media\\active-directory-aadconnectsync-technical-concepts\\scenario.png"
-  ],
-  "2609d2c1b757e65cd0e2eba96658a9be2a3ca359": [
-    "articles\\media\\active-directory-aadconnectsync-whatis\\sync01.png"
   ],
   "6f0e7db2bbf01228553259cc31669b6b69b85dab": [
     "articles\\media\\active-directory-aadconnect-topologies\\LegendAAD.png"
@@ -1764,9 +1758,6 @@
   "8b39202f33028a4a1422f297019ace1c5eae8e56": [
     "articles\\media\\active-directory-add-company-branding\\SignInPage_aftercustomization.png"
   ],
-  "e1ac8c749ed4a30fad7daa2e3f17e97c00a27972": [
-    "articles\\media\\active-directory-add-company-branding\\SignInPage_aftercustomization_croppedleft.png"
-  ],
   "9eae359192b6b64fe3bcbd8ea6c1edbce0e7b9a4": [
     "articles\\media\\active-directory-add-company-branding\\SignInPage_aftercustomization_croppedtop.png"
   ],
@@ -1797,38 +1788,17 @@
   "354e1b66b48cda1d5ace3c86f74aceb55feca435": [
     "articles\\media\\active-directory-authentication-scenarios\\basics_of_auth_in_aad.png"
   ],
-  "fe64d1726644c93727a66267751dad768db750de": [
-    "articles\\media\\active-directory-authentication-scenarios\\daemon_server_app_to_web_api.png"
-  ],
   "450c43bc097be665522da66619e7cc859f81bcea": [
     "articles\\media\\active-directory-authentication-scenarios\\native_app_to_web_api.png"
   ],
   "85e4b6fdffd2edf5d5f3dfbcd6b0eaf5268b303a": [
     "articles\\media\\active-directory-authentication-scenarios\\single_page_app.png"
   ],
-  "34a398a05e432b35d88b27c4d4195133d5432555": [
-    "articles\\media\\active-directory-authentication-scenarios\\web_app_to_web_api.png"
-  ],
   "284a04a096cdfaf3fa85a9f3c539545cec760232": [
     "articles\\media\\active-directory-authentication-scenarios\\web_browser_to_web_api.png"
   ],
   "c2f2654539d8ee5502273767d28a96501b1f59cb": [
     "articles\\media\\active-directory-branding-guidelines\\add-to-my-org.png"
-  ],
-  "9f4875b9ed52855ce50b78c4da8f5a42f2d516d2": [
-    "articles\\media\\active-directory-branding-guidelines\\work-account.png"
-  ],
-  "5fb69ba61e31fe62a75e2cbcb26acef6cfd72011": [
-    "articles\\media\\active-directory-branding-guidelines\\work-account-with-explaination.png"
-  ],
-  "669e35071d5fe4d97929bd581c9ddab220e093d8": [
-    "articles\\media\\active-directory-branding-guidelines\\work-or-school-account.png"
-  ],
-  "a5bd4aef71af71b0a5e9e3f6215d0d90c56b8d7a": [
-    "articles\\media\\active-directory-create-users\\RBACDirConfigTab.png"
-  ],
-  "371544a1a2dab800d04cea37a6b6cdac1072cd5a": [
-    "articles\\media\\active-directory-create-users\\RBACGuestAccessControls.png"
   ],
   "075bca7834f9a23d93841924ba43947bab8fcf69": [
     "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acs-01.png",
@@ -1906,9 +1876,6 @@
   "71bf198c9426bfa66bbf298a8247a786dd7f6ed2": [
     "articles\\media\\active-directory-dotnet-how-to-use-access-control\\rzPT.png"
   ],
-  "b2314003996b8b973f7275c55318b668cb364804": [
-    "articles\\media\\active-directory-editions\\ic195031.png"
-  ],
   "b8b609760e9a8bec992d4a8bdfc2fb28ec5d1782": [
     "articles\\media\\active-directory-get-started-premium\\AADEmail.png"
   ],
@@ -1920,9 +1887,6 @@
   ],
   "d0f70b417c19537e4f02ef6847ba7e302e141cef": [
     "articles\\media\\active-directory-get-started-premium\\MOLSAccountProfile.png"
-  ],
-  "feaa683be2bd09b42e61b0e4a76c7b70ba196aa8": [
-    "articles\\media\\active-directory-get-started-premium\\MOLSEmail.png"
   ],
   "b26b2ac5e23d73969627af8d794dacc76375e631": [
     "articles\\media\\active-directory-get-started-premium\\MOLSThankYou.png"
@@ -1992,9 +1956,6 @@
   ],
   "86a98a58a5c3691408aca4a608e44267ba865bd7": [
     "articles\\media\\active-directory-java-authenticate-users-access-control-eclipse\\RelyingPartyReturnURLProduction.png"
-  ],
-  "b75cf832d905a3590ad0020c60b2e4ac61303900": [
-    "articles\\media\\active-directory-java-view-saml-returned-by-access-control\\SAML_Output.png"
   ],
   "910d117029e02adaa4b99ab50c2792294db456aa": [
     "articles\\media\\active-directory-new-forest-virtual-machine\\AD_Forest.png"
@@ -17819,17 +17780,11 @@
   "bf52a36762f0016522196f240c9df4d619000461": [
     "includes\\media\\application-model\\application-model-8.jpg"
   ],
-  "61683a12d2404b627c43977748259974dfd035db": [
-    "articles\\media\\active-directory-developers-guide\\android.png"
-  ],
   "11bbf88689d9c44bdb11b6607c1d7f4a11924c62": [
     "articles\\media\\active-directory-developers-guide\\cordova.png"
   ],
   "c3c85017ea97093b0bc0eeadf867f2c1a4270945": [
     "articles\\media\\active-directory-developers-guide\\graph.png"
-  ],
-  "7705f5d2b97bae30ced61eacf8df70b5f611f21e": [
-    "articles\\media\\active-directory-developers-guide\\ios.png"
   ],
   "0e6fbc322f6f30c2666d3a627663d81dfc6dc4eb": [
     "articles\\media\\active-directory-developers-guide\\javascript.png"
