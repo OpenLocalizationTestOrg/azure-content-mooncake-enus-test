@@ -2777,9 +2777,6 @@
   "3c0251b261186c9b097a9e78903314c2eb8333bf": [
     "articles\\media\\backup-azure-backup-sharepoint\\dpm-sharepoint-protection13.png"
   ],
-  "d70f8b80280065613053ec3469050efe71c7c791": [
-    "articles\\media\\backup-azure-backup-sharepoint\\dpm-sharepoint-protection14.png"
-  ],
   "b0708af7858e7dff8ecd2a83dcde1a4214b61d05": [
     "articles\\media\\backup-azure-backup-sharepoint\\dpm-sharepoint-protection15.png"
   ],
@@ -3226,24 +3223,6 @@
   "f67f73f0c0735268e5a3811201eea9dd661fa933": [
     "articles\\media\\best-practices-caching\\Figure2.png"
   ],
-  "43199a7168f7211815102d2bf5671e3913b6b78c": [
-    "articles\\media\\best-practices-data-partitioning\\DataPartitioning01.png"
-  ],
-  "d282a601809175972b3136f7fd5b44590b1ad7f5": [
-    "articles\\media\\best-practices-data-partitioning\\DataPartitioning02.png"
-  ],
-  "8cab9b450c30797dec76936acbbf1158edd0be10": [
-    "articles\\media\\best-practices-data-partitioning\\DataPartitioning03.png"
-  ],
-  "7e0cd748619ef98fa8e76ce2517edbfa0163c5c0": [
-    "articles\\media\\best-practices-data-partitioning\\MultipleShardMaps.png"
-  ],
-  "92c09474a58a7a19bdac801cb1484503a319d1c9": [
-    "articles\\media\\best-practices-data-partitioning\\PointShardlet.png"
-  ],
-  "578965e32ac313f6eb8dfbf4350800904754458c": [
-    "articles\\media\\best-practices-data-partitioning\\RangeShardlet.png"
-  ],
   "7231dbba7b669cce4862e9fd5bcbb33372bd623e": [
     "articles\\media\\best-practices-data-partitioning\\RedisCustomersandOrders.png"
   ],
@@ -3384,15 +3363,6 @@
   "ada91f0bf88ef6c421f5abd24d7c591be4eea3dc": [
     "articles\\media\\cdn-doc\\download-en-002.png"
   ],
-  "5a18bf6007edd5178deae22b2c151213e34b55f9": [
-    "articles\\media\\cdn-doc\\download-en-003.png"
-  ],
-  "8ad55c21771c5674667e1fa0bfcd8d41d94021fd": [
-    "articles\\media\\cdn-doc\\download-en-004.png"
-  ],
-  "9d6a34ff0dd193c0296b6dd2a4fd5da6b7ec0b32": [
-    "articles\\media\\cdn-doc\\download-en-005.png"
-  ],
   "72ea171de61859ae50107c6970241700c93804b3": [
     "articles\\media\\cdn-doc\\FAQ.png"
   ],
@@ -3407,9 +3377,6 @@
   ],
   "fe9ad91afc8a23c1be6f4bc4d9f996087b1e817c": [
     "articles\\media\\cdn-doc\\ls-en-003.png"
-  ],
-  "d95794c25373ff657d78bf3d6021e974e206a896": [
-    "articles\\media\\cdn-doc\\ls-en-004.png"
   ],
   "87cc6f7bfba704bd2008c006b570cbb964cd953b": [
     "articles\\media\\cdn-doc\\ls-en-005.png"
