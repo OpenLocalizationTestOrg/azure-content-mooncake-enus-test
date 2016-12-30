@@ -3136,9 +3136,6 @@
   "d21ccb3c4e310c256552a07c134dd4e2a069e1b8": [
     "articles\\media\\backup-azure-vms\\register-status02.png"
   ],
-  "22eaabf05811d4b7f0fd446304d0747df6600f81": [
-    "articles\\media\\backup-azure-vms\\select-workload.png"
-  ],
   "3d1dde05a3cfecb1725c02f3d9c8206be69701e4": [
     "articles\\media\\backup-azure-vms-encryption\\how-it-works.png"
   ],
@@ -3278,9 +3275,6 @@
   ],
   "b4a0a9c8cd71f217b896b3ec85391e967cb923e0": [
     "articles\\media\\cache-asp.net-session-state-provider\\IC751730.png"
-  ],
-  "cc9badc06874e51dd278bf266b6c9e6b368e99c9": [
-    "articles\\media\\cache-dotnet-how-to-use-azure-redis-cache\\redis-cache-stackexchange-redis.png"
   ],
   "19de46a4b9b394dfa540268ebb26ed4b0ea6c59d": [
     "articles\\media\\cdn-doc\\001.png"
