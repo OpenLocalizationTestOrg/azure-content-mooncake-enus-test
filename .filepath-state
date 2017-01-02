@@ -16372,6 +16372,9 @@
   "29299e172d1f8678dcc563ccb9d38e580bbfe3a1": [
     "includes\\media\\sql-database-service-tiers-table\\sql-database-service-tiers-table.png"
   ],
+  "33dc7c8017660f5866616f3f5405d8c32d58f9bd": [
+    "includes\\media\\sql-database-service-tiers-table-elastic-db-pools\\sql-database-service-tiers-table-elastic-db-pools.png"
+  ],
   "5cd526ddd40727ed87e11df6fedf6319e9317dcf": [
     "includes\\media\\sql-database-understanding-dtus\\single_db_dtus.png"
   ],
@@ -16400,7 +16403,8 @@
     "includes\\media\\storage-file-concepts-include\\files-concepts.png"
   ],
   "6954ce79e908714b50c8b031c36e8a56071e04e8": [
-    "includes\\media\\storage-java-how-to-use-table-storage\\table1.png"
+    "includes\\media\\storage-java-how-to-use-table-storage\\table1.png",
+    "includes\\media\\storage-table-concepts-include\\table1.png"
   ],
   "16c15a3fcdca4caea0f7b8ce5532dbb0c0a86db2": [
     "includes\\media\\virtual-machines-choose-me-content\\diagram.png"
@@ -16480,8 +16484,17 @@
   "825fd4ac993329b43c1ec8cb4ac788ddd680bbf1": [
     "includes\\media\\virtual-machines-sql-server-connection-steps\\25sysadmin.png"
   ],
+  "c633182503589b472d789489358f1ef9cd648d38": [
+    "includes\\media\\virtual-machines-sql-server-connection-steps\\33Connect-SSMS.png"
+  ],
   "03b90f0bb06de2a37b0ec895d9339b0196273787": [
     "includes\\media\\virtual-machines-sql-server-connection-steps\\9Click-SSCM.png"
+  ],
+  "c79c44cd23661a8514b98e579553df0f9ec0599d": [
+    "includes\\media\\virtual-machines-sql-server-connection-steps\\sql-vm-dns-name.png"
+  ],
+  "e4c11a3e1bba4b60de7345da19fd8210e1dd0c8c": [
+    "includes\\media\\virtual-machines-sql-server-connection-steps\\sql-vm-port-number.png"
   ],
   "45c0a25f70caea914ba25f2ffa8488a3881978e0": [
     "includes\\media\\virtual-network-create-udr-scenario-include\\figure1.png"
