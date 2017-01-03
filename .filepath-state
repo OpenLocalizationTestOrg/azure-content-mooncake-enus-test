@@ -2819,9 +2819,6 @@
   "fa24557df17f5bb0e2df81fa722db295bcdce210": [
     "articles\\media\\backup-azure-backup-sharepoint\\review-recovery-selection.png"
   ],
-  "584e05f792c4a85696f5ea1bd89192d2f3482f0f": [
-    "articles\\media\\backup-azure-backup-sharepoint\\select-data-protection-method1.png"
-  ],
   "303d3a64596e7b3efffea8e97075deea8c82fcdc": [
     "articles\\media\\backup-azure-backup-sharepoint\\select-group-members2.png"
   ],
@@ -2926,9 +2923,6 @@
   ],
   "a068cccbcb4856c2a88243ac324d7877ab46fbc6": [
     "articles\\media\\backup-azure-backup-windows-server\\result.png"
-  ],
-  "2bc7c3abe7cd2c1237d6e5a8597d692122656cb1": [
-    "articles\\media\\backup-azure-backup-windows-server\\schedulebackup.png"
   ],
   "f07292b4e0edacf0c97289a8b6c4a4e2d53cbb5f": [
     "articles\\media\\backup-azure-manage-vms\\alert-body.png"
