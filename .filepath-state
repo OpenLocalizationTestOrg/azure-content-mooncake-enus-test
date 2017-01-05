@@ -2867,11 +2867,17 @@
   "54908936450e397ba88fcb607fad06b00cb02b90": [
     "articles\\media\\backup-azure-backup-sql\\pg-retentionschedule.png"
   ],
+  "7234b968aa33e92c1862eedae9736ba437b6eb13": [
+    "articles\\media\\backup-azure-backup-sql\\pg-schedule.png"
+  ],
   "e17a6848de1e8731b0af601c6e215982868b94e9": [
     "articles\\media\\backup-azure-backup-sql\\pg-servers.png"
   ],
   "ea5f748fa323e6f78f0225ed6592dab9a383ab52": [
     "articles\\media\\backup-azure-backup-sql\\pg-shortterm.png"
+  ],
+  "578d2cb1169fd4a7e17dce935f2b38db3efa7722": [
+    "articles\\media\\backup-azure-backup-sql\\pg-sqldatabases.png"
   ],
   "af89341b9ae4a4bed0b157dc97bbc58863bfb9e2": [
     "articles\\media\\backup-azure-backup-sql\\pg-storage.png"
