@@ -2059,6 +2059,9 @@
   "0b9056315e47aa06e31f047dd972817debaa9666": [
     "articles\\media\\active-directory-passwords-getting-started\\009.jpg"
   ],
+  "d6fa71c302d35f5b1e078e3e6ef1fccb8bf25260": [
+    "articles\\media\\active-directory-passwords-getting-started\\010.jpg"
+  ],
   "4b034e17f87b8657bc57edd11d22fdb61a884750": [
     "articles\\media\\active-directory-passwords-getting-started\\011.jpg"
   ],
@@ -2327,13 +2330,17 @@
     "articles\\media\\aog-virtual-machine-add-vm-to-availability-group\\add-to-aviliablily.png"
   ],
   "58fc5ae37b7acbb469045f93b79ba445db40a857": [
-    "articles\\media\\aog-virtual-machine-add-vm-to-availability-group\\choose-vm.png"
+    "articles\\media\\aog-virtual-machine-add-vm-to-availability-group\\choose-vm.png",
+    "articles\\media\\aog-virtual-machine-how-to-reset-vm-size\\choose-vm.png"
   ],
   "71c2ef916f8f6e0fcf75ac4f59c108ab560470f6": [
     "articles\\media\\aog-virtual-machine-add-vm-to-availability-group\\open-vm-config.png"
   ],
   "0637236372628c16c553ee82baaf88991b27634e": [
     "articles\\media\\aog-virtual-machine-add-vm-to-availability-group\\show-result.jpg"
+  ],
+  "6d122e259365617540f8e229e5658978643ef206": [
+    "articles\\media\\aog-virtual-machine-how-to-reset-vm-size\\reset-vm-size.png"
   ],
   "82628a6bdb3e019333a30374bd89bf3f52eb4a3c": [
     "articles\\media\\aog-virtual-machine-how-to-turn-off-vm-automatically\\powershell-add-parameter.png"
@@ -2371,6 +2378,9 @@
   "d6ef153e9f3b00fb82796811f4b4866486916b02": [
     "articles\\media\\aog-virtual-network-add-endpoint-and-acl\\endpoint-detail.jpg"
   ],
+  "cf73b12d9c44a259b3e7e158836d058bee269efe": [
+    "articles\\media\\aog-virtual-network-add-endpoint-and-acl\\endpoint-list.jpg"
+  ],
   "ea4a4c7a5af361ad871b81387dd6c1ae5b3f5bff": [
     "articles\\media\\aog-virtual-network-add-endpoint-and-acl\\endpoint-result-list.jpg"
   ],
@@ -2380,8 +2390,14 @@
   "0d3d4fc8e106fcf9c008f820e95d62156f9d47d2": [
     "articles\\media\\aog-virtual-network-how-to-use-internal-ip\\stop-vm-shut-status.jpg"
   ],
+  "47eb529c587a234af3a1632464ec74b9735792f7": [
+    "articles\\media\\aog-virtual-network-how-to-use-internal-ip\\stop-vm-stay.jpg"
+  ],
   "e146c4dff315a5b8c5cfa3ad80ba75ad61159ef3": [
     "articles\\media\\aog-virtual-network-how-to-use-internal-ip\\stop-vm-stay-status.gif"
+  ],
+  "7d9f3f11fb8f3d1cc256e31c6544f35623d122d1": [
+    "articles\\media\\aog-virtual-network-how-to-use-reserved-ip\\check-reserved-ip.jpg"
   ],
   "6f5ee1f50e3f585a30b8e1904c47308383a81523": [
     "articles\\media\\aog-virtual-network-how-to-use-reserved-ip\\double-check-reserved-ip.png"
@@ -2436,6 +2452,9 @@
   ],
   "e0113955a9bab822cfc4c0bedfadafcc3a432608": [
     "articles\\media\\app-service-agile-software-development\\what-2-branches.png"
+  ],
+  "f847b2569835ac82a249601c4acf9e33f54d5313": [
+    "articles\\media\\app-service-web-staged-publishing-realworld-scenarios\\4wmpublish.png"
   ],
   "f8a90fbec0716da2e6375e3695156dffdaf72f43": [
     "articles\\media\\app-service-web-staged-publishing-realworld-scenarios\\5wpstage.png"
@@ -3165,10 +3184,26 @@
     "articles\\media\\backup-azure-vms-prepare\\vmbackup-instructions.png"
   ],
   "e63195d0b5f02b1e973a7e8e2dd393c0dac6131e": [
+    "articles\\media\\backup-client-automation\\installed-agent-listing.png",
     "articles\\media\\backup-dpm-automation\\installed-agent-listing.png"
   ],
   "425663d656b4e042e3094bab87380e64f8f2a1e9": [
     "articles\\media\\batch-api-basics\\node-folder-structure.png"
+  ],
+  "8babfdb7e4a22fab677f60cf14508bdca2dfcfb4": [
+    "articles\\media\\batch-hpc-solutions\\batch_proc.png"
+  ],
+  "975cc34a2348668793c6215523831ecd4127930f": [
+    "articles\\media\\batch-hpc-solutions\\burst_cluster.png"
+  ],
+  "2e4d7950cf6220b867e879e51ae26ed26cf65524": [
+    "articles\\media\\batch-hpc-solutions\\coupled.png"
+  ],
+  "0d89f0580408317c8103a6124d4ad1b8441b4206": [
+    "articles\\media\\batch-hpc-solutions\\iaas_cluster.png"
+  ],
+  "0f1b90e6d755ea12470bf7aff901c54390cfbf83": [
+    "articles\\media\\batch-hpc-solutions\\parallel.png"
   ],
   "362b09667149f450fe17f641217a49167fa3344e": [
     "articles\\media\\batch-job-prep-release\\batchexplorer-01.png"
@@ -3331,11 +3366,29 @@
   "9512c818fce5977f182b7ce964dc461ed47de9b7": [
     "articles\\media\\cdn-doc\\031.png"
   ],
+  "dad141e2453209ac66c4a90e070225a1c31061f4": [
+    "articles\\media\\cdn-doc\\032.png"
+  ],
+  "b890b5151ad4c30538b981d15f8c8a08973124fb": [
+    "articles\\media\\cdn-doc\\033.png"
+  ],
   "da2c0f587160d4b7093c6385dd682f786d3a9bad": [
     "articles\\media\\cdn-doc\\cdn_pops.png"
   ],
   "c92754dbe8c361d8b0235750ce78ec0b7dc6d5d7": [
     "articles\\media\\cdn-doc\\cdn-en-pops.png"
+  ],
+  "354f0ef4cd08702e5831983ec1fadd1c8bc6ca45": [
+    "articles\\media\\cdn-doc\\download-en-001.png"
+  ],
+  "ada91f0bf88ef6c421f5abd24d7c591be4eea3dc": [
+    "articles\\media\\cdn-doc\\download-en-002.png"
+  ],
+  "5a18bf6007edd5178deae22b2c151213e34b55f9": [
+    "articles\\media\\cdn-doc\\download-en-003.png"
+  ],
+  "8ad55c21771c5674667e1fa0bfcd8d41d94021fd": [
+    "articles\\media\\cdn-doc\\download-en-004.png"
   ],
   "9d6a34ff0dd193c0296b6dd2a4fd5da6b7ec0b32": [
     "articles\\media\\cdn-doc\\download-en-005.png"
