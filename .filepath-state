@@ -1331,6 +1331,9 @@
   "d12163fc2003f582926b4d26d701399cadbbcd5b": [
     "articles\\meda-services-managing-multiple-storage-accounts.md"
   ],
+  "c0218d84d5f0e3b6f600ff62c362d7269987bbfe": [
+    "articles\\media\\active-directory-aadconnect\\arch.png"
+  ],
   "26007ad7d5fa1b202567a13a272df834d033d21e": [
     "articles\\media\\active-directory-aadconnect-accounts-permissions\\aadsyncserviceaccount.png"
   ],
@@ -1379,11 +1382,20 @@
   "f7309715cf101f45283459a5a38dbf3374ac3fef": [
     "articles\\media\\active-directory-aadconnect-dirsync-upgrade-get-started\\Welcome.png"
   ],
+  "ff6e91af7c934935fd348864bf73fdf753712225": [
+    "articles\\media\\active-directory-aadconnect-feature-preview\\extension3.png"
+  ],
   "20b4942f86c8628c5eb25f4cc1a2a54171ac6659": [
     "articles\\media\\active-directory-aadconnect-feature-preview\\extension4.png"
   ],
   "7ac845fe597ede847c748b53731f10ea68123301": [
     "articles\\media\\active-directory-aadconnect-get-started\\express.png"
+  ],
+  "254496e7e7595fc98ee5ccbe4ba6f03fbc227ede": [
+    "articles\\media\\active-directory-aadconnect-get-started\\install4.png"
+  ],
+  "5c5b21ca4c865ad6a248326f4883fd490cfb3897": [
+    "articles\\media\\active-directory-aadconnect-get-started\\readyinstall.png"
   ],
   "d9fe3f484ca9c6477327c83c74beb305e6ca7ad8": [
     "articles\\media\\active-directory-aadconnect-get-started\\welcome.png"
@@ -1454,6 +1466,9 @@
   "95e3ef940d13028f0dfbe32321c5eee98075dd6e": [
     "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\devicewriteback4.png"
   ],
+  "8ba2c5979ae979235c6352d20899d0c2d651513c": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\devicewriteback5.png"
+  ],
   "fd65f28a12254ec901ae05199b7aa11060e79256": [
     "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\devicewriteback6.png"
   ],
@@ -1484,8 +1499,14 @@
   "0e869403eed45b4a3d3bbc17d8f5cf19385aebbe": [
     "articles\\media\\active-directory-aadconnect-health\\alert2.png"
   ],
+  "ba8ae9de4477f33bf2466e3be8d6bc7ff157986c": [
+    "articles\\media\\active-directory-aadconnect-health\\logo1.png"
+  ],
   "95e7b245c82cc51cb4c9b2c6e8bc8406d180bb81": [
     "articles\\media\\active-directory-aadconnect-health\\perf1.png"
+  ],
+  "bb6e54bbb743f4bdcc342210f9ac66a9547c0377": [
+    "articles\\media\\active-directory-aadconnect-health\\portal2.png"
   ],
   "8d5b3241fd02dbf352862bd21bbb0ff4c108ec12": [
     "articles\\media\\active-directory-aadconnect-health\\RBAC_add.png"
@@ -1604,6 +1625,9 @@
   ],
   "4a9ca8b77c17f9682769086c7f2a3a5589067998": [
     "articles\\media\\active-directory-aadconnectsync-feature-prevent-accidental-deletes\\email.png"
+  ],
+  "4d8117771120dc6cba4169db8134a6c13e296e30": [
+    "articles\\media\\active-directory-aadconnectsync-feature-prevent-accidental-deletes\\searchcs.png"
   ],
   "62369ae8192209c49d22c0a7e467ebae3f5c2668": [
     "articles\\media\\active-directory-aadconnectsync-operations\\additionaltasks.png"
