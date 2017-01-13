@@ -1454,14 +1454,41 @@
   "b9c9ad07d449a8be826d786a5cdb16d2a924f543": [
     "articles\\media\\active-directory-aadconnect-get-started-custom\\usersignin.png"
   ],
+  "3b825b10d6691338b2ebef322d0408856f0b16ef": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\connectoraccount.png"
+  ],
   "1e5f9edd85aa8da8a82b1163f541592fa07080ee": [
     "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\devicewriteback2.png"
   ],
   "1e3f155b929361ffa91517cb6b4c8a795440db0a": [
     "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\devicewriteback3.png"
   ],
+  "95e3ef940d13028f0dfbe32321c5eee98075dd6e": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\devicewriteback4.png"
+  ],
+  "8ba2c5979ae979235c6352d20899d0c2d651513c": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\devicewriteback5.png"
+  ],
+  "fd65f28a12254ec901ae05199b7aa11060e79256": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\devicewriteback6.png"
+  ],
   "c387bf5dbcb141277a81c4345754963bdb0c540c": [
     "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\powershell.png"
+  ],
+  "dbe6f7eaac3a918ea2782da2e399dc65ff8ca6d7": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\troubleshoot1.png"
+  ],
+  "d5b1cf5b44dee89a595fc71049bb41d76faf5e0b": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\troubleshoot2.png"
+  ],
+  "f2ebc88685b6bc52f02b803d6df10e80cef7e08a": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\troubleshoot3.png"
+  ],
+  "86051a8c59c9b2199c7c5c8edb3b0d38993d6af8": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\troubleshoot4.png"
+  ],
+  "7297ff61059ccc88ddd6bc8a0aeec925bb6bea51": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\troubleshoot5.png"
   ],
   "a5cf9afee0bae1022650230dfe78eac43660f22d": [
     "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\troubleshoot6.png"
@@ -1472,8 +1499,14 @@
   "0e869403eed45b4a3d3bbc17d8f5cf19385aebbe": [
     "articles\\media\\active-directory-aadconnect-health\\alert2.png"
   ],
+  "ba8ae9de4477f33bf2466e3be8d6bc7ff157986c": [
+    "articles\\media\\active-directory-aadconnect-health\\logo1.png"
+  ],
   "95e7b245c82cc51cb4c9b2c6e8bc8406d180bb81": [
     "articles\\media\\active-directory-aadconnect-health\\perf1.png"
+  ],
+  "bb6e54bbb743f4bdcc342210f9ac66a9547c0377": [
+    "articles\\media\\active-directory-aadconnect-health\\portal2.png"
   ],
   "8d5b3241fd02dbf352862bd21bbb0ff4c108ec12": [
     "articles\\media\\active-directory-aadconnect-health\\RBAC_add.png"
@@ -1494,7 +1527,8 @@
     "articles\\media\\active-directory-aadconnect-health\\RBAC_user_list.png"
   ],
   "7e54703b3c116bde8cea2fb835336a9e4492483a": [
-    "articles\\media\\active-directory-aadconnect-health\\report1.png"
+    "articles\\media\\active-directory-aadconnect-health\\report1.png",
+    "articles\\media\\active-directory-aadconnect-health\\usage.png"
   ],
   "7057e08954e6238225e7f7c88d46084ac391db82": [
     "articles\\media\\active-directory-aadconnect-how-it-works\\AADConnectStack2.png"
@@ -1504,6 +1538,9 @@
   ],
   "6699144d9eceb159f9f595a76abe1a93f53a6359": [
     "articles\\media\\active-directory-aadconnectsync-best-practices-changing-default-configuration\\attributeflowjp2.png"
+  ],
+  "2bf8e5c4a4d1d5cad15f88222d76fc900ec97e20": [
+    "articles\\media\\active-directory-aadconnectsync-best-practices-changing-default-configuration\\attributeflowjp3.png"
   ],
   "979c349ea70853aed7f628520f9ab744ff9d4021": [
     "articles\\media\\active-directory-aadconnectsync-best-practices-changing-default-configuration\\attributeflowjp4.png"
@@ -1601,6 +1638,9 @@
   "63872b4b86abf99d85d94e210ec3d504514b9b7a": [
     "articles\\media\\active-directory-aadconnectsync-technical-concepts\\scenario.png"
   ],
+  "2609d2c1b757e65cd0e2eba96658a9be2a3ca359": [
+    "articles\\media\\active-directory-aadconnectsync-whatis\\sync01.png"
+  ],
   "6f0e7db2bbf01228553259cc31669b6b69b85dab": [
     "articles\\media\\active-directory-aadconnect-topologies\\LegendAAD.png"
   ],
@@ -1697,6 +1737,9 @@
   "47ca90b001b1c782fd904b2496454ed976eb428d": [
     "articles\\media\\active-directory-aadsync-implement-password-synchronization\\csobjectlog.png"
   ],
+  "8f5b4cc5875bb13f7311831955e67c12bb88ca70": [
+    "articles\\media\\active-directory-aadsync-implement-password-synchronization\\cspasswordsync.png"
+  ],
   "303c4c1fd0523b2c8c39c1cef6cb25ce5ada0ff0": [
     "articles\\media\\active-directory-aadsync-implement-password-synchronization\\usersignin.png"
   ],
@@ -1741,6 +1784,9 @@
   ],
   "8351506521b2c0c73f59d44ee7b16a0ff89c0479": [
     "articles\\media\\active-directory-administer\\aad_portals.png"
+  ],
+  "ff32ad3d4388f7228d1cc0b0c998792a0469cf2e": [
+    "articles\\media\\active-directory-administer\\azure_tenants.png"
   ],
   "591dc73f79e89a72e45311d9beceed654be40fc8": [
     "articles\\media\\active-directory-application-objects\\application-objects-relationship.png"
@@ -1860,6 +1906,9 @@
   "71bf198c9426bfa66bbf298a8247a786dd7f6ed2": [
     "articles\\media\\active-directory-dotnet-how-to-use-access-control\\rzPT.png"
   ],
+  "b2314003996b8b973f7275c55318b668cb364804": [
+    "articles\\media\\active-directory-editions\\ic195031.png"
+  ],
   "b8b609760e9a8bec992d4a8bdfc2fb28ec5d1782": [
     "articles\\media\\active-directory-get-started-premium\\AADEmail.png"
   ],
@@ -1895,6 +1944,9 @@
   ],
   "6b74053cb86d4c5609954e8ebc94ab9183b879cd": [
     "articles\\media\\active-directory-get-started-premium\\Usagelocation.png"
+  ],
+  "1c73c35b80fda41ff8285e71e3b23b89b011add4": [
+    "articles\\media\\active-directory-how-applications-are-added\\HowAppsAreAddedToAAD.jpg"
   ],
   "55c08590a4d517e696921ea282b01e8a096fa7d8": [
     "articles\\media\\active-directory-how-applications-are-added\\IntegratedAppSettings.jpg"
@@ -1941,6 +1993,9 @@
   "86a98a58a5c3691408aca4a608e44267ba865bd7": [
     "articles\\media\\active-directory-java-authenticate-users-access-control-eclipse\\RelyingPartyReturnURLProduction.png"
   ],
+  "b75cf832d905a3590ad0020c60b2e4ac61303900": [
+    "articles\\media\\active-directory-java-view-saml-returned-by-access-control\\SAML_Output.png"
+  ],
   "910d117029e02adaa4b99ab50c2792294db456aa": [
     "articles\\media\\active-directory-new-forest-virtual-machine\\AD_Forest.png"
   ],
@@ -1964,6 +2019,9 @@
   ],
   "f6d50a41abb6c7c06f405a3c26f880b3bf27c017": [
     "articles\\media\\active-directory-passwords-best-practices\\007.jpg"
+  ],
+  "35c4f33d5a581034c03490f733cc5f7fd1f6913c": [
+    "articles\\media\\active-directory-passwords-faq\\001.jpg"
   ],
   "b5df5af76bbc7fb4f832280c69ac10c14740b232": [
     "articles\\media\\active-directory-passwords-get-insights\\001.jpg"
