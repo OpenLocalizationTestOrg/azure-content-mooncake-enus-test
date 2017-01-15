@@ -2825,17 +2825,11 @@
   "303d3a64596e7b3efffea8e97075deea8c82fcdc": [
     "articles\\media\\backup-azure-backup-sharepoint\\select-group-members2.png"
   ],
-  "531f274ed033df611ff54906da469b11b33b5d4c": [
-    "articles\\media\\backup-azure-backup-sharepoint\\select-online-protection1.png"
-  ],
   "46750da2be6f587881fa5aedc0b3366737f13494": [
     "articles\\media\\backup-azure-backup-sharepoint\\select-protection-group-type.png"
   ],
   "da68ec3f94e48f477f9602e5398bde8d12890527": [
     "articles\\media\\backup-azure-backup-sharepoint\\select-recovery-type.png"
-  ],
-  "3aef75346865f06c1fe9e1ae4c787ee0f8529b04": [
-    "articles\\media\\backup-azure-backup-sharepoint\\specify-online-backup-schedule.png"
   ],
   "b1a7b6a893bd0675d136d2841d30fa3c61557aaa": [
     "articles\\media\\backup-azure-backup-sharepoint\\specify-online-retention.png"
@@ -4324,7 +4318,6 @@
     "articles\\media\\hdinsight-extend-hadoop-virtual-network\\site-to-site.png"
   ],
   "09f51b9389aae2bc359aa5a852e3daf003d9f200": [
-    "articles\\media\\hdinsight-hadoop-develop-deploy-streaming-jobs\\HDI.WordCountDiagram.gif",
     "articles\\media\\hdinsight-use-mapreduce\\HDI.WordCountDiagram.gif"
   ],
   "ace9657e0f7235169eae5621751a48938948858f": [
