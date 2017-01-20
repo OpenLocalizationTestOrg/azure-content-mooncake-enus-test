@@ -15590,6 +15590,9 @@
     "includes\\media\\howto-custom-create-vm\\VMSuccessWindows.png",
     "includes\\media\\howto-quick-create-vm\\vmsuccesswindows.png"
   ],
+  "b8921f6bf3ae3cfad38a7baac7510ceca87e9f0a": [
+    "includes\\media\\howto-detach-disk-windows-linux\\DetachDiskDetails.png"
+  ],
   "bdca8ad6fe34715df742257b672c98e77062c844": [
     "includes\\media\\howto-detach-disk-windows-linux\\FindDataDisks.png"
   ],
