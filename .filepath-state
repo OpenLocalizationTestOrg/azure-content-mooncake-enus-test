@@ -1864,6 +1864,9 @@
   "e1a376f62e8de2e52058e5af57eb6d48244a216b": [
     "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acsIdAndA-after.png"
   ],
+  "ffb460a76c071990a1e0838530be1e433aea861c": [
+    "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acsIdAndAccess1.png"
+  ],
   "5677ef619ff95a7c51e2bf6592e8a0d96a7bb71c": [
     "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acsManagementService.png"
   ],
