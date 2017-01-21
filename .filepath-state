@@ -5378,11 +5378,25 @@
     "articles\\media\\mobile-services-windows-store-dotnet-adal-sso-authentication\\mobile-services-aad-applications-tab.png",
     "includes\\media\\mobile-services-dotnet-adal-register-client\\mobile-services-aad-applications-tab.png"
   ],
+  "9274ed13faa9ef3d241baacbfa5f3913ffb4b4d6": [
+    "articles\\media\\mobile-services-windows-store-dotnet-adal-sso-authentication\\mobile-services-app-run.png"
+  ],
+  "b2a0c48fee3ff55fc6c10db0834a10028cef5a7c": [
+    "articles\\media\\mobile-services-windows-store-dotnet-adal-sso-authentication\\mobile-services-native-add-permissions.png"
+  ],
   "9d4fbabc939639a275f218d4f008246ce30bce0e": [
+    "articles\\media\\mobile-services-windows-store-dotnet-adal-sso-authentication\\mobile-services-native-client-id.png",
     "includes\\media\\mobile-services-dotnet-adal-register-client\\mobile-services-native-client-id.png"
   ],
   "f35b639ba54aa854122cff459129538cf1729e4c": [
+    "articles\\media\\mobile-services-windows-store-dotnet-adal-sso-authentication\\mobile-services-native-selection.png",
     "includes\\media\\mobile-services-dotnet-adal-register-client\\mobile-services-native-selection.png"
+  ],
+  "7ad1c3cbe443531c77963a7cbf704ef3204ba9eb": [
+    "articles\\media\\mobile-services-windows-store-dotnet-adal-sso-authentication\\mobile-services-native-sid-redirect-uri.png"
+  ],
+  "953539e26125da6242a3c231b6be5e1500f35666": [
+    "articles\\media\\mobile-services-windows-store-dotnet-adal-sso-authentication\\mobile-services-package-appxmanifest.png"
   ],
   "ff21b8a9c79066bbbebedd9f6ef272b50800cf57": [
     "articles\\media\\mobile-services-windows-store-dotnet-adal-sso-authentication\\mobile-services-select-aad.png",
@@ -5424,6 +5438,9 @@
   "d4148f4101688dd15f5bdf67a33890e332d15b3e": [
     "articles\\media\\mobile-services-windows-store-dotnet-get-started-offline-data\\mobile-services-sqlitestore-nuget.png"
   ],
+  "60228c3492b9d6dabdff944d70016882c7f5c41f": [
+    "articles\\media\\mobile-services-windows-store-dotnet-handle-database-conflicts\\mobile-manage-nuget-packages-dialog.png"
+  ],
   "3d29b43da98bb7b0bff535d3f5c5afba40275c73": [
     "articles\\media\\mobile-services-windows-store-dotnet-handle-database-conflicts\\mobile-manage-nuget-packages-VS.png"
   ],
@@ -5456,6 +5473,9 @@
   ],
   "2fbd3c7267ce1f059cf7e6efcfdf7dab339b9537": [
     "articles\\media\\mobile-services-windows-store-dotnet-handle-database-conflicts\\Mobile-oc-store-checkbox.png"
+  ],
+  "35cc92201e177923f7363eea73fc2a262929f97a": [
+    "articles\\media\\mobile-services-windows-store-dotnet-handle-database-conflicts\\Mobile-oc-store-create-app-package1.png"
   ],
   "44a7609e29625b6d91ed85ce903fededda7e8ee5": [
     "articles\\media\\mobile-services-windows-store-dotnet-handle-database-conflicts\\Mobile-oc-store-create-app-package2.png"
@@ -5504,8 +5524,20 @@
   "86ddf7283d2317e4478dbf33d704b3a0a6d4b7b0": [
     "articles\\media\\mobile-services-windows-store-dotnet-handling-conflicts-offline-data\\wp81-view.png"
   ],
+  "8fe2bc8973ab6594819167f82488397ebe51a2ce": [
+    "articles\\media\\multi-factor-authentication\\cert.png"
+  ],
+  "caf435fad5023fdaf513ecf0e251ba331d4c8a1a": [
+    "articles\\media\\multi-factor-authentication\\hware.png"
+  ],
+  "18a8216bfbc2185c31123ed7ebb69bbeb5fbfb7d": [
+    "articles\\media\\multi-factor-authentication\\phone.png"
+  ],
   "1cc4606624b1aedba743a05ea28616f6c004ca73": [
     "articles\\media\\multi-factor-authentication\\protected.png"
+  ],
+  "bbedf8f696a52eb806facd02cf25ccb5282acb8d": [
+    "articles\\media\\multi-factor-authentication\\pword.png"
   ],
   "156065f7c2f18127c84d6202280717dfacd62a67": [
     "articles\\media\\multi-factor-authentication\\reliable.png"
@@ -5515,6 +5547,12 @@
   ],
   "d9f678582a398dee399af42e09323c87aca780da": [
     "articles\\media\\multi-factor-authentication\\simple.png"
+  ],
+  "a4e0eccb60d0146aad69273dda3bfee562cc3e07": [
+    "articles\\media\\multi-factor-authentication\\smart.png"
+  ],
+  "bbab9bc707fb7e3980cd47d321214dd17c218a74": [
+    "articles\\media\\multi-factor-authentication\\vsmart.png"
   ],
   "6aedc65bdf64bf75d69c348d7c19c1c72eacb9f6": [
     "articles\\media\\multi-factor-authentication-end-user-app-passwords\\app.png",
@@ -17646,6 +17684,9 @@
   ],
   "74793ffc7dc7228740ca94191e1dd1295e52078d": [
     "articles\\media\\hdinsight-hadoop-customize-cluster-v1\\HDI-Cluster-state.png"
+  ],
+  "84b665da0f740ebe688b8c71ed6bd10dff102271": [
+    "articles\\media\\multi-factor-authentication-end-user-first-time\\first.png"
   ],
   "a20df7082ab0fb675ed24e99571b6bc909771660": [
     "articles\\media\\sql-database-elastic-jobs-service-installation\\credentials.png"
