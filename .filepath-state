@@ -5818,6 +5818,9 @@
   "5fb07f218f5d0fa03ccaa450a394c84d6561aec3": [
     "articles\\media\\notification-hubs-baidu-get-started\\BaiduConfirmation.png"
   ],
+  "15d2a71849eb14f86cdc8b6afcb6ceaa8a31f992": [
+    "articles\\media\\notification-hubs-baidu-get-started\\BaiduCreateProject.png"
+  ],
   "564d2f73e77f113ac51e29bbcc6560324325dd6b": [
     "articles\\media\\notification-hubs-baidu-get-started\\BaiduCreateProjectInput.png"
   ],
@@ -6378,6 +6381,9 @@
   ],
   "1bdb431a90d064f19ca169d65e3a243c2dbb321b": [
     "articles\\media\\resource-group-create-service-principal-portal\\save-icon.png"
+  ],
+  "b78508312b4691a84a0dee4f8016fd01cf8b4e09": [
+    "articles\\media\\resource-group-create-service-principal-portal\\save-key.png"
   ],
   "0e32b1987faec1744f4cead6cc74ae73ed8ff18c": [
     "articles\\media\\resource-group-create-service-principal-portal\\tell-us-about-your-application.png"
