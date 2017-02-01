@@ -3146,6 +3146,7 @@
     "articles\\media\\backup-azure-vms-introduction\\vmbackup-architecture.png"
   ],
   "bf5789cedd12f4a2f2c5d0af5e5373089c9796ef": [
+    "articles\\media\\backup-azure-vms-prepare\\backup_vaultcreate.png",
     "includes\\media\\backup-create-vault\\createvault1.png"
   ],
   "48715dc04022a17520f42755b3fc28d8b50f9d85": [
