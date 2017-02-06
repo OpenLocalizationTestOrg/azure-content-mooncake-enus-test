@@ -4658,6 +4658,9 @@
   "048edf6a25b85eb7e29e6d18ecd0c3bf65cc228a": [
     "articles\\media\\hdinsight-using-json-in-hive\\serde_query1.png"
   ],
+  "7b12f41bebb5459ccdd398f2ff862f6f3339f414": [
+    "articles\\media\\hdinsight-using-json-in-hive\\serde_query2.png"
+  ],
   "b62447a2ca79721bfd5afeb9d5be66e2c32b9614": [
     "articles\\media\\hdinsight-using-json-in-hive\\serde_query3.png"
   ],
@@ -4790,6 +4793,7 @@
   ],
   "abf9d59ba21836787fad5f6857acea0867491493": [
     "articles\\media\\media-services-elemental-live-encoder\\media-services-elemental6.png",
+    "articles\\media\\media-services-fmle-live-encoder\\media-services-fmle6.png",
     "articles\\media\\media-services-tricaster-live-encoder\\media-services-tricaster6.png",
     "articles\\media\\media-services-wirecast-live-encoder\\media-services-wirecast6.png"
   ],
