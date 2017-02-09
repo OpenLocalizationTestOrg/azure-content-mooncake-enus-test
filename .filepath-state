@@ -15627,7 +15627,8 @@
     "includes\\media\\howto-provision-mongolab\\screen-newmongolab.png"
   ],
   "a789efbcbae539a8855708118cff20f98843cfd3": [
-    "includes\\media\\howto-queue-storage\\queue1.png"
+    "includes\\media\\howto-queue-storage\\queue1.png",
+    "includes\\media\\storage-queue-concepts-include\\queue1.png"
   ],
   "991d6991194826ff29c75b809c8361a351fe9ed9": [
     "includes\\media\\howto-quick-create-vm\\createquick.png"
