@@ -1331,6 +1331,9 @@
   "d12163fc2003f582926b4d26d701399cadbbcd5b": [
     "articles\\meda-services-managing-multiple-storage-accounts.md"
   ],
+  "c0218d84d5f0e3b6f600ff62c362d7269987bbfe": [
+    "articles\\media\\active-directory-aadconnect\\arch.png"
+  ],
   "26007ad7d5fa1b202567a13a272df834d033d21e": [
     "articles\\media\\active-directory-aadconnect-accounts-permissions\\aadsyncserviceaccount.png"
   ],
@@ -1453,6 +1456,24 @@
   ],
   "3b825b10d6691338b2ebef322d0408856f0b16ef": [
     "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\connectoraccount.png"
+  ],
+  "1e5f9edd85aa8da8a82b1163f541592fa07080ee": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\devicewriteback2.png"
+  ],
+  "1e3f155b929361ffa91517cb6b4c8a795440db0a": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\devicewriteback3.png"
+  ],
+  "95e3ef940d13028f0dfbe32321c5eee98075dd6e": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\devicewriteback4.png"
+  ],
+  "8ba2c5979ae979235c6352d20899d0c2d651513c": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\devicewriteback5.png"
+  ],
+  "fd65f28a12254ec901ae05199b7aa11060e79256": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\devicewriteback6.png"
+  ],
+  "c387bf5dbcb141277a81c4345754963bdb0c540c": [
+    "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\powershell.png"
   ],
   "dbe6f7eaac3a918ea2782da2e399dc65ff8ca6d7": [
     "articles\\media\\active-directory-aadconnect-get-started-custom-device-writeback\\troubleshoot1.png"
@@ -1599,6 +1620,18 @@
   "6f1709cf9f3cc9b86cacc5be4fba67a9e795c558": [
     "articles\\media\\active-directory-aadconnectsync-configure-filtering\\taskscheduler.png"
   ],
+  "98f1af961735848d8cb088442f460fb2e5e21d7f": [
+    "articles\\media\\active-directory-aadconnectsync-feature-prevent-accidental-deletes\\credentials.png"
+  ],
+  "4a9ca8b77c17f9682769086c7f2a3a5589067998": [
+    "articles\\media\\active-directory-aadconnectsync-feature-prevent-accidental-deletes\\email.png"
+  ],
+  "4d8117771120dc6cba4169db8134a6c13e296e30": [
+    "articles\\media\\active-directory-aadconnectsync-feature-prevent-accidental-deletes\\searchcs.png"
+  ],
+  "62369ae8192209c49d22c0a7e467ebae3f5c2668": [
+    "articles\\media\\active-directory-aadconnectsync-operations\\additionaltasks.png"
+  ],
   "4dc4ef7a35ecea16c16bc16decf6d16886b8945e": [
     "articles\\media\\active-directory-aadconnectsync-operations\\readytoconfigure.png"
   ],
@@ -1701,6 +1734,15 @@
   "6ae7bd7a622023457d31057033dfdf9f94f250b3": [
     "articles\\media\\active-directory-aadconnect-whats-next\\verify.png"
   ],
+  "47ca90b001b1c782fd904b2496454ed976eb428d": [
+    "articles\\media\\active-directory-aadsync-implement-password-synchronization\\csobjectlog.png"
+  ],
+  "8f5b4cc5875bb13f7311831955e67c12bb88ca70": [
+    "articles\\media\\active-directory-aadsync-implement-password-synchronization\\cspasswordsync.png"
+  ],
+  "303c4c1fd0523b2c8c39c1cef6cb25ce5ada0ff0": [
+    "articles\\media\\active-directory-aadsync-implement-password-synchronization\\usersignin.png"
+  ],
   "8fcc045b59674b92924873b030bd2e2659ca5677": [
     "articles\\media\\active-directory-aadsync-scenario-overview\\ic750599.png"
   ],
@@ -1716,8 +1758,38 @@
   "a1ded24454c1c887b6bd564bfee6bda30e442726": [
     "articles\\media\\active-directory-access-management-groups\\active-directory-access-management-works.png"
   ],
+  "61a12356a50ee308eb293bcb6583763fd063cbff": [
+    "articles\\media\\active-directory-add-company-branding\\APBranding.png"
+  ],
+  "8b39202f33028a4a1422f297019ace1c5eae8e56": [
+    "articles\\media\\active-directory-add-company-branding\\SignInPage_aftercustomization.png"
+  ],
+  "e1ac8c749ed4a30fad7daa2e3f17e97c00a27972": [
+    "articles\\media\\active-directory-add-company-branding\\SignInPage_aftercustomization_croppedleft.png"
+  ],
+  "9eae359192b6b64fe3bcbd8ea6c1edbce0e7b9a4": [
+    "articles\\media\\active-directory-add-company-branding\\SignInPage_aftercustomization_croppedtop.png"
+  ],
+  "f14a4570a443feceab09ca2b2790df71b77c0cc5": [
+    "articles\\media\\active-directory-add-company-branding\\SignInPage_aftercustomization_elements.png"
+  ],
   "ca577be66a5ba4aa82e194b2f9721eb87026fc9f": [
     "articles\\media\\active-directory-add-company-branding\\SignInPage_beforecustomization.png"
+  ],
+  "e253285b0865bade7926b8a6c80ca431ff9c0693": [
+    "articles\\media\\active-directory-add-company-branding\\SignInPage_mobile_aftercustomization.png"
+  ],
+  "0682eed97abc4011666252cb9852012f4c7a2421": [
+    "articles\\media\\active-directory-add-company-branding\\SignInPage_mobile_beforecustomization.png"
+  ],
+  "8351506521b2c0c73f59d44ee7b16a0ff89c0479": [
+    "articles\\media\\active-directory-administer\\aad_portals.png"
+  ],
+  "ff32ad3d4388f7228d1cc0b0c998792a0469cf2e": [
+    "articles\\media\\active-directory-administer\\azure_tenants.png"
+  ],
+  "591dc73f79e89a72e45311d9beceed654be40fc8": [
+    "articles\\media\\active-directory-application-objects\\application-objects-relationship.png"
   ],
   "fd9b71828066f025fb9359f61cb9f977bf775d66": [
     "articles\\media\\active-directory-authentication-scenarios\\application_types_and_scenarios.png"
@@ -1740,10 +1812,26 @@
   "284a04a096cdfaf3fa85a9f3c539545cec760232": [
     "articles\\media\\active-directory-authentication-scenarios\\web_browser_to_web_api.png"
   ],
+  "c2f2654539d8ee5502273767d28a96501b1f59cb": [
+    "articles\\media\\active-directory-branding-guidelines\\add-to-my-org.png"
+  ],
+  "9f4875b9ed52855ce50b78c4da8f5a42f2d516d2": [
+    "articles\\media\\active-directory-branding-guidelines\\work-account.png"
+  ],
   "5fb69ba61e31fe62a75e2cbcb26acef6cfd72011": [
     "articles\\media\\active-directory-branding-guidelines\\work-account-with-explaination.png"
   ],
+  "669e35071d5fe4d97929bd581c9ddab220e093d8": [
+    "articles\\media\\active-directory-branding-guidelines\\work-or-school-account.png"
+  ],
+  "a5bd4aef71af71b0a5e9e3f6215d0d90c56b8d7a": [
+    "articles\\media\\active-directory-create-users\\RBACDirConfigTab.png"
+  ],
+  "371544a1a2dab800d04cea37a6b6cdac1072cd5a": [
+    "articles\\media\\active-directory-create-users\\RBACGuestAccessControls.png"
+  ],
   "075bca7834f9a23d93841924ba43947bab8fcf69": [
+    "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acs-01.png",
     "articles\\media\\active-directory-java-authenticate-users-access-control-eclipse\\ACSFlow.png"
   ],
   "311696464196b2fa3b55182bf974253bcd4d06b2": [
@@ -1764,6 +1852,9 @@
   "b85e519f803fe3a09203a53f629dcf7cf6cfd2a6": [
     "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acsConfigAcsNamespace2.png"
   ],
+  "d5c6003c4a89a9287adac7d5ae3a2853143e4391": [
+    "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acsCreateNamespace.png"
+  ],
   "22b3ccb119971ba02db7dbaa42ade47851b43876": [
     "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acsEdit-RP.png"
   ],
@@ -1782,6 +1873,9 @@
   "d95b94d1e4e908e6b78b2efcd841fd23a2ff3f5d": [
     "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acsMSFTAcct.png"
   ],
+  "b3dd9cd89af65125568a8d093b6ec1360b39d73a": [
+    "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acsQuickCreate.png"
+  ],
   "6f3a6ec2e125c39d93a9b8a123a5512ba49e25d7": [
     "articles\\media\\active-directory-dotnet-how-to-use-access-control\\acsRPPage.png"
   ],
@@ -1797,8 +1891,20 @@
   "007973214110e5caf7f551bae5b86eade5f3f5f2": [
     "articles\\media\\active-directory-dotnet-how-to-use-access-control\\rzAv.png"
   ],
+  "d829622c7e376bd1cd2765006e15908649533d6d": [
+    "articles\\media\\active-directory-dotnet-how-to-use-access-control\\rzC.png"
+  ],
   "b1558d8a2bcbf72bdf0e0d8acfa9ab0a605aa598": [
     "articles\\media\\active-directory-dotnet-how-to-use-access-control\\rzCl.png"
+  ],
+  "78f76bdfe59856a95a92428ca89a6f7520fa96ea": [
+    "articles\\media\\active-directory-dotnet-how-to-use-access-control\\rzIA.png"
+  ],
+  "7d63bb81ec2d51846509c6ba9a6ef41099255616": [
+    "articles\\media\\active-directory-dotnet-how-to-use-access-control\\rzMvc.png"
+  ],
+  "71bf198c9426bfa66bbf298a8247a786dd7f6ed2": [
+    "articles\\media\\active-directory-dotnet-how-to-use-access-control\\rzPT.png"
   ],
   "b2314003996b8b973f7275c55318b668cb364804": [
     "articles\\media\\active-directory-editions\\ic195031.png"
@@ -1839,8 +1945,20 @@
   "6b74053cb86d4c5609954e8ebc94ab9183b879cd": [
     "articles\\media\\active-directory-get-started-premium\\Usagelocation.png"
   ],
+  "1c73c35b80fda41ff8285e71e3b23b89b011add4": [
+    "articles\\media\\active-directory-how-applications-are-added\\HowAppsAreAddedToAAD.jpg"
+  ],
   "55c08590a4d517e696921ea282b01e8a096fa7d8": [
     "articles\\media\\active-directory-how-applications-are-added\\IntegratedAppSettings.jpg"
+  ],
+  "6cbfebec8650a545be67625d74222f43a5075916": [
+    "articles\\media\\active-directory-how-subscriptions-associated-directory\\WAAD_OrgAccountSubscription.png"
+  ],
+  "a540f9966a58855742f0ab8000e258756ef10939": [
+    "articles\\media\\active-directory-how-subscriptions-associated-directory\\WAAD_PassThruAuth.png"
+  ],
+  "74dabdf7ca19cdae60015cf9d5bb06df25838c67": [
+    "articles\\media\\active-directory-how-subscriptions-associated-directory\\WAAD_SignInDisambiguation.PNG"
   ],
   "0414551011505430e88d922700fefd47809c5cd1": [
     "articles\\media\\active-directory-java-authenticate-users-access-control-eclipse\\AddACSFilterLibrary.png"
@@ -2136,6 +2254,9 @@
   "af66eaad9c82bfaf268bfcdf63f606c0526aab0a": [
     "articles\\media\\aog-automation-how-to-turn-on-off-vm\\config-shedule-detail.jpg"
   ],
+  "622e25ff5c178789d86601986a5edfd347b9ccb3": [
+    "articles\\media\\aog-automation-how-to-turn-on-off-vm\\create-autionmation-runbook.jpg"
+  ],
   "36556c380d7c492a727d24ec9bce01d4517a09ec": [
     "articles\\media\\aog-automation-how-to-turn-on-off-vm\\create-automation-account.jpg"
   ],
@@ -2156,6 +2277,9 @@
   ],
   "4f978865cb06383a8305ee58dcd76bb2222f7be8": [
     "articles\\media\\aog-automation-how-to-turn-on-off-vm\\edit-runbook.jpg"
+  ],
+  "a97abc8f04cbae0ab22cef75b9e077ac58c8b1f0": [
+    "articles\\media\\aog-automation-how-to-turn-on-off-vm\\entry-automation.jpg"
   ],
   "f8fa90259f7e3f65af94b4c994f1ca9a360e1001": [
     "articles\\media\\aog-automation-how-to-turn-on-off-vm\\publish-runbook.jpg"
@@ -2180,6 +2304,24 @@
   ],
   "8c97a906bcbb5a0e6ead89cb2b14a99719a6fea8": [
     "articles\\media\\aog-management-portal-how-to-see-operation-log\\open-log-from-dashboard.jpg"
+  ],
+  "5561bb5e7238f3121ba1565f911d55dd6054e8e7": [
+    "articles\\media\\aog-storage-how-to-create-account-container\\container-dashboard.png"
+  ],
+  "5d79e3c12476dc0be8887fdc43c08d786eb7e283": [
+    "articles\\media\\aog-storage-how-to-create-account-container\\create-account.png"
+  ],
+  "8b5c42be880947025e3b13a0bc8741751ce974d5": [
+    "articles\\media\\aog-storage-how-to-create-account-container\\create-container.png"
+  ],
+  "e3034a0146d1ce80006e1417dac5c5295e528ef2": [
+    "articles\\media\\aog-storage-how-to-create-account-container\\enter-storage.png"
+  ],
+  "4f4eb546e43010d6a1fbd317610dfc502ed58afc": [
+    "articles\\media\\aog-storage-how-to-create-sas-for-blob\\no-write-permission.PNG"
+  ],
+  "fbac655c18111c1f6f892e30db7b7f07cd7b1f44": [
+    "articles\\media\\aog-storage-how-to-create-sas-for-blob\\use-sas-token-create-blob.PNG"
   ],
   "c8e853024323b868e5653794849e2a12fef2af42": [
     "articles\\media\\aog-storage-how-to-use-azcopy\\azure-command-prompt-tool.png"
@@ -2214,6 +2356,15 @@
   ],
   "bfcd53b3799c806011eeaa262b348c5d67a23fdf": [
     "articles\\media\\aog-virtual-machines-attach-vhd\\resize-disk.PNG"
+  ],
+  "3be758df3e0752daf5e1a2a7405cb5c3f73f5fb6": [
+    "articles\\media\\aog-virtual-machines-ps-add-endpoint\\batch-add-endpoint-result.PNG"
+  ],
+  "e0ee3f3d7b9291b9777e3d3d25f66b03c496fd5d": [
+    "articles\\media\\aog-virtual-machines-ps-add-endpoint\\excel-input.PNG"
+  ],
+  "80f36035c340c720be51c24f5edfeb85d75074a9": [
+    "articles\\media\\aog-virtual-machines-ps-add-endpoint\\get-endpoint-info.PNG"
   ],
   "ada2720e8e4522a5303d9b23cfe5236288d3a78d": [
     "articles\\media\\aog-virtual-network-add-endpoint-and-acl\\acl-list.jpg"
@@ -2257,8 +2408,23 @@
   "65b57a41c151e7f792646bf1bec0cb5bdb15aa05": [
     "articles\\media\\aog-virtual-network-how-to-use-reserved-ip\\triple-check-reserved-ip.jpg"
   ],
+  "81700998df64bcaf9d01818594a472ade3a8e794": [
+    "articles\\media\\aog-virtual-network-use-nsg-dmz\\backend-nsg-detail.png"
+  ],
+  "3a3186d9afdc72827407a6b91067e6fb350e661b": [
+    "articles\\media\\aog-virtual-network-use-nsg-dmz\\db-nsg-detail.png"
+  ],
+  "b68d1d2676bb202187393a55b559b27e3c20157f": [
+    "articles\\media\\aog-virtual-network-use-nsg-dmz\\dmznsg-detail.png"
+  ],
+  "422b6c0025203fa2eddfa9f94fe9aec696507860": [
+    "articles\\media\\aog-virtual-network-use-nsg-dmz\\nsg-relation.png"
+  ],
   "b76bd105d6e762d032accc3736b3893a36de0b1e": [
     "articles\\media\\aog-virtual-network-use-nsg-dmz\\subnet.png"
+  ],
+  "11b81d78a23226bc833861f2c7dc0f505a895480": [
+    "articles\\media\\aog-virtual-network-use-nsg-dmz\\subnet-and-vm.png"
   ],
   "8140ed569b9889b13a89a93c2d06fa31938a9c91": [
     "articles\\media\\application-gateway-create-gateway-arm-template\\scenario-arm.png"
@@ -2300,10 +2466,12 @@
     "articles\\media\\app-service-web-staged-publishing-realworld-scenarios\\8afswap.png"
   ],
   "a71341b7707ec619a9d22d8ef331360e958e859d": [
-    "articles\\media\\app-service-web-troubleshoot-HTTP-502-503\\1-monitor-metrics.png"
+    "articles\\media\\app-service-web-troubleshoot-HTTP-502-503\\1-monitor-metrics.png",
+    "articles\\media\\app-service-web-troubleshoot-performance-degradation\\1-monitor-metrics.png"
   ],
   "14b096b342ca7bda6601ed14f50dc58d46fb420e": [
     "articles\\media\\app-service-web-troubleshoot-HTTP-502-503\\2-restart.png",
+    "articles\\media\\app-service-web-troubleshoot-performance-degradation\\2-restart.png",
     "articles\\media\\web-sites-nodejs-debug\\restartbutton.png"
   ],
   "f6d61d3e4fb95d11a47908225c124016cc11eb68": [
@@ -2326,6 +2494,12 @@
   ],
   "60b0bcaec96a11dbe431a01f08e6d00e25676107": [
     "articles\\media\\architecture-overview\\PnPPatternPosterThumb.jpg"
+  ],
+  "dac469605d277c85c9e001e7fb517ae41ff18277": [
+    "articles\\media\\automation-create-runbook-from-samples\\automation_01_CreateAccount.png"
+  ],
+  "bde6eb89ebcaaac482a0cc48f06331ce6790d333": [
+    "articles\\media\\automation-create-runbook-from-samples\\automation_02_addnewautoacct.png"
   ],
   "b541b721e4b12fb0789baaa362804210417997dd": [
     "articles\\media\\automation-create-runbook-from-samples\\automation_03_NewAutoAcct.png"
@@ -2377,6 +2551,12 @@
   ],
   "80beb072bb1cafa8be883b178c26d7a35d7a6e6b": [
     "articles\\media\\automation-first-runbook-textual\\hello-world.png"
+  ],
+  "d4e41f0260a8233604913531b6a3fdf74da7ddee": [
+    "articles\\media\\automation-runbook-execution\\job-statuses.png"
+  ],
+  "49fd97b2b50f440adf9faceaba1372c86f7d7af8": [
+    "articles\\media\\automation-runbook-gallery\\runbook-gallery.png"
   ],
   "6afa6bb105e717d2da30555d66c06787300a6a17": [
     "articles\\media\\azure-api-management-certs\\certificates-tab.png"
