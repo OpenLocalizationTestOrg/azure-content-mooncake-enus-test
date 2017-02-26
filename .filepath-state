@@ -2894,23 +2894,8 @@
   "1b7352d0fd76b77cfa448701c0cee40c25e65b19": [
     "articles\\media\\backup-azure-backup-sql\\sqlbackup-createrp.png"
   ],
-  "2118b2c22f6ab3f9e28058a8ab5c2d61352d7702": [
-    "articles\\media\\backup-azure-backup-sql\\sqlbackup-monitoring.png"
-  ],
-  "104ebb01262325f7075184aedb569d62584e2d40": [
-    "articles\\media\\backup-azure-backup-sql\\sqlbackup-recover.png"
-  ],
-  "d56060f2390511d7b631df70ab999db6f68a6b4a": [
-    "articles\\media\\backup-azure-backup-sql\\sqlbackup-recoveroriginal.png"
-  ],
-  "7957b2c1dc588b059348e844789145b58b07b274": [
-    "articles\\media\\backup-azure-backup-sql\\sqlbackup-recoverying.png"
-  ],
   "daba47a7b693d284f71313462af56bd824eb90e2": [
     "articles\\media\\backup-azure-backup-sql\\sqlbackup-recoverypoint.png"
-  ],
-  "4d20c0e0abe2482e759b7e5dbe265e08134c149e": [
-    "articles\\media\\backup-azure-backup-sql\\sqlbackup-restorepoint.png"
   ],
   "4018b042e6e5a3e33f7783fabc25ac53523ac5e7": [
     "articles\\media\\backup-azure-backup-windows-server\\backupnow.png"
@@ -3989,23 +3974,11 @@
   "e66715808244225c3d47c2b6ebca8c4c9ac22352": [
     "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\config_hpc13.png"
   ],
-  "e3c9c1052711514f1a1f44ec422103a0482eb095": [
-    "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\config_hpc2.png"
-  ],
-  "5f856e05566641fb4b0940461e5b3b2047bff3d6": [
-    "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\config_hpc3.png"
-  ],
   "5daf9de046f125f9e51625a5e98846443f6f9dbc": [
     "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\config_hpc6.png"
   ],
   "f08144c73f33260da620dc6bb7a304056f3f02fc": [
     "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\config_hpc8.png"
-  ],
-  "49eeb0fa11f5055188e1eac310f144a021691874": [
-    "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\createservice1.png"
-  ],
-  "1421ed3c5cfb4ff2f646c84bc1d32587570be3f9": [
-    "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\createstorage1.png"
   ],
   "7ee7e660667a5c3c239491be9c41a74d770e7270": [
     "articles\\media\\cloud-services-setup-hybrid-hpcpack-cluster\\hybrid_cluster_overview.png"
@@ -4538,9 +4511,6 @@
   "ef304995b8b8d4d564a2d7a5b054a6ff2e494fd4": [
     "articles\\media\\hdinsight-storm-deploy-monitor-topology\\vsmonitor.png"
   ],
-  "0c0140e490f15fb477aea9982d6a62bd2e7815b0": [
-    "articles\\media\\hdinsight-storm-develop-csharp-event-hub-topology\\download.png"
-  ],
   "52487968c5dee8b57a76d9164974ae608864ba9b": [
     "articles\\media\\hdinsight-storm-develop-csharp-event-hub-topology\\killtopology.png"
   ],
@@ -4571,14 +4541,7 @@
   "5d1e91b9054be8a675ee76e8841542240bbdafda": [
     "articles\\media\\hdinsight-storm-develop-csharp-event-hub-topology\\wiz2.png"
   ],
-  "e514e7bf127fdb00a1401f5ce0890b6ca84203a6": [
-    "articles\\media\\hdinsight-storm-develop-csharp-visual-studio-topology\\new-project.png"
-  ],
-  "8b39f0ee7328cad7d06b679b6c3a5bc0b46f501a": [
-    "articles\\media\\hdinsight-storm-develop-csharp-visual-studio-topology\\outputtype.png"
-  ],
   "45d8235389fba5c33389b8dc644e753ca2eba56a": [
-    "articles\\media\\hdinsight-storm-develop-csharp-visual-studio-topology\\wordcount-topology.png",
     "articles\\media\\hdinsight-storm-develop-java-topology\\wordcount-topology.png"
   ],
   "2453c0ef4bc8fd3c2c55d4028231459c441285ef": [
