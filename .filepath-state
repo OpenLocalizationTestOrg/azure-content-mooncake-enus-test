@@ -1707,9 +1707,6 @@
   "5b56c3a6a5b4b25f769bbc9e8c32c389adf60220": [
     "articles\\media\\active-directory-aadconnect-topologies\\SingleForestFiltered.png"
   ],
-  "871fa4ef23d02bf755d86fab111b2080b3111dd4": [
-    "articles\\media\\active-directory-aadconnect-topologies\\SingleForestFilteredUnsupported.png"
-  ],
   "95854e2b275c02185fbbc7925f6f6f679f777c9d": [
     "articles\\media\\active-directory-aadconnect-topologies\\SingleForestMultiConnectorsUnsupported.png"
   ],
@@ -2149,9 +2146,6 @@
   "3e52a076c249f35b171f616f00cb203a97b89e5c": [
     "articles\\media\\active-directory-saml-claims-customization\\claimscustomization1.png"
   ],
-  "367d60cdf189fad12c06f870aa0be535ff3c2e8e": [
-    "articles\\media\\active-directory-saml-claims-customization\\claimscustomization2.png"
-  ],
   "1dc2aea17a871926e56afd247413f14d98fa6501": [
     "articles\\media\\active-directory-saml-claims-customization\\claimscustomization3.png"
   ],
@@ -2283,9 +2277,6 @@
   ],
   "f8fa90259f7e3f65af94b4c994f1ca9a360e1001": [
     "articles\\media\\aog-automation-how-to-turn-on-off-vm\\publish-runbook.jpg"
-  ],
-  "1743a9714e9dc4c6f3cca592d33f8626f12df478": [
-    "articles\\media\\aog-automation-how-to-turn-on-off-vm\\runbook-list.jpg"
   ],
   "c2cd50af910d1634d39c8f416e883730c1a34f5d": [
     "articles\\media\\aog-automation-how-to-turn-on-off-vm\\runbook-result.jpg"
