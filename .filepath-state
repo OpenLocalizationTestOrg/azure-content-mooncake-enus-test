@@ -2657,11 +2657,20 @@
   "b00c7f21d7ec6e17ba792289ee83d6f0e735bf23": [
     "articles\\media\\azure-security-getting-started\\sec-azgsfig5.PNG"
   ],
+  "9b3b9289dd3677acaebee9c97ad26efc184938ad": [
+    "articles\\media\\azure-slave-plugin-for-hudson\\hudson-oslist.png"
+  ],
   "d899ee7ab39aa930cb1b65ff56d79e76f697220b": [
     "articles\\media\\azure-slave-plugin-for-hudson\\hudson-setup-addcloud.png"
   ],
+  "bed57ada501a7545e53c3640cc4be4151bf0efbc": [
+    "articles\\media\\azure-slave-plugin-for-hudson\\hudson-setup-addnewvmtemplate.png"
+  ],
   "c4cc2512673d4391a5f04d24cd1d5b54a6b49d30": [
     "articles\\media\\azure-slave-plugin-for-hudson\\hudson-setup-configureprofile.png"
+  ],
+  "f7dcf7d0a237b566b5ee16a9389ef03e987b811d": [
+    "articles\\media\\azure-slave-plugin-for-hudson\\hudson-setup-templateconfig1-withdata.png"
   ],
   "c70124e19ed1d69320e65496afca14d50bbf5f4f": [
     "articles\\media\\azure-slave-plugin-for-jenkins\\jenkins-account-configuration-fields.png"
@@ -2713,6 +2722,9 @@
   ],
   "6db05a0d3d3ec61ae8d392716f629370476e82de": [
     "articles\\media\\backup-azure-alternate-dpm-server\\monitoring-recovery.png"
+  ],
+  "1533f73f7bef8f311f7fee8f939e80cf7b587d8d": [
+    "articles\\media\\backup-azure-alternate-dpm-server\\recover.png"
   ],
   "e6dbf49f71d17d37ae30a4c74afc5e6aee614921": [
     "articles\\media\\backup-azure-backup-cloud-as-tape\\dailybackupschedule.png"
@@ -2924,6 +2936,18 @@
   "0eb4a3a22172f53f5bb5e2bb4b73c78dcf2750f2": [
     "articles\\media\\backup-azure-manage-vms\\alert-header.png"
   ],
+  "f657002ba96fde8d4e4ba997729fa021bf8b4286": [
+    "articles\\media\\backup-azure-manage-vms\\backup-job.png"
+  ],
+  "331df46600c98293c6f73966bde14ec197236e85": [
+    "articles\\media\\backup-azure-manage-vms\\backup-now.png"
+  ],
+  "f9e91f1cecfe669a54e8ca7954003b0243f91686": [
+    "articles\\media\\backup-azure-manage-vms\\backup-vmdetails.png"
+  ],
+  "c6123803c8fd9bbf2ff89f5a9b5e4faf394b7b81": [
+    "articles\\media\\backup-azure-manage-vms\\backup-vmpolicy.png"
+  ],
   "343a969b2afe26409ed8d1faba5e9db43f00805a": [
     "articles\\media\\backup-azure-manage-vms\\checkbox.png"
   ],
@@ -2935,6 +2959,9 @@
   ],
   "c79cc4d8b9a26d2111487471eee7da0c025448e0": [
     "articles\\media\\backup-azure-manage-vms\\created-job.png"
+  ],
+  "7676d5dc67205f8e9b5e001a1bd4f9ad916b747d": [
+    "articles\\media\\backup-azure-manage-vms\\creating-job.png"
   ],
   "f0f86d07d3e350cf79ed4630813e1cfceb12a480": [
     "articles\\media\\backup-azure-manage-vms\\dashboard-protectedvms.png",
@@ -2948,6 +2975,9 @@
   ],
   "5b27eced084ef1dbc3f1e100122b4bf97741322d": [
     "articles\\media\\backup-azure-manage-vms\\delete-data-success.png"
+  ],
+  "68766a4088192620400e6f9f6037bb3b8052ae9a": [
+    "articles\\media\\backup-azure-manage-vms\\manage-policy-settings.png"
   ],
   "c7fc3dc5bd006b8b91be7aa486af13e9bd655de1": [
     "articles\\media\\backup-azure-manage-vms\\ops-logs.png"
@@ -2976,6 +3006,9 @@
   ],
   "5942ea8651b5bd980adc50da1c935dd70d0b72ac": [
     "articles\\media\\backup-azure-manage-vms\\unregister-button.png"
+  ],
+  "78fd0a186db588f44d1db4a1aabcb5ca5217de66": [
+    "articles\\media\\backup-azure-manage-vms\\vm-type.png"
   ],
   "db935ef261478498c0ae40a024272fe77d266a42": [
     "articles\\media\\backup-azure-manage-windows-server\\RS_deletedserver.png"
@@ -3055,6 +3088,21 @@
   "8345d605f6b452cb00ec46410ff81b70ac06218b": [
     "articles\\media\\backup-azure-restore-windows-server\\volanddate.png"
   ],
+  "fbe827b82c28309f100316c4d254c57bc28086d5": [
+    "articles\\media\\backup-azure-vms\\3-steps-for-backup.png"
+  ],
+  "4c585d2b575178deeb4beb4b24a589c83a7a21e7": [
+    "articles\\media\\backup-azure-vms\\discover-button-only.png"
+  ],
+  "d7c05cd66f06342eca71bd7fdc05a297ba93e26c": [
+    "articles\\media\\backup-azure-vms\\discovering-vms.png"
+  ],
+  "12f30377661a12001cf5f579380eb7bf2694807a": [
+    "articles\\media\\backup-azure-vms\\discovery-complete.png"
+  ],
+  "c48aa399ce9c97887e9e54a65ecbd6db5dfa4106": [
+    "articles\\media\\backup-azure-vms\\discovery-select-workload.png"
+  ],
   "0195bb337c8b2c6de0a1684bc5b3a1b10fedd0c8": [
     "articles\\media\\backup-azure-vms\\long-term-retention.png"
   ],
@@ -3076,6 +3124,18 @@
   "fa90b58f7869e5f2770edd16d18f114567aa0ebc": [
     "articles\\media\\backup-azure-vms\\protect-inprogress.png"
   ],
+  "72eb9a1ca863954473ee01da8c1f0997c4f5c616": [
+    "articles\\media\\backup-azure-vms\\register-button-only.png"
+  ],
+  "f748a4b9ae3210877722c70c96a4a0bc555adffa": [
+    "articles\\media\\backup-azure-vms\\register-create-job.png"
+  ],
+  "e3ba4aba528c3c817b1d358fc92a589729fca4a2": [
+    "articles\\media\\backup-azure-vms\\register-status01.png"
+  ],
+  "d21ccb3c4e310c256552a07c134dd4e2a069e1b8": [
+    "articles\\media\\backup-azure-vms\\register-status02.png"
+  ],
   "22eaabf05811d4b7f0fd446304d0747df6600f81": [
     "articles\\media\\backup-azure-vms\\select-workload.png"
   ],
@@ -3086,12 +3146,14 @@
     "articles\\media\\backup-azure-vms-introduction\\vmbackup-architecture.png"
   ],
   "bf5789cedd12f4a2f2c5d0af5e5373089c9796ef": [
+    "articles\\media\\backup-azure-vms-prepare\\backup_vaultcreate.png",
     "includes\\media\\backup-create-vault\\createvault1.png"
   ],
   "48715dc04022a17520f42755b3fc28d8b50f9d85": [
     "articles\\media\\backup-azure-vms-prepare\\backup_vaultslist.png"
   ],
   "3fb15b2437c7e6083ee36f94b05d9ae2488a1205": [
+    "articles\\media\\backup-azure-vms-prepare\\creating-vault.png",
     "includes\\media\\backup-create-vault\\creatingvault1.png"
   ],
   "19925afd36a6263b49f3769c083e5d766aeca3a7": [
@@ -3164,11 +3226,47 @@
   "f67f73f0c0735268e5a3811201eea9dd661fa933": [
     "articles\\media\\best-practices-caching\\Figure2.png"
   ],
+  "43199a7168f7211815102d2bf5671e3913b6b78c": [
+    "articles\\media\\best-practices-data-partitioning\\DataPartitioning01.png"
+  ],
+  "d282a601809175972b3136f7fd5b44590b1ad7f5": [
+    "articles\\media\\best-practices-data-partitioning\\DataPartitioning02.png"
+  ],
+  "8cab9b450c30797dec76936acbbf1158edd0be10": [
+    "articles\\media\\best-practices-data-partitioning\\DataPartitioning03.png"
+  ],
+  "7e0cd748619ef98fa8e76ce2517edbfa0163c5c0": [
+    "articles\\media\\best-practices-data-partitioning\\MultipleShardMaps.png"
+  ],
+  "92c09474a58a7a19bdac801cb1484503a319d1c9": [
+    "articles\\media\\best-practices-data-partitioning\\PointShardlet.png"
+  ],
+  "578965e32ac313f6eb8dfbf4350800904754458c": [
+    "articles\\media\\best-practices-data-partitioning\\RangeShardlet.png"
+  ],
+  "7231dbba7b669cce4862e9fd5bcbb33372bd623e": [
+    "articles\\media\\best-practices-data-partitioning\\RedisCustomersandOrders.png"
+  ],
+  "63bea8575d23a87ac14fb568febf56b677084161": [
+    "articles\\media\\best-practices-data-partitioning\\TableStorage.png"
+  ],
+  "e7518958e327bd270a4d223e8e06273b0b07b0f7": [
+    "articles\\media\\best-practices-monitoring\\BufferedQueue.png"
+  ],
+  "16e9ce9834162bb1533b48873eb9fe29de195cd9": [
+    "articles\\media\\best-practices-monitoring\\Consolidation.png"
+  ],
   "b36de2985114820fce9da55b8bbde0e4231227a8": [
     "articles\\media\\best-practices-monitoring\\DataStorage_new.PNG"
   ],
   "df638e275bcbca6888efdb4f6117e80e20a517c4": [
     "articles\\media\\best-practices-monitoring\\Pipeline.png"
+  ],
+  "4af94c525c0743e22e44a3ba385568097955c423": [
+    "articles\\media\\best-practices-monitoring\\PullModel.png"
+  ],
+  "231ab7818cce3f6b016a0601b96edce2683f3567": [
+    "articles\\media\\best-practices-monitoring\\TelemetryService.png"
   ],
   "ba29991fc414a98ccd29e9c899ff116b39a0732b": [
     "articles\\media\\cache-asp.net-output-cache-provider\\IC729541.png",
@@ -3280,8 +3378,26 @@
   "c92754dbe8c361d8b0235750ce78ec0b7dc6d5d7": [
     "articles\\media\\cdn-doc\\cdn-en-pops.png"
   ],
+  "354f0ef4cd08702e5831983ec1fadd1c8bc6ca45": [
+    "articles\\media\\cdn-doc\\download-en-001.png"
+  ],
+  "ada91f0bf88ef6c421f5abd24d7c591be4eea3dc": [
+    "articles\\media\\cdn-doc\\download-en-002.png"
+  ],
+  "5a18bf6007edd5178deae22b2c151213e34b55f9": [
+    "articles\\media\\cdn-doc\\download-en-003.png"
+  ],
+  "8ad55c21771c5674667e1fa0bfcd8d41d94021fd": [
+    "articles\\media\\cdn-doc\\download-en-004.png"
+  ],
+  "9d6a34ff0dd193c0296b6dd2a4fd5da6b7ec0b32": [
+    "articles\\media\\cdn-doc\\download-en-005.png"
+  ],
   "72ea171de61859ae50107c6970241700c93804b3": [
     "articles\\media\\cdn-doc\\FAQ.png"
+  ],
+  "7398b2e874e5d07ca36638106e57f774d5f68f9f": [
+    "articles\\media\\cdn-doc\\faq-inquiry-001.png"
   ],
   "b3dfbe9fd2c23b80d4c0d7d95ad5272218309c44": [
     "articles\\media\\cdn-doc\\ls-en-001.png"
@@ -3312,6 +3428,21 @@
   ],
   "ee8dfc908d88b10abafaa5591d81793d0a5ecb71": [
     "articles\\media\\cdn-doc\\VOD-en-006.png"
+  ],
+  "78d520407fdef734ebcde8f2a77979095a0832b5": [
+    "articles\\media\\cdn-doc\\web-en-001.png"
+  ],
+  "d003b340e3b83540c336fb871dd38b14dc05e456": [
+    "articles\\media\\cdn-doc\\web-en-002.png"
+  ],
+  "0c75ba7186f3d5be372ae194561bcedca7f60a4b": [
+    "articles\\media\\cdn-doc\\web-en-003.png"
+  ],
+  "ac0167666eaf20fa72f2704c9abb22735d42ec9c": [
+    "articles\\media\\cdn-doc\\web-en-004.png"
+  ],
+  "be52e0eb3f6caac2b4bcd70f92f50297b2d85ae3": [
+    "articles\\media\\cdn-doc\\web-en-005.png"
   ],
   "c057e042605ba40f01a8c9c106cd4f1c8ac91ab7": [
     "articles\\media\\cdn-en-unified-portal\\007.png"
