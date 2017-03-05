@@ -2086,6 +2086,9 @@
   "766891fe275d242369549ab0272d11df31602b62": [
     "articles\\media\\active-directory-passwords-getting-started\\018.jpg"
   ],
+  "1b5a8ec478dd755a85d0e9de65206a459e0f636e": [
+    "articles\\media\\active-directory-passwords-getting-started\\019.jpg"
+  ],
   "2b60bb7d31749fbe3e07fdddea84a1bda2a67625": [
     "articles\\media\\active-directory-passwords-getting-started\\020.jpg"
   ],
@@ -3309,6 +3312,9 @@
   "76afe183c6a3b56d0b79f2c5e4c94b41690b6e3b": [
     "articles\\media\\cdn-doc\\012.png"
   ],
+  "f972be3af2a5b5cdc72b28dca836d6450c2190d6": [
+    "articles\\media\\cdn-doc\\013.png"
+  ],
   "5121157ef569da6896371a42f5de1d0668e1e727": [
     "articles\\media\\cdn-doc\\014.png"
   ],
@@ -4241,6 +4247,9 @@
   ],
   "1ce0b6469b6a92c7a8a735733978961aba3d4fe0": [
     "articles\\media\\expressroute-workflows\\expressroute-routing-workflow.png"
+  ],
+  "ea1682306d837ea042bb57454f0d2f1dde4b157d": [
+    "articles\\media\\hdinsight-administer-use-command-line\\HDI.CLIListClusters.png"
   ],
   "916eba5766ea04767291e6d8c98e139a2ce03cbe": [
     "articles\\media\\hdinsight-administer-use-management-portal-v1\\HDI.ClusterCreate.UploadCert.png"
