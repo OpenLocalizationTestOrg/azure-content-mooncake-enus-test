@@ -1680,9 +1680,6 @@
   "0a480da615aa4954db2e61e1c3e2b051d59afa7c": [
     "articles\\media\\active-directory-aadconnect-topologies\\MultiForestMultiDirectoryGALSync1Unsupported.png"
   ],
-  "409d4e2de46c70b306d3f2098454feda94512c5f": [
-    "articles\\media\\active-directory-aadconnect-topologies\\MultiForestMultiDirectoryGALSync2Unsupported.png"
-  ],
   "89b6d488c86be674150e07ddef6552fc0436074a": [
     "articles\\media\\active-directory-aadconnect-topologies\\MultiForestMultiSyncUnsupported.png"
   ],
