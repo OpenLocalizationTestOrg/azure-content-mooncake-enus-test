@@ -5299,7 +5299,8 @@
     "articles\\media\\mobile-services-javascript-backend-phonegap-get-started\\portal-screenshot2.png"
   ],
   "38d730e14cabbdd11b37ee81b5f2e182148a5642": [
-    "articles\\media\\mobile-services-javascript-backend-windows-phone-get-started-push\\mobile-app-enable-push-wp8.png"
+    "articles\\media\\mobile-services-javascript-backend-windows-phone-get-started-push\\mobile-app-enable-push-wp8.png",
+    "articles\\media\\notification-hubs-windows-phone-get-started\\mobile-app-enable-push-wp8.png"
   ],
   "21527eb93887049aec390df9f44cde51ca9ca5e7": [
     "articles\\media\\mobile-services-javascript-backend-windows-phone-get-started-push\\mobile-quickstart-push3-wp8.png"
@@ -6073,6 +6074,7 @@
     "articles\\media\\notification-hubs-templates\\notification-hubs-registration-specific.png"
   ],
   "2719ff10c70c78a4644fbfeee83fa2935345a5fd": [
+    "articles\\media\\notification-hubs-windows-phone-get-started\\notification-hub-create-console-app.png",
     "articles\\media\\notification-hubs-windows-store-dotnet-get-started\\notification-hub-create-console-app.png",
     "articles\\media\\partner-xamarin-notification-hubs-ios-get-started\\notification-hub-create-console-app.png",
     "includes\\media\\notification-hubs-back-end\\notification-hub-create-console-app.png"
@@ -6478,6 +6480,9 @@
   ],
   "a1e49e819b25b10098356066e20ed9634e050e7a": [
     "articles\\media\\scheduler-get-started-portal\\scheduler-get-started-portal011.png"
+  ],
+  "e2e9b18eb5efa04b150fdb3a5b661a6bf6a97c2b": [
+    "articles\\media\\scheduler-get-started-portal\\scheduler-get-started-portal012.png"
   ],
   "91ca34af536369c971f4f9bbafbacfd0e6f979cd": [
     "articles\\media\\scheduler-get-started-portal\\scheduler-get-started-portal013.png"
