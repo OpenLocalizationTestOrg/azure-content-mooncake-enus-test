@@ -6,9 +6,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7207813Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\1c1599ebdb858b1903e8ec305aab199b3c94547a.e34653a1a1f70c2c2a6ea72f3e9b824c9bc8dd45.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\1c1599ebdb858b1903e8ec305aab199b3c94547a.e34653a1a1f70c2c2a6ea72f3e9b824c9bc8dd45.xml"
     },
     "articles\\web-sites-dotnet-session-state-caching.md.ae61a9d92a2d39eaed206e0874373e5375589d2a.HT": {
       "SourceFilename": "articles\\web-sites-dotnet-session-state-caching.md",
@@ -16,9 +14,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.6739261Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\bad4fc29b24ac7301609cd8a33840d73172f881d.6ae2e580a286c8c7668e940ba3c83d003a622ef2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\bad4fc29b24ac7301609cd8a33840d73172f881d.6ae2e580a286c8c7668e940ba3c83d003a622ef2.xml"
     },
     "articles\\websites-dotnet-webjobs-sdk-storage-blobs-how-to.md.95a8d7999538db1f0e30fc086faca9b5a454b256.HT": {
       "SourceFilename": "articles\\websites-dotnet-webjobs-sdk-storage-blobs-how-to.md",
@@ -26,9 +22,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2207794Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\5d1a3214d344a9c71927d68236ec6da3f1b9e317.81b557413eed23073139838d9a5ff17762d5cda9.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\5d1a3214d344a9c71927d68236ec6da3f1b9e317.81b557413eed23073139838d9a5ff17762d5cda9.xml"
     },
     "articles\\web-sites-java-add-app.md.d6c6e695f90c7caaa07c2d6a594aee7fedbc8b35.HT": {
       "SourceFilename": "articles\\web-sites-java-add-app.md",
@@ -36,9 +30,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.6739261Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\638380646c6326c33cbbba5f9bb8c41ed715684f.576b1925b0ee724ec8d6fbba8b5831d35e2c4a01.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\638380646c6326c33cbbba5f9bb8c41ed715684f.576b1925b0ee724ec8d6fbba8b5831d35e2c4a01.xml"
     },
     "articles\\web-sites-create-web-jobs.md.fea5d411983837c4fbcdec697753b1384c1e1bc8.HT": {
       "SourceFilename": "articles\\web-sites-create-web-jobs.md",
@@ -46,9 +38,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.8145364Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a4d7c73c752adb11f11f5f4318fb40b7bba61208.2462e71c80f6d7f0ca10e6816bf4e36169e37d41.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a4d7c73c752adb11f11f5f4318fb40b7bba61208.2462e71c80f6d7f0ca10e6816bf4e36169e37d41.xml"
     },
     "articles\\web-sites-php-enterprise-wordpress.md.587a3efa4b538bec434f3accab7796a477bf3fbe.HT": {
       "SourceFilename": "articles\\web-sites-php-enterprise-wordpress.md",
@@ -56,9 +46,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2364016Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\d8befbc278df86666955cd23606ca5feb8b49836.9e577e9f48b498f106befdb2dc3c256eec1ddecd.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\d8befbc278df86666955cd23606ca5feb8b49836.9e577e9f48b498f106befdb2dc3c256eec1ddecd.xml"
     },
     "articles\\mobile-services-javascript-backend-windows-universal-dotnet-upload-data-blob-storage.md.d1e92857a7a98a8d37d8513527867b12afa33059.HT": {
       "SourceFilename": "articles\\mobile-services-javascript-backend-windows-universal-dotnet-upload-data-blob-storage.md",
@@ -66,9 +54,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.6114082Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\be59e2ab922d722d2c9009c74f592e6950cecf39.515ddb2923b7d3205b97b87f7ac486b9ee3b7f81.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\be59e2ab922d722d2c9009c74f592e6950cecf39.515ddb2923b7d3205b97b87f7ac486b9ee3b7f81.xml"
     },
     "articles\\web-sites-manage-azure-website.md.f0888651925e474d318bb62f0d542c7872f15dd9.HT": {
       "SourceFilename": "articles\\web-sites-manage-azure-website.md",
@@ -76,9 +62,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.6739261Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\9cc96eb8699a79ee2128e3df72504ca58776daf3.c969ff8f8cc2c56f83252a857c7be7c994bf1305.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\9cc96eb8699a79ee2128e3df72504ca58776daf3.c969ff8f8cc2c56f83252a857c7be7c994bf1305.xml"
     },
     "articles\\web-sites-php-mysql-deploy-use-ftp.md.6d0768524146f3ecf25b75b8ebd1d64b8a358d73.HT": {
       "SourceFilename": "articles\\web-sites-php-mysql-deploy-use-ftp.md",
@@ -86,9 +70,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7989081Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\ff581abd6c87514a84764f37132786313b678f3d.86439b029be803d624a38bffd15e794077d95aa1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\ff581abd6c87514a84764f37132786313b678f3d.86439b029be803d624a38bffd15e794077d95aa1.xml"
     },
     "articles\\web-sites-nodejs-chat-app-socketio.md.1b6a132b926a2992581f42873cd25bf9b64bc425.HT": {
       "SourceFilename": "articles\\web-sites-nodejs-chat-app-socketio.md",
@@ -96,9 +78,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7989081Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\9f4658fdada2601813482b79189bbb3086eb10bc.a03a775cb5b66bf56187f4950b135f3dc5472ee0.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\9f4658fdada2601813482b79189bbb3086eb10bc.a03a775cb5b66bf56187f4950b135f3dc5472ee0.xml"
     },
     "includes\\mobile-services-enable-Google-cloud-messaging.md.f6cf6dcb56e72d7993570416985381971233bcc3.HT": {
       "SourceFilename": "includes\\mobile-services-enable-Google-cloud-messaging.md",
@@ -106,9 +86,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8614008Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\841a9628d36d1a6a07030bf23b4783e774af204a.4f701ed2f80505440091aecd493c5bdb9e6b90d5.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\841a9628d36d1a6a07030bf23b4783e774af204a.4f701ed2f80505440091aecd493c5bdb9e6b90d5.xml"
     },
     "articles\\web-sites-monitor.md.5fbef354080349371541d38ad6856cea645bef31.HT": {
       "SourceFilename": "articles\\web-sites-monitor.md",
@@ -116,9 +94,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7989081Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\4671e734c9d60da24fe6ab7bedc4f0a3e5c7458d.6b01110a2ba30e98acf473336e5f248fdf03bebd.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\4671e734c9d60da24fe6ab7bedc4f0a3e5c7458d.6b01110a2ba30e98acf473336e5f248fdf03bebd.xml"
     },
     "articles\\web-sites-backup.md.011b151e97544c9b22b42beb6efafa301d05431f.HT": {
       "SourceFilename": "articles\\web-sites-backup.md",
@@ -126,9 +102,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.8145364Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\dab33e2f4d69a6497b99e293bdd66a065c52774f.0cdbdeb0ebd375b368233575286c52d6fa8b6f35.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\dab33e2f4d69a6497b99e293bdd66a065c52774f.0cdbdeb0ebd375b368233575286c52d6fa8b6f35.xml"
     },
     "articles\\active-directory-aadconnectsync-understanding-declarative-provisioning-expressions.md.3bf20fce23980fa8385b40ae099c7810cedc232b.HT": {
       "SourceFilename": "articles\\active-directory-aadconnectsync-understanding-declarative-provisioning-expressions.md",
@@ -136,9 +110,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.1739034Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\219803f1dab7811b6417bda54777161013b5b41d.5c8032e85a4388dbb132cb8928d8a1e4b437c9e2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\219803f1dab7811b6417bda54777161013b5b41d.5c8032e85a4388dbb132cb8928d8a1e4b437c9e2.xml"
     },
     "articles\\web-sites-deploy.md.6aabfd71147600cebc5ed347de39158f3bde71ec.HT": {
       "SourceFilename": "articles\\web-sites-deploy.md",
@@ -146,9 +118,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8926533Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\e73d0a94903649ec7ddf1ba636ec36e198507ba3.27df4bebd12634d0afe37eada045ba3e8df8486b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\e73d0a94903649ec7ddf1ba636ec36e198507ba3.27df4bebd12634d0afe37eada045ba3e8df8486b.xml"
     },
     "includes\\web-sites-python-customizing-deployment.md.213212754ec8e9820eb0a6f74a5648dd41f2648f.HT": {
       "SourceFilename": "includes\\web-sites-python-customizing-deployment.md",
@@ -156,9 +126,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.6739261Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\31bb0db1711c4d0abb2c0ae2f813577b953cf7f4.161c3d5492b540bfa916ff7ce49873dc6d50149c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\31bb0db1711c4d0abb2c0ae2f813577b953cf7f4.161c3d5492b540bfa916ff7ce49873dc6d50149c.xml"
     },
     "articles\\web-sites-python-ptvs-django-mysql.md.46ec7d7e79b886aef276077399af9bd9d79bc1b6.HT": {
       "SourceFilename": "articles\\web-sites-python-ptvs-django-mysql.md",
@@ -166,9 +134,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2207794Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\22804d6492af3d835be62b4bab236b98a4156aab.a60ef629fc673eb731b6b835070d1ad75602a58b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\22804d6492af3d835be62b4bab236b98a4156aab.a60ef629fc673eb731b6b835070d1ad75602a58b.xml"
     },
     "articles\\web-sites-php-convert-wordpress-multisite.md.328a89d0259209e9a07e5ec1857c86b43ca61e72.HT": {
       "SourceFilename": "articles\\web-sites-php-convert-wordpress-multisite.md",
@@ -176,9 +142,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2364016Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a095e13531ef597748fec36d9bbfb55b1f9eeaba.2b963ef749bb0f36b47da80d4c4b0f01a094a082.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a095e13531ef597748fec36d9bbfb55b1f9eeaba.2b963ef749bb0f36b47da80d4c4b0f01a094a082.xml"
     },
     "includes\\web-sites-python-troubleshooting-virtual-environment.md.6b4e9e990870cb5178a0b7ab3196c32936d43da6.HT": {
       "SourceFilename": "includes\\web-sites-python-troubleshooting-virtual-environment.md",
@@ -186,9 +150,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7364067Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\98cca431aea658bf6a413dc48e59fc8caad2ae5e.ebd801667a7f53aaaf00e6531f2e4dfde03c5e2b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\98cca431aea658bf6a413dc48e59fc8caad2ae5e.ebd801667a7f53aaaf00e6531f2e4dfde03c5e2b.xml"
     },
     "articles\\web-sites-dotnet-store-data-mongodb-vm.md.aff1af09a24d907d2bc81479b03c0e63462a9ac3.HT": {
       "SourceFilename": "articles\\web-sites-dotnet-store-data-mongodb-vm.md",
@@ -196,9 +158,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.8145364Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\52e38be5654b65a430ccf73dc9abd916c290e5c4.b3f3d12db2ab980d4d288f7a57c84fa2509f27ce.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\52e38be5654b65a430ccf73dc9abd916c290e5c4.b3f3d12db2ab980d4d288f7a57c84fa2509f27ce.xml"
     },
     "articles\\web-sites-publish-source-control.md.5b1603027eb799f24271267c3a094b33603e428a.HT": {
       "SourceFilename": "articles\\web-sites-publish-source-control.md",
@@ -206,9 +166,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.6739261Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\f3a1503d0b6627eebb52dec978abd0caa98703f6.1353eb3afb3bdf8e4b7395d045188978ae6e051d.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\f3a1503d0b6627eebb52dec978abd0caa98703f6.1353eb3afb3bdf8e4b7395d045188978ae6e051d.xml"
     },
     "articles\\websites-dotnet-deploy-webjobs.md.276731c9c3107de880eacf8990ea50e7bb4dee93.HT": {
       "SourceFilename": "articles\\websites-dotnet-deploy-webjobs.md",
@@ -216,9 +174,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7832829Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\3039a796940768490b7cce9ce60fb39c45ed706f.94de18b1eaf1f709d585315ea815303d8edf0ae6.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\3039a796940768490b7cce9ce60fb39c45ed706f.94de18b1eaf1f709d585315ea815303d8edf0ae6.xml"
     },
     "articles\\web-sites-php-mysql-deploy-use-git.md.73f73685989aff28ad34c149d41b610200732cd2.HT": {
       "SourceFilename": "articles\\web-sites-php-mysql-deploy-use-git.md",
@@ -226,9 +182,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7989081Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\2360f15a0d8c92bcf751e78fa98df053383dcb92.d655d996f35ade42ebfafde82816122b944c8b60.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\2360f15a0d8c92bcf751e78fa98df053383dcb92.d655d996f35ade42ebfafde82816122b944c8b60.xml"
     },
     "includes\\virtual-machines-create-WindowsVM.md.2b0a595487d93e9a8f64cfa4534cd29ceb6ac4a3.HT": {
       "SourceFilename": "includes\\virtual-machines-create-WindowsVM.md",
@@ -236,9 +190,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7520326Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\71f3f439d4851235786a9da8f486fad9baaba7ee.295a5b80b157aa470cf6b59ee1b98399f19eab38.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\71f3f439d4851235786a9da8f486fad9baaba7ee.295a5b80b157aa470cf6b59ee1b98399f19eab38.xml"
     },
     "articles\\web-sites-python-ptvs-bottle-table-storage.md.320d664829aa10cd0b6feb1f875a7d1603a47ff5.HT": {
       "SourceFilename": "articles\\web-sites-python-ptvs-bottle-table-storage.md",
@@ -246,9 +198,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8926533Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a7850d2371bff04275a59fbc1c9cdb18f3d06719.7ab6b5900740eed43cb078bd5b78692184e97215.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a7850d2371bff04275a59fbc1c9cdb18f3d06719.7ab6b5900740eed43cb078bd5b78692184e97215.xml"
     },
     "articles\\virtual-networks-specifying-a-dns-settings-in-a-virtual-network-configuration-file.md.64f8b700ca5cccb6c86c059f8f0b591798137a4f.HT": {
       "SourceFilename": "articles\\virtual-networks-specifying-a-dns-settings-in-a-virtual-network-configuration-file.md",
@@ -256,9 +206,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.5332798Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\cbe71c9b931c13214e4edbf6223dd453504a6f5b.7947191489e46c2003427a2ecb66c5d3dd034e7f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\cbe71c9b931c13214e4edbf6223dd453504a6f5b.7947191489e46c2003427a2ecb66c5d3dd034e7f.xml"
     },
     "articles\\web-sites-java-custom-upload.md.149cd9f0f2ddd91cb01fbe011a8659d9e41dae82.HT": {
       "SourceFilename": "articles\\web-sites-java-custom-upload.md",
@@ -266,9 +214,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7989081Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\67834fd7e1e48f031d4d395f83b898d1064c894b.b7ebb0fed2d863977dfce2473dbd67618bdd4c9a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\67834fd7e1e48f031d4d395f83b898d1064c894b.b7ebb0fed2d863977dfce2473dbd67618bdd4c9a.xml"
     },
     "articles\\web-sites-dotnet-troubleshoot-visual-studio.md.f22436ae396a28a50b8d63058ab5359c4211ede3.HT": {
       "SourceFilename": "articles\\web-sites-dotnet-troubleshoot-visual-studio.md",
@@ -276,9 +222,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.8145364Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\366a9b7140573efbe68a4af18d2fa8ca7580c0ee.a328a684e5c8b177b4b561d6c69d3e38c2c67306.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\366a9b7140573efbe68a4af18d2fa8ca7580c0ee.a328a684e5c8b177b4b561d6c69d3e38c2c67306.xml"
     },
     "articles\\mobile-services-javascript-backend-windows-store-dotnet-push-notifications-app-users.md.4847820fba16e4fbd444e7644301cbd5abb0a7b6.HT": {
       "SourceFilename": "articles\\mobile-services-javascript-backend-windows-store-dotnet-push-notifications-app-users.md",
@@ -286,9 +230,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.5020295Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\e1e8f62e4362df388d9c840c7bb799439c77d692.5f7b3848d7b0e2fa1f4a4bbaa38a949a1b4a4d63.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\e1e8f62e4362df388d9c840c7bb799439c77d692.5f7b3848d7b0e2fa1f4a4bbaa38a949a1b4a4d63.xml"
     },
     "articles\\web-sites-dotnet-rest-service-aspnet-api-sql-database.md.def48f51bacc0cb219c2c9e3cd803885db1a32ed.HT": {
       "SourceFilename": "articles\\web-sites-dotnet-rest-service-aspnet-api-sql-database.md",
@@ -296,9 +238,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.8145364Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\bc142c1d3c8c4272491ea5e24ca3fc1e02dd65b9.939529c9a04fca51fa5812d1f0475dcef548c424.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\bc142c1d3c8c4272491ea5e24ca3fc1e02dd65b9.939529c9a04fca51fa5812d1f0475dcef548c424.xml"
     },
     "includes\\web-sites-python-troubleshooting-package-installation.md.f50b86c558f1c853f608da3caf1167f10178ea51.HT": {
       "SourceFilename": "includes\\web-sites-python-troubleshooting-package-installation.md",
@@ -306,9 +246,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7364067Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\3e1a4fc003e2922735edbd8def032479b4a44ec3.33cb9c9ddce8cbc97c6c147cf13bf2bec3825d9d.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\3e1a4fc003e2922735edbd8def032479b4a44ec3.33cb9c9ddce8cbc97c6c147cf13bf2bec3825d9d.xml"
     },
     "includes\\web-sites-python-troubleshooting-deployment.md.ced22362d881e492b0a329fdd0e0dc9d66d5ef73.HT": {
       "SourceFilename": "includes\\web-sites-python-troubleshooting-deployment.md",
@@ -316,9 +254,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8301507Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\2c08b54eba79a37fa25aa64dd8bfdec05de32d83.b5d0767cd238d614b56edb341b65e31e3d30cc9b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\2c08b54eba79a37fa25aa64dd8bfdec05de32d83.b5d0767cd238d614b56edb341b65e31e3d30cc9b.xml"
     },
     "articles\\web-sites-custom-domain-name.md.62eaee9c63d6231567956e0468873e1aaefbf794.HT": {
       "SourceFilename": "articles\\web-sites-custom-domain-name.md",
@@ -326,9 +262,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8926533Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\088200884972ebec60c88fa57664e1e5eace3d8a.5fa995105a17ad436b337318bc68caab2f2ee88f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\088200884972ebec60c88fa57664e1e5eace3d8a.5fa995105a17ad436b337318bc68caab2f2ee88f.xml"
     },
     "articles\\web-sites-dotnet-lob-application-azure-ad.md.4ee774192bc4abf1c7568547fd6a7495379301bc.HT": {
       "SourceFilename": "articles\\web-sites-dotnet-lob-application-azure-ad.md",
@@ -336,9 +270,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2364016Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\f73a4e18addab894143cc919e54016306f8a837e.c1d22b2e3da54b6908aa808321b0b191d817597e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\f73a4e18addab894143cc919e54016306f8a837e.c1d22b2e3da54b6908aa808321b0b191d817597e.xml"
     },
     "articles\\websites-dotnet-webjobs-sdk-get-started.md.33be3a73215fef20d61805a6c1fada97b2b56939.HT": {
       "SourceFilename": "articles\\websites-dotnet-webjobs-sdk-get-started.md",
@@ -346,9 +278,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7832829Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\01e2f64eb5c2c84cd98fff369a73b15f875f541c.bdc02e1e24b8e8ac28d90787deed031c7b8b5a44.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\01e2f64eb5c2c84cd98fff369a73b15f875f541c.bdc02e1e24b8e8ac28d90787deed031c7b8b5a44.xml"
     },
     "articles\\web-sites-enable-diagnostic-log.md.8232a1ae2fd39897dbe68ac1c88d587bc35238af.HT": {
       "SourceFilename": "articles\\web-sites-enable-diagnostic-log.md",
@@ -356,9 +286,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2364016Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\5d69839979f252c3ce19e031035338b14da1ac18.b5725f182b037bf728c53ded8725d0e4290dbdad.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\5d69839979f252c3ce19e031035338b14da1ac18.b5725f182b037bf728c53ded8725d0e4290dbdad.xml"
     },
     "articles\\web-sites-dotnet-lob-application-adfs.md.fd418d2a384c25b00a81f2100df5bfec4d4d1b0d.HT": {
       "SourceFilename": "articles\\web-sites-dotnet-lob-application-adfs.md",
@@ -366,9 +294,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8926533Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\41e4071b36f40e06614001b580f02aef91dff892.8dff8c1b337b242d9415798a6b7307fd8e34634c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\41e4071b36f40e06614001b580f02aef91dff892.8dff8c1b337b242d9415798a6b7307fd8e34634c.xml"
     },
     "articles\\web-sites-configure.md.7f15a7ad5205b10af2e54e66648aa5e6437320d4.HT": {
       "SourceFilename": "articles\\web-sites-configure.md",
@@ -376,9 +302,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.9082768Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\4938b369357a3fca0782cf331e083b7d3b824054.63965582f74a381b8a542a5ddc981a04b6770f10.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\4938b369357a3fca0782cf331e083b7d3b824054.63965582f74a381b8a542a5ddc981a04b6770f10.xml"
     },
     "includes\\websites-cloud-services-css-guided-walkthrough.md.62ff6053fdf4865231a458ac3f7f7e603d12640a.HT": {
       "SourceFilename": "includes\\websites-cloud-services-css-guided-walkthrough.md",
@@ -386,9 +310,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8301507Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\d796f2b25ed2385f3e8fb0eb8471bb8a9aa14e01.b134496b74fcfda5484bb4d448db3278cda3a918.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\d796f2b25ed2385f3e8fb0eb8471bb8a9aa14e01.b134496b74fcfda5484bb4d448db3278cda3a918.xml"
     },
     "articles\\web-sites-available-operating-system-functionality.md.cf17b0b9c7b7170bcebf385971e0122f1e4ebcd6.HT": {
       "SourceFilename": "articles\\web-sites-available-operating-system-functionality.md",
@@ -396,9 +318,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2364016Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\eae7a770535fb40687487acf703a492253b00724.c491f93f6eee1aad7c3a0a920079cbaf6d991500.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\eae7a770535fb40687487acf703a492253b00724.c491f93f6eee1aad7c3a0a920079cbaf6d991500.xml"
     },
     "articles\\web-sites-nodejs-develop-deploy-mac.md.6e9b5c9d0959791b967da62434b926bed9289037.HT": {
       "SourceFilename": "articles\\web-sites-nodejs-develop-deploy-mac.md",
@@ -406,9 +326,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7989081Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\32e18a8271f8a8b2928ed4d653db0aae26fb0e32.8f0cf662138ebaad152dcd6fe90127628f99bb83.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\32e18a8271f8a8b2928ed4d653db0aae26fb0e32.8f0cf662138ebaad152dcd6fe90127628f99bb83.xml"
     },
     "articles\\web-sites-python-ptvs-flask-table-storage.md.061bc14963a16567898069f1ed045e6fedde95f3.HT": {
       "SourceFilename": "articles\\web-sites-python-ptvs-flask-table-storage.md",
@@ -416,9 +334,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8926533Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\9874a6d862d46ce324586ecf0669f660ab3520e4.6f858c991e6ddc1d37a00c2b4ccf3e82b588db4d.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\9874a6d862d46ce324586ecf0669f660ab3520e4.6f858c991e6ddc1d37a00c2b4ccf3e82b588db4d.xml"
     },
     "articles\\web-sites-dotnet-deploy-aspnet-mvc-mobile-app.md.1597977f8da2acdd9606c63837df0e3390321dbe.HT": {
       "SourceFilename": "articles\\web-sites-dotnet-deploy-aspnet-mvc-mobile-app.md",
@@ -426,9 +342,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8926533Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\fae75e2e488256e4dd1680ac558bc7367f927ed8.d2eac7dba874ebddf8ec7797c391c4c047e79c5b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\fae75e2e488256e4dd1680ac558bc7367f927ed8.d2eac7dba874ebddf8ec7797c391c4c047e79c5b.xml"
     },
     "articles\\web-sites-authentication-authorization.md.c7e1fba272242ebef42335f9638aa27f0f4d7696.HT": {
       "SourceFilename": "articles\\web-sites-authentication-authorization.md",
@@ -436,9 +350,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.5020295Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\c9a7cb52a6ae1127ffc4377f7fe0f8a9ce74a975.77c146eb5c122aab5ba2e52aa2e9b76975a6d053.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\c9a7cb52a6ae1127ffc4377f7fe0f8a9ce74a975.77c146eb5c122aab5ba2e52aa2e9b76975a6d053.xml"
     },
     "includes\\white-papers.md.adb95486b7da134c4d96b3ff196ad0081532ba45.HT": {
       "SourceFilename": "includes\\white-papers.md",
@@ -446,9 +358,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8301507Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\afa186a20a0293908435b4b078750ce401e2d07b.8c614a0db55a6207951caab1f1d2b605349c388e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\afa186a20a0293908435b4b078750ce401e2d07b.8c614a0db55a6207951caab1f1d2b605349c388e.xml"
     },
     "articles\\virtual-machines-creating-oracle-webLogic-server-12c-oracle-database-12c-virtual-machine.md.5eded024b9628e9917f0ba93da54654762e89400.HT": {
       "SourceFilename": "articles\\virtual-machines-creating-oracle-webLogic-server-12c-oracle-database-12c-virtual-machine.md",
@@ -456,9 +366,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.6895336Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\20d6f7ee4517b8be2faa0f3c3ab3838d82451694.3ccaceabc2bb2e1ccea33620ab3d4e825f2887cf.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\20d6f7ee4517b8be2faa0f3c3ab3838d82451694.3ccaceabc2bb2e1ccea33620ab3d4e825f2887cf.xml"
     },
     "includes\\websites-custom-domain-selector.md.948b880b9736de0ffcda267078324e5e39b7cab1.HT": {
       "SourceFilename": "includes\\websites-custom-domain-selector.md",
@@ -466,9 +374,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.595779Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\1803379cd8cde3d0d6da3c97acd970585c947369.3461fd04fa225e68fcae66b09e82e552fcba6532.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\1803379cd8cde3d0d6da3c97acd970585c947369.3461fd04fa225e68fcae66b09e82e552fcba6532.xml"
     },
     "articles\\web-sites-global-web-presence-solution-overview.md.3370693bfca296131d4ca880d954f433279cab9d.HT": {
       "SourceFilename": "articles\\web-sites-global-web-presence-solution-overview.md",
@@ -476,9 +382,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7989081Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\98be0335bcdcb401dc6642419f54f4cf6d849ab6.2764aa25245f6b2f91cd971ef1ef592075eb7e65.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\98be0335bcdcb401dc6642419f54f4cf6d849ab6.2764aa25245f6b2f91cd971ef1ef592075eb7e65.xml"
     },
     "articles\\web-sites-staged-publishing.md.bac338e33c30921ec1103c20492842571ba8752a.HT": {
       "SourceFilename": "articles\\web-sites-staged-publishing.md",
@@ -486,9 +390,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7832829Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\eb7376ce453961c5941cb066028dc9feebbd9b93.e2ce65296f7d8091620c024492613736de1c3b36.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\eb7376ce453961c5941cb066028dc9feebbd9b93.e2ce65296f7d8091620c024492613736de1c3b36.xml"
     },
     "articles\\web-sites-business-application-solution-overview.md.2def38accd699fa2db9d755aaed66d27b988eb1a.HT": {
       "SourceFilename": "articles\\web-sites-business-application-solution-overview.md",
@@ -496,9 +398,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.9082768Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\ed99c8a0474e9a956fa0359a3c7deccbdbe85ca4.039b330fecead505abd35e66b4a6afcdbd6492ac.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\ed99c8a0474e9a956fa0359a3c7deccbdbe85ca4.039b330fecead505abd35e66b4a6afcdbd6492ac.xml"
     },
     "develop\\php\\websites.md.8a3154b90c8ca7f2bbadf8791c5565ada55614fb.HT": {
       "SourceFilename": "develop\\php\\websites.md",
@@ -506,9 +406,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.595779Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\9f6e94679e24bdc0f0fcaeb6906c6bf7da750ffb.b855eba63258eef7cd8b1842730d70b6b2e895f9.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\9f6e94679e24bdc0f0fcaeb6906c6bf7da750ffb.b855eba63258eef7cd8b1842730d70b6b2e895f9.xml"
     },
     "articles\\web-sites-python-create-deploy-django-app.md.c342877d6b091c8d970a41ab4f105afeb642e376.HT": {
       "SourceFilename": "articles\\web-sites-python-create-deploy-django-app.md",
@@ -516,9 +414,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2207794Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\fdd98d5c0cb3502008fb9039ee5f65bbf67a5c1f.1c911356d5f6344ec170c8d33b3b97a5a1f54662.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\fdd98d5c0cb3502008fb9039ee5f65bbf67a5c1f.1c911356d5f6344ec170c8d33b3b97a5a1f54662.xml"
     },
     "articles\\web-sites-python-create-deploy-flask-app.md.38974289d4d60c2db344232b5425c2c77561ea6d.HT": {
       "SourceFilename": "articles\\web-sites-python-create-deploy-flask-app.md",
@@ -526,9 +422,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8926533Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a61cf3874d2bcbbfc72922bd779d111ad9b512a6.002b30d424fc7920ca620b858577ff3e075bd434.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a61cf3874d2bcbbfc72922bd779d111ad9b512a6.002b30d424fc7920ca620b858577ff3e075bd434.xml"
     },
     "articles\\web-sites-create-web-app-using-vscode.md.970c69fd74a56ab935df3fd3ed7aa815703cc714.HT": {
       "SourceFilename": "articles\\web-sites-create-web-app-using-vscode.md",
@@ -536,9 +430,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.8145364Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\3f0be2d04659954e950f5db4c3ead96f8ab16c44.3c39bf924178da4ea7c72d3811dfb1eaf686b22f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\3f0be2d04659954e950f5db4c3ead96f8ab16c44.3c39bf924178da4ea7c72d3811dfb1eaf686b22f.xml"
     },
     "articles\\websites-webjobs-resources.md.0f3a273f06ed8fb18e7fa64bd4ef2fd115c6bea0.HT": {
       "SourceFilename": "articles\\websites-webjobs-resources.md",
@@ -546,9 +438,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7832829Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\67bd5116f00c57d6ef6a69e053cdc81e931fca36.f5f5c9aeb36c4b18cbe3fd2541bf98cd3162b662.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\67bd5116f00c57d6ef6a69e053cdc81e931fca36.f5f5c9aeb36c4b18cbe3fd2541bf98cd3162b662.xml"
     },
     "articles\\web-sites-python-ptvs-django-sql.md.7500d9b41545241f35210f0a3d235f554e174163.HT": {
       "SourceFilename": "articles\\web-sites-python-ptvs-django-sql.md",
@@ -556,9 +446,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2207794Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\6ebc219da3d1437c962a1e8100a75493e398c531.ee3e7dcbcf9d9b03652dd91dd4ffdba2aa414869.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\6ebc219da3d1437c962a1e8100a75493e398c531.ee3e7dcbcf9d9b03652dd91dd4ffdba2aa414869.xml"
     },
     "articles\\web-sites-restore.md.af8ddde0e0bae3e15131ba1e0b8f852672200918.HT": {
       "SourceFilename": "articles\\web-sites-restore.md",
@@ -566,9 +454,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8770267Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\9c5eee86d3dfdda7aded8c4f3f093823e7d9bc92.f56ce75496b72512d422e78e417e77148e142e45.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\9c5eee86d3dfdda7aded8c4f3f093823e7d9bc92.f56ce75496b72512d422e78e417e77148e142e45.xml"
     },
     "articles\\websites-dotnet-webjobs-sdk-service-bus.md.5f137bc520db92d84bc31635db71f36420554ac1.HT": {
       "SourceFilename": "articles\\websites-dotnet-webjobs-sdk-service-bus.md",
@@ -576,9 +462,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2207794Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\93332b88458c2b5a4b3cb080525e421f996e893c.74b4273fc707b7e631bf2c516882d2e1fb29bcfc.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\93332b88458c2b5a4b3cb080525e421f996e893c.74b4273fc707b7e631bf2c516882d2e1fb29bcfc.xml"
     },
     "articles\\websites-csm-backup.md.d7b200e88d90f5fa5e6d5710a2f690a1034a3aee.HT": {
       "SourceFilename": "articles\\websites-csm-backup.md",
@@ -586,9 +470,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2207794Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\c771cbf5b837b9759e32d532943e9790fdc28278.0dd37afdde24b400ed262cc32e26ab9e38ea11a6.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\c771cbf5b837b9759e32d532943e9790fdc28278.0dd37afdde24b400ed262cc32e26ab9e38ea11a6.xml"
     },
     "articles\\web-sites-nodejs-iojs.md.55809d4e2763be3a98ea2176af990d55b0e192e2.HT": {
       "SourceFilename": "articles\\web-sites-nodejs-iojs.md",
@@ -596,9 +478,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7207813Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\4de32f7bc66a85ddc9aa0e768f606c1c00dc33e9.4e0b51d89e89fe6663f94c3928f6ec12afcb7316.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\4de32f7bc66a85ddc9aa0e768f606c1c00dc33e9.4e0b51d89e89fe6663f94c3928f6ec12afcb7316.xml"
     },
     "includes\\virtual-machines-create-LinuxVM.md.12b13ddeb20b7df0cb1b81864726ba665a491791.HT": {
       "SourceFilename": "includes\\virtual-machines-create-LinuxVM.md",
@@ -606,9 +486,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7520326Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\c1d993877750e5a86e61af8e6031dd9f1f6cf29a.88b02a38ba50d0a5479ed08177e04caca63b3914.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\c1d993877750e5a86e61af8e6031dd9f1f6cf29a.88b02a38ba50d0a5479ed08177e04caca63b3914.xml"
     },
     "articles\\web-sites-configure-ssl-certificate.md.57f4b6515e01064c454d7ac7a4c8ec6f942d4083.HT": {
       "SourceFilename": "articles\\web-sites-configure-ssl-certificate.md",
@@ -616,9 +494,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.6739261Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\4d928a5d4ddbd8c4ed1f512935cc82f02ee1ee9c.520c0d35ec8b6c019596c6ece3919ddb8beade95.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\4d928a5d4ddbd8c4ed1f512935cc82f02ee1ee9c.520c0d35ec8b6c019596c6ece3919ddb8beade95.xml"
     },
     "articles\\web-sites-java-get-started.md.6f57e3622ec00c7cd106de97bd7205a98f64423d.HT": {
       "SourceFilename": "articles\\web-sites-java-get-started.md",
@@ -626,9 +502,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7207813Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\67abccea60ecf3f16e870009887fbfe3e12267a0.35d1f9e2162725ca7b044f8a09c8ff815c481176.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\67abccea60ecf3f16e870009887fbfe3e12267a0.35d1f9e2162725ca7b044f8a09c8ff815c481176.xml"
     },
     "articles\\virtual-machines-sql-server-configure-public-alwayson-availability-group-listener.md.be80af30ca81b3cca2d1b903a2b69bf13acaf398.HT": {
       "SourceFilename": "articles\\virtual-machines-sql-server-configure-public-alwayson-availability-group-listener.md",
@@ -636,9 +510,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.5645327Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\78d9a7c0a1760cb1ec886ca4a17f61edf9fea2b1.5fa600d12c609c9cc9150f6a62d460e2b61b7256.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\78d9a7c0a1760cb1ec886ca4a17f61edf9fea2b1.5fa600d12c609c9cc9150f6a62d460e2b61b7256.xml"
     },
     "includes\\web-sites-python-customizing-runtime.md.216f89b704c489d62db61e1be9acc8c2d34a7db6.HT": {
       "SourceFilename": "includes\\web-sites-python-customizing-runtime.md",
@@ -646,9 +518,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.705155Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\7b4f152aba1c4279068249c2384aa4e5a62de205.eeca2304633d90fecee4f12909410801736a2639.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\7b4f152aba1c4279068249c2384aa4e5a62de205.eeca2304633d90fecee4f12909410801736a2639.xml"
     },
     "articles\\web-sites-nodejs-use-webmatrix.md.9d1c819556bc82b7f2dececc9f7baf6b9762311b.HT": {
       "SourceFilename": "articles\\web-sites-nodejs-use-webmatrix.md",
@@ -656,9 +526,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.5020295Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\cdc6aecdbd8331f111ef8e4ac2091e12d91bd14c.54cf87e74fc2ae64c4ea5646877539c88dc5f0e6.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\cdc6aecdbd8331f111ef8e4ac2091e12d91bd14c.54cf87e74fc2ae64c4ea5646877539c88dc5f0e6.xml"
     },
     "includes\\mobile-services-add-Google-play-services.md.183eb8efd3b6ad224e135928dd2218b18ccc1d22.HT": {
       "SourceFilename": "includes\\mobile-services-add-Google-play-services.md",
@@ -666,9 +534,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8614008Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\ce174eab77bc6912bb94f74965bc362817f83d87.9df1408c0e3de019627d00ab5113b8df247a0b7a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\ce174eab77bc6912bb94f74965bc362817f83d87.9df1408c0e3de019627d00ab5113b8df247a0b7a.xml"
     },
     "articles\\websites-dotnet-webjobs-sdk-storage-queues-how-to.md.49bd8d63e4253b3e58fe62f62338052629f7aeb2.HT": {
       "SourceFilename": "articles\\websites-dotnet-webjobs-sdk-storage-queues-how-to.md",
@@ -676,9 +542,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7832829Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\ef6ae4f2f144700d17412746bbf9e737b80c0a2f.6d53237c4aaef580d681d613e1b1a7591b8fb8c1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\ef6ae4f2f144700d17412746bbf9e737b80c0a2f.6d53237c4aaef580d681d613e1b1a7591b8fb8c1.xml"
     },
     "articles\\web-sites-security.md.9f7ed0b40b7d7d04602f67f332ad44dd8e3ef5d7.HT": {
       "SourceFilename": "articles\\web-sites-security.md",
@@ -686,9 +550,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7989081Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\b270243a852d26d0bb12db978ec2d2b6735f04a1.522baf2d4b8ce8813051c387d8091476110bb3d0.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\b270243a852d26d0bb12db978ec2d2b6735f04a1.522baf2d4b8ce8813051c387d8091476110bb3d0.xml"
     },
     "articles\\web-sites-python-configure.md.2b3f8524bf780ba61a5b3e7c1711034ae08bd737.HT": {
       "SourceFilename": "articles\\web-sites-python-configure.md",
@@ -696,9 +558,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.5645327Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\bd6985298362a8859cde0500e14398c667ad63e7.805f1f7da69db2e3bc64a3b735ea75d0098581c3.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\bd6985298362a8859cde0500e14398c667ad63e7.805f1f7da69db2e3bc64a3b735ea75d0098581c3.xml"
     },
     "articles\\web-sites-dotnet-entity-framework-row-level-security.md.6015a907ab298592fcfcb5c3e96bd63cae77fd5e.HT": {
       "SourceFilename": "articles\\web-sites-dotnet-entity-framework-row-level-security.md",
@@ -706,9 +566,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2364016Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\465ace0029b3fa41cc99993b71fd4808215f7915.52483db6a983e29fbb414b4d5f02caf18419b495.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\465ace0029b3fa41cc99993b71fd4808215f7915.52483db6a983e29fbb414b4d5f02caf18419b495.xml"
     },
     "articles\\web-sites-php-configure.md.8ee2d10d1a164bef14598290cef9e9afdb61d577.HT": {
       "SourceFilename": "articles\\web-sites-php-configure.md",
@@ -716,9 +574,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7989081Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\d7b2ffd8d08b464a00205e0583d6eb7bf8d20e99.8c7072ec1aa07d85d4ba3657d719eeb6399e38f9.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\d7b2ffd8d08b464a00205e0583d6eb7bf8d20e99.8c7072ec1aa07d85d4ba3657d719eeb6399e38f9.xml"
     },
     "articles\\websites-dotnet-webjobs-sdk-storage-tables-how-to.md.7e44ef58fbb6e819d9ef977094efb8168aae5567.HT": {
       "SourceFilename": "articles\\websites-dotnet-webjobs-sdk-storage-tables-how-to.md",
@@ -726,9 +582,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.705155Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\2ed7e194db873150f5f89195a6a6d3d6d1c83d91.32607b844df4050d5486f54e2368b26a052ac693.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\2ed7e194db873150f5f89195a6a6d3d6d1c83d91.32607b844df4050d5486f54e2368b26a052ac693.xml"
     },
     "articles\\web-sites-enterprise-offerings.md.fcf60902411741398f837525dc1d1e51a706d8e8.HT": {
       "SourceFilename": "articles\\web-sites-enterprise-offerings.md",
@@ -736,9 +590,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2364016Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\c3924c9c8fdaf78340d64d1ccb606ab59ad1e7a8.1dd6847bdcfb38dde8cecf4e06f205929556b524.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\c3924c9c8fdaf78340d64d1ccb606ab59ad1e7a8.1dd6847bdcfb38dde8cecf4e06f205929556b524.xml"
     },
     "articles\\web-sites-traffic-manager-custom-domain-name.md.cea6a4d3d8e4dc338bc555b2228caa24564398b6.HT": {
       "SourceFilename": "articles\\web-sites-traffic-manager-custom-domain-name.md",
@@ -746,9 +598,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.6270318Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\915834636f61e79d63ea1a11f80286f14fa3153e.9d4f9b91804ebf0c6d7149ae7c2c435db4a57ecb.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\915834636f61e79d63ea1a11f80286f14fa3153e.9d4f9b91804ebf0c6d7149ae7c2c435db4a57ecb.xml"
     },
     "articles\\web-sites-scale.md.6a8d1aaadf26a30e23a189164af8fb019f9a2e63.HT": {
       "SourceFilename": "articles\\web-sites-scale.md",
@@ -756,9 +606,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2207794Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\1a8fbc54b74e9708e577dc64f8998659d7ac6f06.ea8a8a7c3ddca1947adeb001ebe973b84b7a62bd.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\1a8fbc54b74e9708e577dc64f8998659d7ac6f06.ea8a8a7c3ddca1947adeb001ebe973b84b7a62bd.xml"
     },
     "articles\\web-sites-dotnet-get-started.md.e77069abd2cafe9a1770825c3d8f291817779f5c.HT": {
       "SourceFilename": "articles\\web-sites-dotnet-get-started.md",
@@ -766,9 +614,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8926533Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\529df31eddebe6f00f7b0c7890a7f2da2b0b76de.a2f847306bc2ef1deddc8c0648fe07954195ccc5.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\529df31eddebe6f00f7b0c7890a7f2da2b0b76de.a2f847306bc2ef1deddc8c0648fe07954195ccc5.xml"
     },
     "articles\\web-sites-connect-to-redis-using-memcache-protocol.md.4a04249d2d664584793b36dd0c637a36d7254b76.HT": {
       "SourceFilename": "articles\\web-sites-connect-to-redis-using-memcache-protocol.md",
@@ -776,9 +622,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:23.8926533Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\e796bf5dccedde1a7e80de4fec6c9289d46e81f6.e5e09c4c41ee899d5220f5480433a80228692568.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\e796bf5dccedde1a7e80de4fec6c9289d46e81f6.e5e09c4c41ee899d5220f5480433a80228692568.xml"
     },
     "articles\\web-sites-traffic-manager.md.95991e3d9b8549a8baa575d5fdac18f3822f1186.HT": {
       "SourceFilename": "articles\\web-sites-traffic-manager.md",
@@ -786,9 +630,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.4864045Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a83179fa427c28455af3fdf72ad503a4189ec203.b016960011955d2fedb75d9136bc6ff642f4369b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a83179fa427c28455af3fdf72ad503a4189ec203.b016960011955d2fedb75d9136bc6ff642f4369b.xml"
     },
     "articles\\web-sites-python-create-deploy-bottle-app.md.664682aa765a14938911924c46378785aaf0dc48.HT": {
       "SourceFilename": "articles\\web-sites-python-create-deploy-bottle-app.md",
@@ -796,9 +638,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7989081Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a5ca8a1e437b48ef65ab8d5a60ad517a2e27055a.6fe58d3a191d20bfd731e30947ddfab09ea3c2e7.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a5ca8a1e437b48ef65ab8d5a60ad517a2e27055a.6fe58d3a191d20bfd731e30947ddfab09ea3c2e7.xml"
     },
     "articles\\websites-dotnet-webjobs-sdk.md.8d09b9c7ad612b8921fc278c7404666d0f58e585.HT": {
       "SourceFilename": "articles\\websites-dotnet-webjobs-sdk.md",
@@ -806,9 +646,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.7832829Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a1618cb326624aae07978c5a103cc3b0fdeb2d86.4478f4155579ffb4adbba7822c69082d173e89c8.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\a1618cb326624aae07978c5a103cc3b0fdeb2d86.4478f4155579ffb4adbba7822c69082d173e89c8.xml"
     },
     "articles\\web-sites-php-sql-database-deploy-use-git.md.370efd46376649844be75323a7522be8edf73bf3.HT": {
       "SourceFilename": "articles\\web-sites-php-sql-database-deploy-use-git.md",
@@ -816,9 +654,7 @@
       "TranslationType": 1,
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T22:46:24.2364016Z",
-      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\e7e343a3a548aede7e8924178a9d65c67493f280.b4d5845f936fc17bca350fcbb504e88d01c413eb.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\azure-content-mooncake-enus-test\\master\\e7e343a3a548aede7e8924178a9d65c67493f280.b4d5845f936fc17bca350fcbb504e88d01c413eb.xml"
     }
   }
 }
